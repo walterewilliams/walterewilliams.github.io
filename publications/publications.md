@@ -1,8 +1,20 @@
-PUBLICATIONS
+---
+layout: page
+title: Walter E. Williams
+tags: [about, Jekyll, theme, responsive]
+modified: 2014-08-08T20:53:07.573882-04:00
+comments: true
+image:
+  feature: sample-image-2.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
 
-Books | Monographs | Journal Articles and Notes | Book Reviews | Miscellaneous Articles and Reports
+##PUBLICATIONS
 
-###Books
+####[Books](#books)&nbsp;&nbsp;&nbsp;&nbsp;[Monographs](#monographs)&nbsp;&nbsp;&nbsp;&nbsp;[Journal Articles and Notes](#journal)&nbsp;&nbsp;&nbsp;&nbsp;  [Book Reviews](#bookreviews)&nbsp;&nbsp;&nbsp;&nbsp;[Miscellaneous Articles and Reports](misc)&nbsp;&nbsp;&nbsp;&nbsp;[Interviews](#interviews)
+
+###<a name="books"></a>Books
 
 * The State Against Blacks, (New York: McGraw-Hill Book Company, 1982).
 * America: A Minority Viewpoint, (Stanford: Hoover Institution Press, 1982).
@@ -17,13 +29,13 @@ Books | Monographs | Journal Articles and Notes | Book Reviews | Miscellaneous A
 * American Contempt for Liberty (Stanford: Hoover Institution Press, 2015).
 Return to Top
 
-###Monographs
+###<a name="monographs"></a>Monographs
 
 * Youth and Minority Unemployment, commissioned by the U. S. Congress, Joint Economic Committee, 95th Congress, 1st Session (Washington, D. C.: Government Printing Office, July, 1977).
 * Youth and Minority Unemployment, (California: Hoover Institution Press, 1977). This is an unexpurgated version of the Joint Economic Committee report.
 Return to Top
 
-###Journal Articles and Notes
+###<a name="journal"></a>Journal Articles and Notes
 
 * "Political Decentralization," American Economic Review (May, 1971), pp. 465-67.
 * "Why the Poor Pay More: An Alternative Explanation," Social Science Quarterly (September, 1973), pp. 372-79.
@@ -63,7 +75,7 @@ Return to Top
 * "Discrimination: The Law vs. Morality," Cornell Journal of Law and Public Policy (Fall 2003) pp. 111-136. Also available at: http://law.bepress.com/cgi/viewcontent.cgi?article=1015&context=expresso
 Return to Top
 
-###Book Reviews
+###<a name="bookreviews"></a>Book Reviews
 
 * "The Unequal Elites," Policy Analysis (Summer, 1977), pp. 554-57.
 * "The Declining Significance of Race," and "Protest, Politics and Prosperity," reviewed in Public Interest (Fall, 1978), pp. 47-54.
@@ -97,7 +109,7 @@ Return to Top
 * "Minimum Wages," Regulation (Summer, 2009), pp. 62-63.
 Return to Top
 
-Miscellaneous Articles and Reports
+###<a name="misc"></a>Miscellaneous Articles and Reports
 
 * "Minority Education: Some Economic Questions," in U. S. Civil Rights Commission Hearing, Milliken v. Bradley: The Implications for Metropolitan Desegregation (Washington, D. C.: Government Printing Office, 1974), pp. 103-14.
 * "Racial Discrimination: An Alternative Perspective," in The Writer and the World: Essays by Sidney Hook Walter E. Williams, and A. Lawrence Chickering (Pepperdine University, May 1976), pp. 16-29.
@@ -186,7 +198,7 @@ Miscellaneous Articles and Reports
 * "Who's To Blame?," Freedom Watch, The American Spectator, (February 2010).
 
 
-###Interviews
+###<a name="interviews"></a>Interviews
 
 * Interview “Lower Minimum Wage for Teens?” U.S. News and World Report (December 15, 1980).
 * Interview “Why Reagan Presidency Could be Good for U.S. Blacks,” Human Events (January 31, 1981).
