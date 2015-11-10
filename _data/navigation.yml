@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Biography
+  url: /about/
+
+- title: Syndicated Columns
+  url: /posts/
+
+- title: Courses
+  url: /courses/
+
+- title: Theme Setup
+  url: /theme-setup/
+
+- title: Made Mistakes
+  url: http://mademistakes.com
