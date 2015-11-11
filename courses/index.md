@@ -22,7 +22,7 @@ tags: [courses, Jekyll, theme, responsive]
 <br>
 [Bibliography for Economics 811](bibliography.html)  
 <br>
-Questions for Economics 811  
+[Questions for Economics 811](811questions.html)  
 <br>
 [GMU Library Print Reserves](http://magik.gmu.edu/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=rbSearch)  
 <br>
