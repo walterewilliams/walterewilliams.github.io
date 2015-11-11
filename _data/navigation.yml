@@ -11,3 +11,18 @@
 
 - title: Courses
   url: /courses/
+
+- title: Quotations
+  url: /quotations/
+
+- title: Book Recommendations
+  url: /book-recommendations/
+
+- title: Recommended Websites
+  url: /recommended-websites/
+
+- title: Miscellaneous
+  url: /miscellaneous/
+
+- title: Archived Items
+  url: /archive-items/

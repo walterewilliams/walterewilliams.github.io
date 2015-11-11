@@ -1,28 +1,32 @@
 ---
 layout: page
 title: Dr. Williams' Teaching Page
+date: {{ date }}
+modified:
+tags: [courses, Jekyll, theme, responsive]
 ---
+
 ### Undergraduate Courses
 
 **Econ 306**  
 <br>
-Syllabus for Econ 306, Spring 2015  
+[Syllabus for Econ 306, Spring 2015](econ306spring2015.pdf)  
 <br>
-Final exam study questions
+[Final exam study questions](magnificence.html)  
     
 ### Graduate Courses
 
 **Econ 811**  
 <br>
-Syllabus for Econ 811, Fall 2015  
+[Syllabus for Econ 811, Fall 2015](811fall15.pdf)  
 <br>
-Bibliography for Economics 811  
+[Bibliography for Economics 811](bibliography.html)  
 <br>
-Questions for Economics 811  
+[Questions for Economics 811](811questions.html)  
 <br>
-GMU Library Print Reserves  
+[GMU Library Print Reserves](http://magik.gmu.edu/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=rbSearch)  
 <br>
-JSTOR Links  
+[JSTOR Links](econ811JSTORlinks.pdf)    
 <br>
 Journal Articles  
 <br>
