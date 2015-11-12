@@ -28,13 +28,13 @@ tags: [courses, Jekyll, theme, responsive]
 <br>
 [JSTOR Links](econ811JSTORlinks.pdf)    
 <br>
-Journal Articles  
+[Journal Articles](journal-articles.html)   
 <br>
 **_Miscellaneous Reference Guides_**  
 <br>
-Graduate Study Recommendations  
+[Graduate Study Recommendations](recommendations.html)   
 <br>
-Study Reference: a list of classics   
+[Study Reference: a list of classics](study-references.html)    
 <br>
 Go to [JSTOR](http://www.jstor.org/) This is where you would go to get many of the assigned readings for class.  
 <br>
