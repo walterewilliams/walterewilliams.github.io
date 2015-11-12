@@ -10,9 +10,9 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-##PUBLICATIONS
+#PUBLICATIONS
 
-####[Books](#books)&nbsp;&nbsp;&nbsp;&nbsp;[Monographs](#monographs)&nbsp;&nbsp;&nbsp;&nbsp;[Journal Articles and Notes](#journal)&nbsp;&nbsp;&nbsp;&nbsp;  [Book Reviews](#bookreviews)&nbsp;&nbsp;&nbsp;&nbsp;[Miscellaneous Articles and Reports](misc)&nbsp;&nbsp;&nbsp;&nbsp;[Interviews](#interviews)
+####[Books](#books)&nbsp;&nbsp;&nbsp;&nbsp;[Monographs](#monographs)&nbsp;&nbsp;&nbsp;&nbsp;[Journal Articles and Notes](#journal)&nbsp;&nbsp;&nbsp;&nbsp;[Book Reviews](#bookreviews)&nbsp;&nbsp;&nbsp;&nbsp;[Miscellaneous Articles and Reports](misc)&nbsp;&nbsp;&nbsp;&nbsp;[Interviews](#interviews)
 
 ###<a name="books"></a>Books
 

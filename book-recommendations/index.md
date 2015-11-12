@@ -8,12 +8,12 @@ tags: [books, Jekyll, theme, responsive]
 
 ####Books Published by Walter Williams:
 
-* Walter E. Williams, **[American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1522)** (Hoover, 2015).
-* Walter E. Williams, **[Race and Economics: How Much Can Be Blamed on Discrimination?](http://www.hooverpress.org/productdetails.cfm?PC=1522)** (Hoover, 2011).
-* Walter E. Williams, **[Up from the Projects: An Autobiography](http://www.hooverpress.org/productdetails.cfm?PC=1435)**, (Hoover, 2010).
-* Walter E. Williams, **[Liberty versus the Tyranny of Socialism](http://www.hooverpress.org/productdetails.cfm?PC=1334)**, (Hoover, October 2008)
-* Walter E. Williams, **[More Liberty Means Less Government Our Founders Knew This Well](http://www.hooverpress.org/productdetails.cfm?PC=818), (Hoover, March 1999)
-* Walter E. Williams, **[Do the Right Thing: The People's Economist Speaks](http://www.hooverpress.org/productdetails.cfm?PC=83)** (Hoover, 1995)
+* Walter E. Williams, [**American Contempt for Liberty**](http://www.hooverpress.org/productdetails.cfm?PC=1522) (Hoover, 2015).
+* Walter E. Williams, [**Race and Economics: How Much Can Be Blamed on Discrimination?**](http://www.hooverpress.org/productdetails.cfm?PC=1522) (Hoover, 2011).
+* Walter E. Williams, [**Up from the Projects: An Autobiography**](http://www.hooverpress.org/productdetails.cfm?PC=1435), (Hoover, 2010).
+* Walter E. Williams, [**Liberty versus the Tyranny of Socialism**](http://www.hooverpress.org/productdetails.cfm?PC=1334), (Hoover, October 2008)
+* Walter E. Williams, [**More Liberty Means Less Government Our Founders Knew This Well**](http://www.hooverpress.org/productdetails.cfm?PC=818), (Hoover, March 1999)
+* Walter E. Williams, [**Do the Right Thing: The People's Economist Speaks**](http://www.hooverpress.org/productdetails.cfm?PC=83) (Hoover, 1995)
 * Walter E. Williams, **South Africa's War Against Capitalism**, (Cape Town, South Africa: Juta Publishers, Ltd., 1990) revised edition.
 * Walter E. Williams, **South Africa's War Against Capitalism**, (New York: Praeger Publishers, 1989).
 * Walter E. Williams, **All It Takes Is Guts**, (Washington, D. C.: Regnery-Gateway, 1987).
@@ -26,7 +26,7 @@ You can also find these books on [amazon.com](http://amazon.com).
 
 * Ayn Rand, **Capitalism: The Unknown Ideal**, (1967) This is one of the best defenses and explanation of capitalism one is likely to read.
 * James Duban, **Be A College Achiever: The Complete Guide to Academic Stardom.** This book is an excellent guide for college-bound high schoolers and their parents. It's also an excellent source for young people already in college. It's a gold mine of information.
-* **[Mises Institute Home Study Course in Austrian Economics. A 52-week lecture Series by a group of distinguished economists.](http://www.mises.org/store/Mises-Institute-Home-Study-Course-in-Austrian-Economics-P211C0.aspx)**
+* [**Mises Institute Home Study Course in Austrian Economics. A 52-week lecture Series by a group of distinguished economists.**](http://www.mises.org/store/Mises-Institute-Home-Study-Course-in-Austrian-Economics-P211C0.aspx)
 * George M. Stephens, **Locke, Jefferson and the Justices Foundations and Failures of the U.S. Government**, Algora Publishing, New York, 2002; this book is an excellent primer on the nation's founding and the gross departures therefrom.
 * Asking the Right Questions in Choosing a College can be downloaded at www.isi.org, or a free copy can be requested by emailing freeguide@isi.org
 * Charlotte A. Twight, **Dependent on D.C.**, (Palgrave, 2002)
