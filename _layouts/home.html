@@ -18,26 +18,26 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
   </div><!-- /#index -->
-</div><!-- /#main -->
 
+    <div class="article-wrap">
+    <article class="page">
+    {{ content }}
+    <div style="font-family: verdana; font-size: 11px; padding: 10px; border: 1px solid #f8f3e6; background: ##f8f3e6 ">
+<strong><span style="color: #333333;">Sign Up Today to be a member of Dr. Williams' email list!</span></strong>
+<input type="submit" value="Join Now" style="border: 1px solid #999; padding: 3px;"/><br/>
+<br/>
+</div>
+    </article>
+
+    </div>
 <div class="footer-wrap">
   <footer>
     {% include _footer.html %}
   </footer>
-</div><!-- /.footer-wrap -->
 
+</div><!-- /.footer-wrap -->
+</div><!-- /#main -->
 {% include _scripts.html %}
 
 </body>
