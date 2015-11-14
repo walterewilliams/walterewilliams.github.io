@@ -58,7 +58,7 @@ tags: [government, Jekyll, theme, responsive]
 **-- Ben Franklin**  
 <br>
 * "The greatest [calamity] which could befall [us would be] submission to a government of unlimited powers."  
-**-- Thomas Jefferson, Declaration and Protest of Virginia, [1825]**  
+**-- Thomas Jefferson, [<u>Declaration and Protest of Virginia</u>](http://avalon.law.yale.edu/19th_century/jeffdec1.asp), [1825]**  
 <br>
 * "I am for doing good to the poor, but I differ in opinion of the means. I think the best way of doing good to the poor, is not making them easy in poverty, but leading or driving them out of it. In my youth I travelled much, and I observed in different countries, that the more public provisions were made for the poor, the less they provided for themselves, and of course became poorer. And, on the contrary, the less was done for them, the more they did for themselves, and became richer."  
 **-- Benjamin Franklin**  
@@ -129,7 +129,7 @@ tags: [government, Jekyll, theme, responsive]
 * "We have seen the mere distinction of colour made in the most enlightened period of time, a ground of the most oppressive dominion ever exercised by man over man."  
 **-- James Madison, Speech at the Constitutional Convention, June 6, 1787**  
 <br>
-*"The issue today is the same as it has been throughout all history, whether man shall be allowed to govern himself or be ruled by a small elite."  
+* "The issue today is the same as it has been throughout all history, whether man shall be allowed to govern himself or be ruled by a small elite."  
 **-- Thomas Jefferson**  
 <br>
 * **James Madison**, the Father of the Constitution, elaborated upon this limitation in a letter to James Robertson:
@@ -252,7 +252,5 @@ That the several states who formed that instrument, being sovereign and independ
 <br>
 * "The majority, oppressing an individual, is guilty of a crime, abuses its strength, and by acting on the law of the strongest breaks up the foundations of society."  
 **-- Thomas Jefferson**  
-
-
 
 ![quill](../images/quill.gif "Quill Image")  
