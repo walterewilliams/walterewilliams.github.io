@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Can We Learn From Europe?
+excerpt:
 ---
 
 Earlier this year, my column asked, "Will the West Defend Itself?" I pointed out that America's leftists and progressives believe that the U.S. should become more like Europe (http://tinyurl.com/nfk2c4d). I wonder whether they also want to import European policies that created barbaric extremism among its Muslim population.
