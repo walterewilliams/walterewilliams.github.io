@@ -38,6 +38,6 @@ if @most_recent_date != @page_date
   end
 
   open("recent_date.txt", 'w') do |f|
-    f.puts @page_date
+    f.print @page_date
   end
 end
