@@ -33,6 +33,7 @@ if @most_recent_date != @page_date
     f.puts "---"
     f.puts "layout: post"
     f.puts "title:  #{@article_title}"
+    f.puts "excerpt:"
     f.puts "---"
     f.puts
     f.puts @body
