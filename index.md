@@ -7,7 +7,7 @@ image:
 
 ###Wisdom of the Month
 
-####*"Those who expect to reap the blessings of freedom, must, like men, undergo the fatigues of supporting it."  —Thomas Paine, 1777
+####"Those who expect to reap the blessings of freedom, must, like men, undergo the fatigues of supporting it."  —Thomas Paine, 1777
 
 ###Items of Interest
 
