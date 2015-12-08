@@ -5,7 +5,6 @@ require "open-uri"
 
 doc = Nokogiri::HTML(open("http://www.creators.com/opinion/authors.html"))
 
-tr:nth-child(27) :nth-child(6)
 def format_date(date)
   date.strftime("%Y-%m-%d-")
 end
