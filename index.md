@@ -7,9 +7,7 @@ image:
 
 ###Wisdom of the Month
 
-####*"The Constitution ... is a mere thing of wax in the hands of the judiciary which they may twist and shape into any form they please."*
-
-####—Thomas Jefferson, letter to Judge Spencer Roane, 1819
+####*"Those who expect to reap the blessings of freedom, must, like men, undergo the fatigues of supporting it."  —Thomas Paine, 1777
 
 ###Items of Interest
 
