@@ -24,9 +24,7 @@ tags: [websites, Jekyll, theme, responsive]
 * [James Gwartney Page](http://mailer.fsu.edu/~jgwartne/garnet-jgwartne/)
 * [Thomas Sowell Page](http://www.tsowell.com/)
 * [Invisible Heart](http://www.invisibleheart.com/)
-* 
-Recommended Websites
-•Profits are Progressive - Recently produced Prager University five-minute video.  
+* Profits are Progressive - Recently produced Prager University five-minute video.  
 •Human Progress - The Cato Institute has complied a large and useful socioeconomic data set titled, Human Progress. 
 •Kahn Academy - This is an excellent academic teaching site for all grades (K-12) plus college. 
 •Cafe Hayek - Contains a wealth of very valuable information applying economics and straight thinking to a host of topics. 
@@ -56,9 +54,7 @@ Recommended Websites
 •Hayek Center for Multidisciplinary Research
 •Heartland Institute - An excellent site for analysis of current political and economic issues; including global warming, taxation and regulation. 
 •Heritage Foundation
-
 • Jonathan Gullible - The audio at this site gives the best description of the principles of liberty.
-
 •Landmark Legal Foundation 
 •Lew Rockwell's Page
 •Library of Economics and Liberty
