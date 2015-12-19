@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  FDA: Friend or Foe?
+title:  FDA&#58; Friend or Foe?
 excerpt:
 ---
 

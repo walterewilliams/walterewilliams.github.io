@@ -22,7 +22,7 @@ end
 if @most_recent_date != @page_date
   @date = format_date(Date.parse(@page_date))
   article = Nokogiri::HTML(open("http://www.creators.com/opinion/walter-williams.html"))
-  @article_title = article.css("h1").text
+  @article_title = article.css("h1").text.gsub(":","&#58;")
   @title = format_title(article.css("h1").text)
   @body = article.css(".KonaBody").text
   @body = @body.gsub(/\n\n\n\n\nloadAdVals\(\"AD FEEDBACK\"\);\n/, "")

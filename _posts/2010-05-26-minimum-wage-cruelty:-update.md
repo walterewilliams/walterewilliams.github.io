@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Minimum Wage Cruelty: Update
+title:  Minimum Wage Cruelty&#58; Update
 excerpt:
 ---
 
 "Minimum Wage Cruelty" (4/14/10) was my column about the unemployment effects of Congress' 2007 minimum wage increase on the canning industry in American Samoa, a U.S. territory in the far Pacific Ocean. The 2007 legislation mandated 50 cents annual increases in Samoan minimum wages until it reached the U.S. mainland's hourly minimum of $7.25. In response, Chicken of the Sea International moved its operation from Samoa to a highly automated cannery plant in Lyons, Ga. That resulted in roughly 2,000 jobs lost in Samoa and a gain of 200 jobs in Georgia. Prior to minimum wage increases, Samoan wages were about $3.25 an hour. With the legislated increases, Samoa's minimum wage is $5.25. So the question is: Which is preferable for the Samoan worker — being employed at $3.25 an hour or being unemployed at $5.25? Which buys more of life's essentials?
 
-The Samoa News (April 10, 2010) reported that American Samoa's Gov. Togiola Tulafono warned Congress more than once that American Samoa is "destined for very serious economic difficulties" if nothing is done to change provisions of federal law which mandate annual minimum wage increases. 
+The Samoa News (April 10, 2010) reported that American Samoa's Gov. Togiola Tulafono warned Congress more than once that American Samoa is "destined for very serious economic difficulties" if nothing is done to change provisions of federal law which mandate annual minimum wage increases.
 
 On May 14th, the governor's warnings bore distasteful fruit. StarKist, the island's remaining cannery, announced that between 600 and 800 people will be laid off over the next six months, reducing the company's Samoan workforce from a high of more than 3,000 in 2008 to less than 1,200 workers. StarKist CEO Don Binotto said it's difficult to compete when Samoan workers' wages are nearly 10 times those of its competitors in Thailand and other countries.
 
@@ -20,7 +20,7 @@ Poor people are not poor because of low wages. For the most part, they're poor b
 
 Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
 
-COPYRIGHT 2010 CREATORS.COM 
+COPYRIGHT 2010 CREATORS.COM
 
 
 

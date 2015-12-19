@@ -14,6 +14,7 @@ sass:
   sass_dir: _sass
   style: compressed
 gems:
+  - jekyll-archives
   - jekyll-sitemap
 
 kramdown:
@@ -22,7 +23,18 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-
+jekyll-archives:
+  enabled: all
+  enabled:
+    - posts
+  enabled:
+    - year
+    - month
+    - tags
+  permalinks:
+    year: '/posts/:year/'
+    month: '/posts/:year/:month/'
+    tag: '/posts/tag/:name/'
 
 # Site owner
 owner:

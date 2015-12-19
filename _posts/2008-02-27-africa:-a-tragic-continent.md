@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Africa: A Tragic Continent
+title:  Africa&#58; A Tragic Continent
 excerpt:
 ---
 

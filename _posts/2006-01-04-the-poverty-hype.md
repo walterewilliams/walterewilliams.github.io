@@ -1,0 +1,19 @@
+---
+layout: post
+title:  The poverty hype
+excerpt:
+---
+
+
+
+
+
+
+
+
+
+
+
+Despite claims that the rich get richer and the poor get poorer, poverty is nowhere near the problem it was yesteryear -- at least for those who want to work. Talk about the poor getting poorer tugs at the hearts of decent people and squares nicely with the agenda of big government advocates, but it doesn't square with the facts. Dr. Michael Cox, economic adviser to the Federal Reserve Bank of Dallas, and Richard Alm, a business reporter for the Dallas Morning News, co-authored a 1999 book, "Myths of Rich and Poor: Why We're Better Off Than We Think," that demonstrates the pure nonsense about the claim that the poor get poorer. The authors analyzed University of Michigan Panel Study of Income Dynamics data that tracked more than 50,000 individual families since 1968. Cox and Alms found: Only five percent of families in the bottom income quintile (lowest 20 percent) in 1975 were still there in 1991. Three-quarters of these families had moved into the three highest income quintiles. During the same period, 70 percent of those in the second lowest income quintile moved to a higher quintile, with 25 percent of them moving to the top income quintile. When the Bureau of Census reports, for example, that the poverty rate in 1980 was 15 percent and a decade later still 15 percent, for the most part they are referring to different people. Cox and Alm's findings were supported by a U.S. Treasury Department study that used an entirely different data base, income tax returns. The U.S. Treasury found that 85.8 percent of tax filers in the bottom income quintile in 1979 had moved on to a higher quintile by 1988 -- 66 percent to second and third quintiles and 15 percent to the top quintile. Income mobility goes in the other direction as well. Of the people who were in the top one percent of income earners in 1979, over half, or 52.7 percent, were gone by 1988. Throughout history and probably in most places today, there are whole classes of people who remain permanently poor or permanently rich, but not in the United States. The percentages of Americans who are permanently poor or rich don't exceed single digits. It doesn't take rocket science to figure out why people who are poor in one decade are not poor one or two decades later. First, they get older. Would anyone be surprised that 30, 40 or 50-year-olds earn a higher income than 20-year-olds? The 1995 Annual Report of the Federal Reserve Bank of Dallas found that "Average income tends to rise quickly in life as workers gain work experience and knowledge. Households headed by someone under age 25 average $15,197 a year in income. Average income more than doubles to $33,124 for 25- to 34-year-olds. For those 35 to 44, the figure jumps to $43,923. It takes time for learning, hard work and saving to bear fruit." The Federal Reserve Bank of Dallas report listed a few no-brainer behaviors consistent with upward income mobility. Households in the top income bracket have 2.1 workers; those in the bottom have 0.6 workers. In the lowest income bracket, 84 percent worked part time; in the highest income bracket, 80 percent worked full time. That translates into: Get a full-time job. Only seven percent of top income earners live in a "nonfamily" household compared to 37 percent of the bottom income category. Translation: Get married. At the time of the study, the unemployment rate in McAllen, Texas, was 17.5 percent, while in Austin, Texas, it was 3.5 percent. Translation: If you can't find a job in one locality, move to where there are jobs. The Federal Reserve Bank of Dallas report concludes, "Little on this list should come as a surprise. Taken as a whole, it's what most Americans have been told since they were kids -- by society, by their parents, by their teachers."
+
+

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Click it or ticket
+excerpt:
+---
+
+
+
+
+
+
+
+
+
+
+
+Virginia's secretary of transportation sent out a letter announcing the state's annual "Click It or Ticket" campaign May 22 through June 4. I responded to the secretary of transportation with my own letter that in part reads: "Mr. Secretary: This is an example of the disgusting abuse of state power. Each of us owns himself, and it follows that we should have the liberty to take risks with our own lives but not that of others. That means it's a legitimate use of state power to mandate that cars have working brakes because if my car has poorly functioning brakes, I risk the lives of others and I have no right to do so. If I don't wear a seatbelt I risk my own life, which is well within my rights. As to your statement 'Lack of safety belt use is a growing public health issue that . . . also costs us all billions of dollars every year,' that's not a problem of liberty. It's a problem of socialism. No human should be coerced by the state to bear the medical expense, or any other expense, for his fellow man. In other words, the forcible use of one person to serve the purposes of another is morally offensive." My letter went on to tell the secretary that I personally wear a seatbelt each time I drive; it's a good idea. However, because something is a good idea doesn't necessarily make a case for state compulsion. The justifications used for "Click It or Ticket" easily provide the template and soften us up for other forms of government control over our lives. For example, my weekly exercise routine consists of three days' weight training and three days' aerobic training. I think it's a good idea. Like seatbelt use, regular exercise extends lives and reduces health care costs. Here's my question to government officials and others who sanction the "Click It or Ticket" campaign: Should the government mandate daily exercise for the same reasons they cite to support mandatory seatbelt use, namely, that to do so would save lives and save billions of health care dollars?If we accept the notion that government ought to protect us from ourselves, we're on a steep slippery slope. Obesity is a major contributor to hypertension, coronary disease and diabetes, and leads not only to many premature deaths but billions of dollars in health care costs. Should government enforce, depending on a person's height, sex and age, a daily 1,400 to 2,000-calorie intake limit? There's absolutely no dietary reason to add salt to our meals. High salt consumption can lead to high blood pressure, which can then lead to stroke, heart attack, osteoporosis and asthma. Should government outlaw adding salt to meals? While you might think that these government mandates would never happen, be advised that there are busybody groups currently pushing for government mandates on how much and what we can eat.Government officials, if given power to control us, soon become zealots. Last year, Maryland state troopers were equipped with night vision goggles, similar to those used by our servicemen in Iraq, to catch night riders not wearing seatbelts. Maryland state troopers boasted that they bagged 44 drivers traveling unbuckled under the cover of darkness. Philosopher John Stuart Mill, in his treatise "On Liberty," said it best:  "That the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant. He cannot rightfully be compelled to do or forbear because it will be better for him to do so, because it will make him happier, because, in the opinions of others, to do so would be wise, or even right. These are good reasons for remonstrating with him, or reasoning with him, or persuading him, or entreating him, but not for compelling him, or visiting him with any evil, in case he do otherwise."
+
+

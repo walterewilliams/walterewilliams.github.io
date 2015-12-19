@@ -1,0 +1,19 @@
+---
+layout: post
+title:  What's inflation?
+excerpt:
+---
+
+
+
+
+
+
+
+
+
+
+
+Last month, President Bush nominated Dr. Ben S. Bernanke, currently chairman of the President's Council of Economic Advisors, as chairman of Federal Reserve Board to replace the retiring Alan Greenspan. Alan Greenspan's replacement comes at a time of heightened fears of inflation resulting from the recent spike in oil prices. First, let's decide what is and what is not inflation. One price or several prices rising is not inflation. When there's a general increase in prices, or alternatively, a reduction in the purchasing power of money, there's inflation. But just as in the case of diseases, describing a symptom doesn't necessarily give us a clue to a cause. Nobel Laureate and professor Milton Friedman says, "[I]nflation is always and everywhere a monetary phenomenon, in the sense that it cannot occur without a more rapid increase in the quantity of money than in output." Increases in money supply are what constitute inflation, and a general rise in prices is the symptom. Let's look at that with a simple example. Pretend several of us gather to play a standard Monopoly game that contains $15,140 worth of money. The player who owns Boardwalk or any other property is free to sell it for any price he wishes. Given the money supply in the game, a general price level will emerge for all trades. If some property prices rise, others will fall, thereby maintaining that level.Suppose unbeknownst to other players, I counterfeit $5,000 and introduce it into the game. Initially, that gives me tremendous purchasing power, whereby I can bid up property prices. After my $5,000 has circulated through the game, there will be a general rise in the prices -- something that would have been impossible before I slipped money into the game. My example is a highly simplistic example of a real economy, but it permits us to make some basic assessments of inflation. First, let's not let politicians deceive us, and escape culpability, by defining inflation as rising prices, which would allow them to make the pretense that inflation is caused by greedy businessmen, rapacious unions or Arab sheiks. Increases in money supply are what constitute inflation, and the general rise in the price level is the result. Who's in charge of the money supply? It's the government operating through the Federal Reserve. There's another inflation result that bears acknowledgment. Printing new money to introduce into the game makes me a thief. I've obtained objects of value for nothing in return. My actions also lower the purchasing power of every dollar in the game. I've often suggested that if a person is ever charged with counterfeiting, he should tell the judge he was engaging in monetary policy.When inflation is unanticipated, as it so often is, there's a redistribution of wealth from creditors to debtors. If you lend me $100, and over the term of the loan the Federal Reserve increases the money supply in a way that causes inflation, I pay you back with dollars with reduced purchasing power. Since inflation redistributes (steals) wealth from creditors to debtors, it helps us identify inflation's primary beneficiary. That identification is easy if you ask: Who is the nation's largest debtor? If you said, "It's the U.S. government," go to the head of the class.So what about the president's nomination of Ben S. Bernanke as Alan Greenspan's replacement? I know little or nothing about the man. What I do know is that it's not wise for one person, or group of persons, to have so much power over our economy. Here's my recommendation for reducing that power: Repeal legal tender laws and eliminate all taxes on gold, silver and platinum transactions. That way, Americans could write contracts in precious metals and thereby reduce the ability of government to steal from us.
+
+

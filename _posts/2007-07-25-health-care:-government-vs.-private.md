@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Health Care: Government vs. Private
+title:  Health Care&#58; Government vs. Private
 excerpt:
 ---
 

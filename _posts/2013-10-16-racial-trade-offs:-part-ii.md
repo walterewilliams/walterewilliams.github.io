@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Racial Trade-offs: Part II
+title:  Racial Trade-offs&#58; Part II
 excerpt:
 ---
 

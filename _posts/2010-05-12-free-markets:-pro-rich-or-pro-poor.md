@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Free Markets: Pro-Rich or Pro-Poor
+title:  Free Markets&#58; Pro-Rich or Pro-Poor
 excerpt:
 ---
 
-Listening to America's liberals, who now prefer to call themselves progressives, one would think that free markets benefit the rich and harm the poor, but little can be further from the truth. First, let's first say what free markets are. Free markets, or laissez-faire capitalism, refer to an economic system where there is no government interference except to outlaw and prosecute fraud and coercion. It ought to be apparent that our economy cannot be described as free market because there is extensive government interference. We have what might be called a mixed economy, one with both free market and socialistic attributes. If one is poor or of modest means, where does he fare better: in the freer and more open sector of our economy or in the controlled and highly regulated sector? Let's look at it.	
+Listening to America's liberals, who now prefer to call themselves progressives, one would think that free markets benefit the rich and harm the poor, but little can be further from the truth. First, let's first say what free markets are. Free markets, or laissez-faire capitalism, refer to an economic system where there is no government interference except to outlaw and prosecute fraud and coercion. It ought to be apparent that our economy cannot be described as free market because there is extensive government interference. We have what might be called a mixed economy, one with both free market and socialistic attributes. If one is poor or of modest means, where does he fare better: in the freer and more open sector of our economy or in the controlled and highly regulated sector? Let's look at it.
 
 Did Carnegie, Mellon, Rockefeller and Guggenheim start out rich? Andrew Carnegie worked as a bobbin boy, changing spools of thread in a cotton mill 12 hours a day, six days a week, earning $1.20 a week. A young John D. Rockefeller worked as a clerk. Meyer Guggenheim started out as a peddler. Andrew Mellon did have a leg up; his father was a lawyer and banker. Sam Walton milked the family's cows, bottled the milk and delivered it and newspapers to customers. Richard Sears was a railroad station agent. Alvah Roebuck began work as a watchmaker. Together, they founded Sears, Roebuck and Company in 1893. John Cash Penney (founder of JCPenny department stores) worked for a local dry goods merchant.
 

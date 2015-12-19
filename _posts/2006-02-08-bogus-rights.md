@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Bogus rights
+excerpt:
+---
+
+
+
+
+
+
+
+
+
+
+
+Do people have a right to medical treatment whether or not they can pay? What about a right to food or decent housing? Would a U.S. Supreme Court justice hold that these are rights just like those enumerated in our Bill of Rights? In order to have any hope of coherently answering these questions, we have to decide what is a right. The way our Constitution's framers used the term, a right is something that exists simultaneously among people and imposes no obligation on another. For example, the right to free speech, or freedom to travel, is something we all simultaneously possess. My right to free speech or freedom to travel imposes no obligation upon another except that of non-interference. In other words, my exercising my right to speech or travel requires absolutely nothing from you and in no way diminishes any of your rights. Contrast that vision of a right to so-called rights to medical care, food or decent housing, independent of whether a person can pay. Those are not rights in the sense that free speech and freedom of travel are rights. If it is said that a person has rights to medical care, food and housing, and has no means of paying, how does he enjoy them? There's no Santa Claus or Tooth Fairy who provides them. You say, "The Congress provides for those rights." Not quite. Congress does not have any resources of its very own. The only way Congress can give one American something is to first, through the use of intimidation, threats and coercion, take it from another American. So-called rights to medical care, food and decent housing impose an obligation on some other American who, through the tax code, must be denied his right to his earnings. In other words, when Congress gives one American a right to something he didn't earn, it takes away the right of another American to something he did earn. If this bogus concept of rights were applied to free speech rights and freedom to travel, my free speech rights would impose financial obligations on others to provide me with an auditorium and microphone. My right to travel freely would require that the government take the earnings of others to provide me with airplane tickets and hotel accommodations. Philosopher John Locke's vision of natural law guided the founders of our nation. Our Declaration of Independence expresses that vision, declaring, "We hold these Truths to be self-evident, that all Men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the Pursuit of Happiness." Government is necessary, but the only rights we can delegate to government are the ones we possess. For example, we all have a natural right to defend ourselves against predators. Since we possess that right, we can delegate authority to government to defend us. By contrast, we don't have a natural right to take the property of one person to give to another; therefore, we cannot legitimately delegate such authority to government. Three-fifths to two-thirds of the federal budget consists of taking property from one American and giving it to another. Were a private person to do the same thing, we'd call it theft. When government does it, we euphemistically call it income redistribution, but that's exactly what thieves do -- redistribute income. Income redistribution not only betrays the founders' vision, it's a sin in the eyes of God. I'm guessing that when God gave Moses the Eighth Commandment, "Thou shalt not steal," I'm sure he didn't mean "thou shalt not steal unless there was a majority vote in Congress." The real tragedy for our nation is that any politician who holds the values of liberty that our founders held would be soundly defeated in today's political arena.
+
+
