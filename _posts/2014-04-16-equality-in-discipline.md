@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Equality in Discipline
+excerpt:
+---
+
+George Leef, director of research for the North Carolina-based John William Pope Center for Higher Education Policy, authored a Forbes op-ed article titled "Obama Administration Takes Groupthink To Absurd Lengths." The subtitle is "School Discipline Rates Must Be 'Proportionate.'" (http://tinyurl.com/mxnlg9h). Let's examine some of the absurdity of the Obama administration's take on student discipline.
+
+Last January, the departments of Justice and Education published a "guidance" letter describing how schools can meet their obligations under federal law to administer student discipline without discriminating on the basis of race, color or national origin. Its underlying threat is that if federal bureaucrats learn of racial disproportionality in the punishments meted out for misbehavior, they will descend upon a school's administrators. If schools cannot justify differentials in rates of punishment by race or ethnic group, they will face the loss of federal funds and be forced to undertake costly diversity training.
+
+The nation's educators can avoid sanctions by adopting a racial quota system for student discipline. So as Roger Clegg, president and general counsel of the Center for Equal Opportunity, predicts, "school officials will either start disciplining students who shouldn't be, or, more likely, will not discipline some students who ought to be." I can imagine school administrators reasoning this way: "Blacks are 20 percent of our student body, and 20 percent of suspensions this year have been of black students. In order to discipline another black student while maintaining our suspension quota, we will have to suspend some white students, whether they're guilty or not." Some administrators might see some injustice in that approach and simply ignore the misbehavior of black students.
+
+Leef cites Manhattan Institute's Heather Mac Donald, who wrote in City Journal (http://tinyurl.com/9k648fj) that "the Departments of Education and Justice have launched a campaign against disproportionate minority discipline rates, which show up in virtually every school district with significant numbers of black and Hispanic students.
+
+ The possibility that students' behavior, not educators' racism, drives those rates lies outside the Obama administration's conceptual universe." She quoted Aaron Benner, a black teacher in a St. Paul, Minn., school who abhors the idea that school officials should go easy on black students who act up because (as a "facilitator" said) that's what black culture is. "They're trying to pull one over on us. Black folks are drinking the Kool-Aid; this 'let-them-clown' philosophy could have been devised by the KKK." Benner is right. I can't think of a more racist argument than one that holds that disruptive, rude behavior and foul language are a part of black culture.
+
+If Barack Obama's Department of Justice thinks that disproportionality in school punishments is probative of racial discrimination, what about our criminal justice system, in which a disproportionate number of blacks are imprisoned, on parole or probation, and executed? According to the NAACP's criminal justice fact sheet, blacks now constitute nearly 1 million of the total 2.3 million people who are incarcerated. Blacks are incarcerated at nearly six times the rate of whites. The NAACP goes on to report that if blacks and Hispanics were incarcerated at the same rate as whites, today's prison and jail populations would decline by approximately 50 percent (http://tinyurl.com/7g2b32h).
+
+So what to do? For example, blacks are 13 percent of the population but over 50 percent of homicide victims and about 46 percent of convicted murderers. Seeing as the Obama administration is concerned about punishment disproportionality, should black convicts be released so that only 13 percent of incarcerated murderers are black? Or should the Department of Justice order the conviction of whites, whether they're guilty or not, so that the number of people convicted of murder by race is equal to their number in the general population? You say, "Williams, that not only is a stupid suggestion but violates all concepts of justice!" You're absolutely right, but isn't it just as stupid and unjust for the Obama administration to seek punishment equality in schools?
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2014 CREATORS.COM

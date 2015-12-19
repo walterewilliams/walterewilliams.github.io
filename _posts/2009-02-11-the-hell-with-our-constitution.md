@@ -1,0 +1,23 @@
+---
+layout: post
+title:  The Hell with Our Constitution
+excerpt:
+---
+
+Dr. Robert Higgs, senior fellow at the Oakland-based Independent Institute, penned an article in The Christian Science Monitor (2/9/2009) that suggests the most intelligent recommendation that I've read to fix our current economic mess. The title of his article gives his recommendation away: "Instead of stimulus, do nothing — seriously."
+
+Stimulus package debate is over how much money should be spent, whether some should given to the National Endowment for the Arts, research sexually transmitted diseases or bail out Amtrak, our failing railroad system. Dr. Higgs says, "Hardly anyone, however, is asking the most important question: Should the federal government be doing any of this?" He adds, "Until the 1930s, the Constitution served as a major constraint on federal economic interventionism. The government's powers were understood to be just as the framers intended: few and explicitly enumerated in our founding document and its amendments. Search the Constitution as long as you like, and you will find no specific authority conveyed for the government to spend money on global-warming research, urban mass transit, food stamps, unemployment insurance, Medicaid, or countless other items in the stimulus package and, even without it, in the regular federal budget."
+
+By bringing up the idea of constitutional restraints on Washington, I'd say Dr. Higgs is whistling Dixie. Americans have long ago abandoned respect for the constitutional limitations placed on the federal government. Our elected representatives represent that disrespect. After all I'd ask Higgs: Isn't it unreasonable to expect a politician to do what he considers to be political suicide, namely conduct himself according to the letter and spirit of the Constitution?
+
+While Americans, through ignorance or purpose, show contempt for our Constitution, I doubt whether they are indifferent between a growing or stagnating economy. Dr. Higgs tells us some of the economic history of the U.S. In 1893, there was a depression; we got out of it without a stimulus package. There was a major recession of 1920-21; though sharp, it quickly reversed itself into what has been call the "Roaring Twenties." In 1929, there was an economic downturn, most notably featured by the stock market collapse, after which came massive government intervention — you might call it the nation's first stimulus package.
+
+ President Hoover and Congress responded to what might have been a two- or three-year sharp downturn with many of the policies President Obama and Congress are urging today. They raised tariffs, propped up wage rates, bailed out farmers, banks and other businesses, and financed state relief efforts. When Roosevelt came to office, he became even more interventionist than Hoover and presided over protracted depression where the economy didn't fully recover until 1946.
+
+Roosevelt didn't have an easy time with his agenda; he had to first emasculate the U.S. Supreme Court. Higgs points out that federal courts had respect for the Constitution as late as the 1930s. They issued some 1,600 injunctions to restrain officials from carrying out acts of Congress. The U.S. Supreme Court overturned as unconstitutional the New Deal's centerpieces such as the National Industrial Recovery Act and the Agricultural Adjustment Act and other parts of Roosevelt's "stimulus package." An outraged Roosevelt threatened to pack the Court, and the Court capitulated to where it is today giving Congress virtually unlimited powers to tax, spend and regulate. My question to my fellow Americans is: Do we want a repeat of measures that failed dismally during the 1930s?
+
+A more fundamental question is: Should Washington be guided by the Constitution? In explaining the Constitution, James Madison, the acknowledged father of the Constitution, wrote in Federalist Paper 45: "The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite. The former will be exercised principally on external objects, as war, peace, negotiation, and foreign commerce." Has the Constitution been amended to permit Congress to tax, spend and regulate as it pleases or have Americans said, "To hell with the Constitution"?
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2009 CREATORS SYNDICATE, INC.

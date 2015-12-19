@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Getting Beyond Race
+excerpt:
+---
+
+Despite the fact that President-elect Barack Obama's vision for our nation leaves a lot to be desired, the fact that he was elected represents a remarkable national achievement. When the War of 1861 ended, neither a former slave nor slave owner would have believed it possible for a black to be elected president in a mere century and a half, if ever. I'm sure that my grandparents, born in the 1880s, or my parents, born in the 1910s, would not have believed it possible for a black to be president and neither did I for most of my 72 years.
+
+That's not the only progress. If one totaled black earnings, and consider blacks a separate nation, he would have found that in 2005 black Americans earned $644 billion, making them the world's 16th richest nation. That's just behind Australia but ahead of Netherlands, Belgium and Switzerland. Black Americans have been chief executives of some of the world's largest and richest cities such as New York, Chicago, Los Angeles, Philadelphia and Washington, D.C. Gen. Colin Powell, appointed Joint Chief of Staff in October 1989, headed the world's mightiest military and later became U.S. Secretary of State, and was succeeded by Condoleezza Rice, another black. A few black Americans are among the world's richest people and many are some of the world's most famous personalities. These gains, over many difficult hurdles, speak well not only of the intestinal fortitude of a people but of a nation in which these gains were possible. They could not have been achieved anywhere else.
+
+Acknowledgement of these achievements is not to deny that a large segment of the black community faces enormous problems. But as I have argued, most of today's problems have little or nothing to do with racial discrimination. That's not to say that every vestige of racial discrimination has been eliminated but as my colleague Dr. John McWhorter said in "End of Racism?" Forbes (11/5/08), "There are also rust and mosquitoes, and there always will be.
+
+ Life goes on." The fact that the nation elected a black president hopefully might turn our attention away from the false notion that discrimination explains the problems of a large segment of the black community to the real problems that have absolutely nothing to do with discrimination.
+
+The illegitimacy rate among blacks stands at about 70 percent. Less than 40 percent of black children are raised in two-parent households. Those are major problems but they have nothing to do with racial discrimination. During the early 1900s, illegitimacy was a tiny fraction of today's rate and black families were just as stable as white families. Fraudulent education is another problem, where the average black high school senior can read, write and compute no better than a white seventh-grader. It can hardly be blamed on discrimination. Black schools receive the same funding as white schools and most of the teachers and staffs are black and the schools are often in cities where the mayor and the city council are mostly black. Crime is a major problem. Blacks commit about 50 percent of all homicides and 95 percent of their victims are blacks.
+
+Tragically, many black politicians and a civil rights industry have a vested interest in portraying the poor socioeconomic outcomes for many blacks as problems rooted in racial discrimination. One of the reasons they are able to get away with such deception is because there are so many guilt-ridden white people. Led by guilt, college administrators, employers and others in leadership positions, in the name of diversity, buy into nonsense such as lowering standards, racial preferences and acceptance of behavior standards they wouldn't accept from whites. Maybe the election of a black president will help white people over their guilt feelings so they can stop acting like fools in their relationships with black people.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2008 CREATORS SYNDICATE, INC.

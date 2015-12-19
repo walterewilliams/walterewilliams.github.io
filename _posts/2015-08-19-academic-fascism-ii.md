@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Academic Facism II
+title:  Academic Fascism II
 excerpt:
 ---
 
@@ -12,7 +12,8 @@ The problem for students and some professors is that Sommers challenges the narr
 
 The University of New Hampshire published a "Bias-Free Language Guide," which "is meant to invite inclusive excellence in (the) campus community." Terms such as "American," "homosexual," "illegal alien," "Caucasian," "mothering," "fathering" and "foreigners" are deemed "problematic." Other problematic terms include "elders," "senior citizen," "overweight," "speech impediment," "dumb," "sexual preference," "manpower," "freshmen," "mailman" and "chairman." For now, these terms are seen as problematic. If the political correctness police were permitted to get away with it, later they would bring disciplinary action against a student or faculty member who used the terms.
 
-The offender would be required to attend diversity training, the leftist equivalent of communist re-education camps. In a rare instance of administrative guts, UNH President Mark Huddleston said he is offended by many things in the guide and declared that it is not university policy.
+ The offender would be required to attend diversity training, the leftist equivalent of communist re-education camps. In a rare instance of administrative guts, UNH President Mark Huddleston said he is offended by many things in the guide and declared that it is not university policy.
+
 Florida State University has an "Equal Opportunity and Non-Discrimination Statement," which says, "Behavior that may be considered offensive, demeaning, or degrading to persons or groups will not be tolerated." That's both broad and troublesome. Say that you're a Muslim student and offended by homosexuality. Can you demand termination of campus activities that support homosexual activities?
 
 A 2014 report by the Foundation for Individual Rights in Education (http://tinyurl.com/mjvn4kl) found that 59 percent of the 427 higher-education institutions it analyzed have policies that infringe on First Amendment rights. FIRE found that the University of Connecticut prohibits "actions that intimidate, humiliate, or demean persons or groups, or that undermine their security or self-esteem." The University of South Carolina prohibits "teasing," "ridiculing" and "insulting."

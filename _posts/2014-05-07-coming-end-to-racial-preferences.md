@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Coming End to Racial Preferences
+excerpt:
+---
+
+Last week's U.S. Supreme Court 6-2 ruling in Schuette v. Coalition to Defend Affirmative Action et al. upheld Michigan's constitutional amendment that bans racial preferences in admission to its public universities. Justice Sonia Sotomayor lashed out at her colleagues in a bitter dissent, calling them "out of touch with reality." She went on to make the incredible argument that the amendment, which explicitly forbids racial discrimination, itself amounts to racial discrimination. Her argument was that permissible "race-sensitive admissions policies," the new name for racial preferences, both serve the compelling interest of obtaining the educational benefits that flow from a diverse student body and inure people to the benefit of racial minorities. By the way, no one has come up with hard evidence of the supposed "educational benefits" that come from a racially mixed student body, and there's mounting evidence of harm done to minorities through academic mismatching.
+
+Far more important than the legal battles over racial preferences in college admissions is the question of why they are being called for in the first place. The SAT's purpose is to predict how well a student will perform in college classes. Blacks score at least 100 points lower than whites in each of the assessment areas — critical reading, math and writing. Asians score higher than whites in math and writing. SAT scores are also reported for Mexican-Americans, Puerto Ricans, Indians and others. Blacks score lower than these minorities, who themselves score lower than whites and Asians.
+
+If we reject the racist notion of mental inferiority of blacks, holding that blacks can never compete academically and that "racially sensitive" college admissions are needed in perpetuity, we must seek an explanation for their relatively poor academic performance. My longtime colleague and friend Dr. Thomas Sowell offers some evidence in a recent column, "Will Dunbar Rise Again?" (http://tinyurl.com/mjt39ks).
+
+ Paul Laurence Dunbar High School was founded in 1870 as the first public high school in the nation for black students. As far back as 1899, when tests were given in Washington's four academic high schools, Dunbar students scored higher than students in two of the three white high schools. Over the first several decades of the 20th century, about 80 percent of Dunbar graduates went on to college, a percentage far greater than that of high-school graduates of any race in the country at large at the time. Most blacks went to inexpensive local colleges, but among those who went on to Ivy League and other elite colleges, a significant number graduated Phi Beta Kappa. At one time, Dunbar graduates were admitted to Dartmouth or Harvard without having to take an entrance exam. One would have to be a lunatic to chalk up this academic success, in the early to mid-1900s, to Sotomayor's "race-sensitive admissions policies."
+
+The shame of the nation is that poor black children are trapped in terrible schools. But worse than that is that white liberals, black politicians and civil rights leaders, perhaps unwittingly, have taken steps to ensure that black children remain trapped. Sowell says, "Of all the cynical frauds of the Obama administration, few are so despicable as sacrificing the education of poor and minority children to the interests of the teachers' unions." Attorney General Eric Holder's hostility, along with that of the teachers unions, toward the spread of charter schools is just one of the signs of that cynicism. Holder's threats against schools that discipline more black students than he thinks they should add official support to a hostile learning environment.
+
+The weakening of racial preferences in college admissions can be beneficial if it can focus our attention on the causes of the huge gap in academic achievement between blacks and whites and Asians. Worrying about what happens when blacks are trying to get in to college is too late — as a matter of fact 12 years late.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2014 CREATORS.COM

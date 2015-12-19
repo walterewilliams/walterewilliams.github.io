@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Conflict or Cooperation
+excerpt:
+---
+
+Different Americans have different and often intense preferences for all kinds of goods and services. Some of us have strong preferences for beer and distaste for wine while others have the opposite preference — strong preferences for wine and distaste for beer. Some of us hate three-piece suits and love blue jeans while others love three-piece suits and hate blue jeans. When's the last time you heard of beer drinkers in conflict with wine drinkers, or three-piece suit lovers in conflict with lovers of blue jeans? It seldom if ever happens because beer and blue jean lovers get what they want. Wine and three-piece suit lovers get what they want and they all can live in peace with one another.
+
+It would be easy to create conflict among these people. Instead of free choice and private decision-making, clothing and beverage decisions could be made in the political arena. In other words, have a democratic majority-rule process to decide what drinks and clothing that would be allowed. Then we would see wine lovers organized against beer lovers, and blue jean lovers organized against three-piece suit lovers. Conflict would emerge solely because the decision was made in the political arena. Why? The prime feature of political decision-making is that it's a zero-sum game. One person's gain is of necessity another person's loss. That is if wine lovers won, beer lovers lose. As such, political decision-making and allocation of resources is conflict enhancing while market decision-making and allocation is conflict reducing. The greater the number of decisions made in the political arena, the greater the potential for conflict.
+
+Take the issue of prayers in school as an example. I think that everyone, except a maniacal tyrant, would agree that a parent has the right to decide whether his child will recite a morning prayer in school. Similarly, a parent has a right to decide that his child will not recite a morning prayer.
+
+ Conflict arises because schools are government owned. That means it is a political decision whether prayers will be permitted or not. A win for one parent means a loss for another parent. The losing parent, in order to get what he wants, would have to muster up private school tuition while continuing to pay taxes for a school for which he has no use. If education were only government financed, as opposed to being government financed and produced, say through education vouchers, the conflict would be reduced. Both parents could have their wishes fulfilled by enrolling their child in a private school of their choice and instead of being enemies, they could be friends.
+
+Conflict in education is just one minor example of how government allocation can raise the potential for conflict. Others would include government-backed allocation of jobs and education slots by race and sex, plus the current large conflict over government allocation of health services. Interestingly enough, the very people in our society who protest the loudest against human conflict and violence are the very ones calling for increased government resource allocation. These people fail to recognize or even wonder why our nation, with people of every race, ethnic group and religious group, has managed to live together relatively harmoniously. In their countries of origin, the same ethnic, racial and religious groups have been trying to slaughter one another for centuries. A good part of the answer is that in the United States, there was little to be gained from being a Frenchman, a German, a Jew, a Protestant or a Catholic. The reason it did not pay was because for most of our history, government played a small part in our lives. When there's significant government allocation of resources, the most effective means of organizing for the gains are those proven most divisive, such as race, ethnicity, religion and region.
+
+As our nation forsakes our founders' wisdom of constitutional limitations placed on Washington, we raise the potential for conflict.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2010 CREATORS.COM

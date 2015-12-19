@@ -1,0 +1,21 @@
+---
+layout: post
+title:  We Are the Idiots
+excerpt:
+---
+
+Dr. Henry Miller, senior fellow at the Hoover Institution, and Gregory Conko, senior fellow at the Competitive Enterprise Institute, in their Forbes article "Rachel Carson's Deadly Fantasies" (9/5/2012), wrote that her 1962 book, "Silent Spring," led to a world ban on DDT use. The DDT ban was responsible for the loss of "tens of millions of human lives — mostly children in poor, tropical countries — have been traded for the possibility of slightly improved fertility in raptors (birds). This remains one of the monumental human tragedies of the last century." DDT presents no harm to humans and, when used properly, poses no environmental threat. In 1970, a committee of the National Academy of Sciences wrote: "To only a few chemicals does man owe as great a debt as to DDT. ... In a little more than two decades, DDT has prevented 500 million human deaths, due to malaria, that otherwise would have been inevitable." Prior to the DDT ban, malaria was on the verge of extinction in some countries.
+
+The World Health Organization estimates that malaria infects at least 200 million people, of which more than a half-million die, each year. Most malaria victims are African children. People who support the DDT ban are complicit in the deaths of tens of millions of Africans and Southeast Asians. Philanthropist Bill Gates is raising money for millions of mosquito nets, but to keep his environmentalist credentials, the last thing that he'd advocate is DDT use. Remarkably, black congressmen share his vision.
+
+Wackoism didn't end with Carson's death. Dr. Paul Ehrlich, Stanford University biologist, in his 1968 best-selling book, "The Population Bomb," predicted major food shortages in the United States and that "in the 1970s ... hundreds of millions of people are going to starve to death." Ehrlich saw England in more desperate straits, saying, "If I were a gambler, I would take even money that England will not exist in the year 2000." On the first Earth Day, in 1970, Ehrlich warned: "In ten years all important animal life in the sea will be extinct.
+
+ Large areas of coastline will have to be evacuated because of the stench of dead fish." Ehrlich continues to be a media and academic favorite.
+
+Then there are governmental wacko teachings. In 1914, the U.S. Bureau of Mines predicted our oil reserves would last 10 years. In 1939, the U.S. Department of the Interior revised the estimate, saying that American oil would last 13 years. In 1972, the Club of Rome's report "Limits to Growth" said total world oil reserves totaled 550 billion barrels. With that report in hand, then-President Jimmy Carter said, "We could use up all proven reserves of oil in the entire world by the end of the next decade." He added, "The oil and natural gas we rely on for 75 percent of our energy are running out." As for Carter's running-out-of-oil prediction, a recent report by the U.S. Government Accountability Office and private industry experts estimate that if even half of the oil bound up in the Green River formation in Utah, Wyoming and Colorado is recovered, it would be "equal to the entire world's proven oil reserves." That's an estimated 3 trillion barrels, more than what OPEC has in reserve. Fret not. Carter, like Ehrlich, is still brought before the media for his opinion.
+
+Our continued acceptance of environmentalist manipulation, lies and fear-mongering has led Congress to establish deadly public policies in the name of saving energy — such as Corporate Average Fuel Economy standards, which downsize autos and cause unnecessary highway fatalities. That's on top of the stupid 1970s 55 mph laws. The next time an environmentalist warns us of a pending disaster or that we are running out of something, we ought to ask: When was the last time a prediction of yours was right? Some people are inclined to call these people idiots. That's wrong. They have been successful in their agenda. It's we who are the idiots for listening to them and allowing Congress to let them have their way.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2013 CREATORS.COM

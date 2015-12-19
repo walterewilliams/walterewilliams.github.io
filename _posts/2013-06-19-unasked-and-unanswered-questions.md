@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Unasked and Unanswered Questions
+excerpt:
+---
+
+Grutter v. Bollinger was the landmark U.S. Supreme Court decision that upheld the University of Michigan Law School's racial admissions policy. Justice Sandra Day O'Connor, writing for the majority, said the U.S. Constitution "does not prohibit the Law School's narrowly tailored use of race in admissions decisions to further a compelling interest in obtaining the educational benefits that flow from a diverse student body." But what are the educational benefits of a diverse student body?
+
+Intellectuals argue that diversity is necessary for academic excellence, but what's the evidence? For example, Japan is a nation bereft of diversity in any activity. Close to 99 percent of its population is of one race. Whose students do you think have higher academic achievement — theirs or ours? According to the 2009 Program for International Student Assessment, the academic performance of U.S. high-school students in reading, math and science pales in comparison with their diversity-starved counterparts in Japan.
+
+Should companies be treated equally? According to a Wall Street Journal op-ed (9/7/2009) by Manhattan Institute's energy expert Robert Bryce, Exxon Mobil pleaded guilty in federal court to killing 85 birds that had come into contact with its pollutants. The company paid $600,000 in fines and fees. A recent Associated Press story (5/14/2013) reported that "more than 573,000 birds are killed by the country's wind farms each year, including 83,000 hunting birds such as hawks, falcons and eagles, according to an estimate published in March in the peer-reviewed Wildlife Society Bulletin." The Obama administration has never fined or prosecuted windmill farms, sometimes called bird Cuisinarts, for killing eagles and other protected bird species. In fact, AP reports that the Obama administration has shielded the industry from liability and has helped keep the scope of the deaths secret. It's interesting that The Associated Press chose to report the story only after the news about its reporters being secretly investigated. That caused the Obama administration to fall a bit out of favor with them.
+
+ But what the heck, the 14th Amendment's requirement of "equal protection" before the law for everybody can be cast aside in the name of diversity, so why can't it be cast aside in the name of saving the planet? There are politically favored industries just as there are politically favored groups.
+
+What's the difference between a progressive, a liberal and a racist? In some cases, not much. President Woodrow Wilson was a leading progressive who believed in notions of racial superiority and inferiority. He was so enthralled with D.W. Griffith's "Birth of a Nation" movie, glorifying the Ku Klux Klan, that he invited various dignitaries to the White House to view it with him. During one private screening, President Wilson exclaimed: "It's like writing history with lightning. And my only regret is that it is all so terribly true." When President Wilson introduced racial segregation to the civil service, the NAACP and the National Independent Political League protested. Wilson vigorously defended it, arguing that segregation was in the interest of Negroes.
+
+Dr. Thomas Sowell, in "Intellectuals and Race," documents other progressives who were advocates of theories of racial inferiority. They included former presidents of Stanford University and MIT, among others. Eventually, the views of progressives fell out of favor. They changed their name to liberals, but in the latter part of the 20th century, the name liberals fell into disrepute. Now they are back to calling themselves progressives.
+
+I'm not arguing that today's progressives are racists like their predecessors, but they share a contempt for liberty, just as President Wilson did. According to Hillsdale College history professor Paul A. Rahe — author of "Soft Despotism, Democracy's Drift" — in his National Review Online (4/11/13) article "Progressive Racism," Wilson wanted to persuade his compatriots to get "beyond the Declaration of Independence." President Wilson said the document "did not mention the questions" of his day, adding, "It is of no consequence to us." My question is: Why haven't today's progressives disavowed their racist predecessors?
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2013 CREATORS.COM

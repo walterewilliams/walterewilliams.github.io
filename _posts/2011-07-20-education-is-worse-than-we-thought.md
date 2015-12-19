@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Education Is Worse Than We Thought
+excerpt:
+---
+
+Last December, I reported on Harvard University professor Stephan Thernstrom's essay "Minorities in College — Good News, But...," on Minding the Campus, a website sponsored by the New York-based Manhattan Institute. He was commenting on the results of the most recent National Assessment of Educational Progress, saying that the scores "mean that black students aged 17 do not read with any greater facility than whites who are four years younger and still in junior high. ... Exactly the same glaring gaps appear in NAEP's tests of basic mathematics skills." Thernstrom asked, "If we put a randomly-selected group of 100 eighth-graders and another of 100 twelfth-graders in a typical college, would we expect the first group to perform as well as the second?" In other words, is it reasonable to expect a college freshman of any race who has the equivalent of an eighth-grade education to compete successfully with those having a 12th-grade education?
+
+Maybe this huge gap in black/white academic achievement was in the paternalistic minds of the 6th U.S. Circuit Court of Appeals justices who recently struck down Michigan's ban on the use of race and sex as criteria for college admissions. The court said that it burdens minorities and violates the U.S. Constitution. Given the black education disaster, racial preferences in college admissions will become a permanent feature, because given the status quo, blacks as a group will never make it into top colleges based upon academic merit.
+
+The situation is worse than we thought. U.S. News & World Report (7/7/2011) came out with a story titled "Educators Implicated in Atlanta Cheating Scandal," saying that "for 10 years, hundreds of Atlanta public school teachers and principals changed answers on state tests in one of the largest cheating scandals in U.S. history, according to a scathing 413-page investigative report released Tuesday by Georgia Gov. Nathan Deal." The report says that more than three-quarters of the 56 Atlanta schools investigated cheated on the 2009 standardized National Assessment of Educational Progress.
+
+ Eighty-two teachers have confessed to erasing students' answers. A total of 178 educators, including 38 principals, many of whom are black, systematically fabricated test scores of struggling black students to cover up academic failure. The governor's report says that cheating orders came from the top and that widespread cheating has occurred since at least 2001. So far, no Atlanta educator has been criminally charged, even though some of the cheating was brazen, such as teachers pointing to correct answers while students were taking the tests, reading answers aloud during testing and seating low-achieving students next to high-achieving students to make cheating easier.
+
+Teacher and principal exam cheating is not restricted to Atlanta; it's widespread. The Detroit Free Press and USA Today (3/8/2011) released an investigative report that found higher-than-average erasure rates on tests taken by students at 34 schools in and around Detroit in 2008 and 2009. Overall, their report "found 304 schools where experts say the gains on standardized tests in 2009-10 are so statistically improbable, they merit further investigation. Besides Michigan, the other states (where suspected cheating was found) were Ohio, Arizona, Colorado, Florida and California." A Dallas Morning News investigation reported finding high rates of test erasures in Texas. Six teachers and two principals were dismissed after cheating was uncovered.
+
+In 2007, Baltimore's George Washington Elementary School was named a Blue Ribbon School after the number of students who passed state reading tests shot from 32 percent to nearly 100 percent in just four years. Last year, The Baltimore Sun reported thousands of erasures on those tests. Susan Burgess, the school's principal, had her professional license revoked after an investigation by state and city school board officials.
+
+Why is there widespread cheating by America's educators? According to Diane Ravitch, who is the research professor of education at New York University, it's not teachers and principals who are to blame; it's the mandates of the No Child Left Behind law, enacted during the George W. Bush administration. In other words, the devil made them do it.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2011 CREATORS.COM

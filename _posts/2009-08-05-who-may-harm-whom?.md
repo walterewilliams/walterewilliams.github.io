@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Who May Harm Whom?
+excerpt:
+---
+
+"No one has a right to harm another." Just a little thought, along with a few examples, would demonstrate that blanket statement as pure nonsense. Suppose there is a beautiful lady that both Jim and Bob are pursuing. If Jim wins her hand, Bob is harmed. By the same token, if Bob wins her hand, Jim is harmed. Whose harm is more important and should the beautiful lady be permitted to harm either Bob or Jim are nonsense questions.
+
+During the 1970s, when Hewlett-Packard and Texas Instruments came out with scientific calculators, great harm was suffered by slide rule manufacturers such as Keuffel & Esser, and Pickett. Slide rulers have since gone the way of the dodo but the question is: Should Hewlett-Packard and Texas Instruments have been permitted to inflict such grievous harm on slide rule manufacturers? In 1927, General Electric successfully began marketing the refrigerator. The ice industry, a major industry and the livelihoods of thousands of workers, was destroyed virtually overnight. Should such harm have been permitted and what should Congress have done to save jobs in the slide rule and ice industries?
+
+The first thing we should acknowledge is that we live in a world of harms. Harm is reciprocal. For example, if the government stopped Hewlett-Packard and Texas Instruments from harming Keuffel & Esser and Pickett, or stopped General Electric from harming ice producers, by denying them the right to manufacture calculators and refrigerators, they would have been harmed, plus the billions of consumers who benefited from calculators and refrigerators. There is no scientific or intelligent way to determine which person's harm is more important than the other. That means things are more complicated than saying that one person has no rights to harm another. We must ask which harms are to be permitted in a free society and are not to be permitted.
+
+ For example, it's generally deemed acceptable for me to harm you by momentarily disturbing your peace and quiet by driving a motorcycle past your house. It's deemed unacceptable for me to harm you by tossing a brick through your window.
+
+In a free society, many conflicting harms are settled through the institution of private property rights. Private property rights have to do with rights belonging to the person deemed owner of property to keep, acquire, use and dispose of property as he deems fit so long as he does not violate similar rights of another. Let's say that you are offended, possibly harmed, by bars that play vulgar rap music and permit smoking. If you could use government to outlaw rap music and smoking in bars, you would be benefited and people who enjoyed rap music and smoking would be harmed. Again, there is no scientific or intelligent way to determine whose harm is more important. In a free society, the question of who has the right to harm whom, by permitting rap music and smoking, is answered by the property rights question: Who owns the bar? In a socialistic society, such conflicting harms are resolved through government intimidation and coercion.
+
+What about the right to harm oneself, such as the potential harm that can come from not wearing a seatbelt. That, too, is a property rights question. If you own yourself, you have the right to take chances with your own life. Some might argue that if you're not wearing a seatbelt and wind up a vegetable, society has to take care of you; therefore, the fascist threat "click it or ticket." Becoming a burden on society is not a problem of liberty and private property. It's a problem of socialism where one person is forced to take care of someone else. That being the case, the government, in the name of reducing health care costs, assumes part ownership of you and as such assumes a right to control many aspects of your life. That Americans have joyfully given up self-ownership is both tragic and sad.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2009 CREATORS.COM

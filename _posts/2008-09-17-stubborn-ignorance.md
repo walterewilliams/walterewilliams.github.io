@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Stubborn Ignorance
+excerpt:
+---
+
+Here's what the U.S. Constitution says: "All bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills." How many times have we heard politicians, pundits and guardians of our news media say that President Bush cut taxes, or Obama is going to raise taxes? The fact of the matter is that presidents have no power to raise or lower taxes. They can propose tax measures or veto them but it is Congress that has the ultimate power to raise or lower taxes since they can, with a two-thirds vote, override a presidential veto. The same principle applies to spending. Presidents cannot be held responsible for budget deficits or surpluses. A president cannot spend a dime that Congress does not first appropriate. Given these plain facts, are politicians, pundits and media people — who persist in talking about a president cutting or raising taxes, or creating a budget deficit — ignorant, stupid or deceptive?
+
+Did President Clinton create more jobs, or did President Bush? Let's look at it. In 1996, I landed a job at Grove City College team teaching a course with one of its faculty members, Professor Dirk Mateer. I would like someone to tell me how President Clinton created that job for me. Did he call the college president and say, "Hire Williams"? Did he give Grove City College, a private college, resources to hire me? He surely didn't call me up and say, "Williams, there's a job waiting for you at Grove City College." So what precisely do people mean when they say this president or that president created jobs? You might argue, "You're right when it comes to a president creating jobs, but Congress can create jobs through appropriating money for infrastructure such as highways and bridges."
+
+That's true in one sense and false in another. You can see this by asking, "Where does Congress get the money to create the jobs?" They won't get it from the Tooth Fairy or Santa Claus; they must get the money from taxpayers.
+
+ That means if Congress collects $100 from a taxpayer for highway construction, he cannot use that $100 for some other expenditure that would have created a job. If Congress borrows the money for highway construction, it causes interest rates to be higher and therefore less job-creating investment. The bottom line is that Congress can only shift employment or unemployment but cannot create net new jobs.
+
+Many politicians and pundits claim that the credit crunch and high mortgage foreclosure rate is an example of market failure and want government to step in to bail out creditors and borrowers at the expense of taxpayers who prudently managed their affairs. These financial problems are not market failures but government failure. The Community Reinvestment Act of 1977 is a federal law that intimidated lenders into offering credit throughout their entire market and discouraged them from restricting their credit services to low-risk markets, a practice sometimes called redlining. The Federal Reserve Bank, keeping interest rates artificially low, gave buyers and builders incentive to buy and build, thereby producing the housing bubble. Lenders were willing to make creative interest-only loans, often high-risk "no doc" and "liar loans," in order to allow people to buy more housing than they could afford. Of course, with the expectation that housing prices will continue to rise, it was no problem for lenders and borrowers but housing prices began to fall, leaving some people with negative home equity and banks in trouble.
+
+The credit crunch and foreclosure problems are failures of government policy. In fact, what we see now is a market correction to foolhardy government policy. Congress' move to bailout lenders and borrowers who made poor decisions will simply create incentives for people to make unwise decisions in the future. English philosopher Herbert Spencer said, "The ultimate result of shielding men from the effects of folly is to fill the world with fools."
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2008 CREATORS SYNDICATE, INC.

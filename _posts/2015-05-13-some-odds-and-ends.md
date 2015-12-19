@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Some Odds and Ends
+excerpt:
+---
+
+Occasionally, I wonder whether I'm alone in some of my wonderings. Look at the claim that conservatives or Republicans have launched a war on women as a part of their overall mean-spirited agenda. In the case of mistreatment of women — or of anyone else — assault, rape and murder are about as horrible as it gets. But I would be willing to bet a lot of money that most of the assaults, rapes and murders of women are done by people who identify as liberals or Democrats, particularly in the cases of murderers. Most crime, except perhaps white-collar crime, is committed by people who vote Democratic. Therefore, it's not surprising that former Attorney General Eric Holder, President Barack Obama and their liberal Democratic partners want to end laws that prevent felons and ex-felons from voting. Felons and ex-felons are seen as an important part of their party's constituency.
+
+What about diversity? Diversity is nothing less than a craze on most college campuses. Despite budget squeezes, universities have created diversity positions, such as vice chancellor for equity, diversity and inclusion; director of diversity and inclusion; manager of diversity recruitment; associate dean for diversity; and vice president of diversity. Some diversity chiefs — such as the vice chancellors of diversity at the University of California campuses in San Diego and San Francisco — have annual salaries that top $250,000. That doesn't include the millions of dollars spent staffing and equipping diversity offices.
+
+The original motto of our nation, E Pluribus Unum — meaning "out of many, one" — was proposed for the first great seal of the United States by John Adams, Benjamin Franklin and Thomas Jefferson in 1776. It recognizes the diversity of the American people. You can bet that the campus call for diversity is everything but a patriotic celebration of America. If anything, it's a condemnation and criticism of the United States and Western values.
+
+ The academic vision of diversity calls for the celebration of people based upon their race, religion, genitalia and sexual behavior. And the last thing academic diversity means is diversity in thought, opinions and political affiliation. Taxpayers and irresponsible donors foot the bill for this deviancy.
+
+Intellectuals argue that diversity is necessary for academic excellence, but what's their evidence other than plausibility? Here's what they need to explain. Japan is a nation bereft of diversity in anything. Close to 99 percent of its population is of one race. Whose students do you think have higher academic achievement — theirs or ours, who are diversity-rich? According to the 2009 Program for International Student Assessment, the academic performance of U.S. high-school students in reading, math and science pales in comparison with their diversity-starved counterparts in Japan.
+
+I also wonder about sex equality. The Army's physical fitness test's minimum requirement for 17- to 21-year-old males is 35 pushups, 47 situps and a 2-mile run in 16 minutes, 36 seconds or less. For females of the same age, the minimum requirement is 13 pushups, 47 situps and a 19:42 2-mile run. In "Defense Department 'Diversity' Push for Women in Land Combat" (http://tinyurl.com/axn9l93), Elaine Donnelly, director of the Center for Military Readiness, points to U.S. Army studies showing that women are twice as likely to suffer injuries and are three times more undeployable than men. Women are less likely to be able to march under load; that's marching 12.4 miles in five hours with an 83-pound assault load. They are also less likely to be able to crawl, sprint, negotiate obstacles and, worse yet, move a wounded comrade weighing 165 pounds while carrying that load. So here's my wonderment: Should male soldiers sue the Department of Defense for sex discrimination, or should everyone have to live up to the same standards? Or should sex inequality be the official standard for our military?
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2015 CREATORS.COM

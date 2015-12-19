@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Trade versus Protectionism
+excerpt:
+---
+
+There's a growing anti-trade sentiment in our country. Much of the dialogue is grossly misinformed. Let's try to untangle it a bit with a few questions and observations. First, does the U.S. trade with Japan and England? Put another way, is it members of the U.S. Congress trading with their counterparts in the Japanese Diet or the English Parliament? An affirmative answer is pure nonsense. When I purchased my Lexus, I had nothing to do with either the Japanese Diet or the U.S. Congress. Through an intermediary, a Lexus dealer, I dealt with Toyota Motor Corporation.
+
+While it might be convenient to speak of one country trading with another, such aggregation can conceal a lot of evil, particularly when people call for trade barriers. For example, what would be a moral case for third-party interference, by either the Japanese Diet or the U.S. Congress, with an exchange between me and Toyota Motor Corporation? Some might reason that since Japan places restrictions on U.S. products entering their country, an appropriate retaliatory measure is not to allow Japanese products to freely enter the U.S. By the way, Japanese protectionist restrictions on rice imports force Japanese consumers to pay three or four times the world price for rice. How much sense does it make for Congress to retaliate against Japan by imposing restrictions on their products thereby forcing American consumers, say Lexus buyers, to pay higher prices? Should our rule be: If one country screws its citizens we should retaliate by screwing our citizens?
+
+Since there is no moral argument for preventing one person from trading with another, anti-traders shift their argument to a patriotic appeal such as suggesting that we're losing our manufacturing sector. That doesn't square with the facts. According to a report given by Dr. William Strauss, senior economist for the Federal Reserve Bank of Chicago, titled "Is U.S. Losing Its Manufacturing Base?" (http://www.edcchicago.org/ecom/2008/edc062508.htm) the answer is no. In each of the past 60 years, U.S. manufacturing output growth has averaged 4 percent and productivity growth has averaged 3 percent.
+
+ Manufacturing is going through the same process as agriculture. In 1900, 41 percent of American workers were employed in agriculture; today, only 2 percent are and agricultural output is greater. In 1940, 35 percent of workers were employed in manufacturing jobs; today, it's about 10 percent. Again, because of huge productivity gains, manufacturing output is greater.
+
+The decline in manufacturing employment is not limited to the U.S. Since 2000, China has lost over 4.5 million manufacturing jobs. In fact, nine of the top 10 manufacturing countries, which produce 75 percent of the world's manufacturing output (the U.S., Japan, Germany, China, Britain, France, Italy, Korea, Canada, and Mexico), have lost manufacturing jobs but their manufacturing output has risen.
+
+Despite the pretense of being a free trade nation, the U.S. has significant barriers to trade that come in the form of tariffs, quotas and steep regulatory barriers. Our restrictions are just not as onerous as many other countries but there's a push to make them so. It's simple politics. The people who face foreign competition, say management and workers in the auto industry, are well organized, have narrowly shared interests and the resources to have considerable clout in Washington to get Congress to enact trade barriers. Restricting foreign competition means higher prices for their products, and hence higher profits and fuller employment in their industry. The people who are benefited by foreign competition, say auto consumers, have widely dispersed interests; they are not organized at all and have little clout in Washington. You never see consumers descending on Washington complaining about cheap prices for foreign products; it's always domestic producers who do the complaining.
+
+The relationship between prosperity and economic freedom, including free trade, is a no-brainer. But if you need hard evidence, check out the Heritage Foundation's "Index of Economic Freedom" (http://www.heritage.org/Index). You'll find that nations having the greatest measure of economic freedom are the most prosperous and peaceful.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2008 CREATORS SYNDICATE, INC.

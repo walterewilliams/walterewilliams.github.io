@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Scaring Us to Death
+excerpt:
+---
+
+There is a H.L. Mencken quotation that captures the essence of this year's politics: "The whole aim of practical politics is to keep the populace alarmed, and hence clamorous to be led to safety, by menacing it with an endless series of hobgoblins, all of them imaginary." The media, economic "experts" and both presidential candidates are making bad-talking our economy key features of their campaign messages. For politicians and their hangers-on, keeping the populace alarmed is a strategy to seize more control over our lives. It's so important that Senator John McCain took his economic adviser, former Senator Phil Gramm, to the woodshed for saying that America had "become a nation of whiners" and described the current slowdown as a "mental recession." Had Senator Gramm added that economically today's Americans are better off than at any time in our history, he might have lost his job altogether. Let's look at it.
+
+Dr. W. Michael Cox and Richard Alm, of the Federal Reserve Bank of Dallas, in the July/August 2008 edition of The American, have an article titled "How Are We Doing?" (http://www.american.com/archive/2008/july-august-magazine-contents/how-are-we-doing/). Wages and income are frequently used to measure progress but Cox and Alm say that a better measure is consumption. For example, while gasoline prices have skyrocketed, the average worker has to work about two hours to earn enough to purchase 10 gallons. In 1935, it was six hours and in 1950, over two hours. A basket of groceries that took four hours of work in 1950 to purchase now takes 1.7 hours. Annual hours of work have fallen from 1,903 in 1950 to 1,531 today. Real total compensation — wages plus fringe benefits, both adjusted for inflation — have been rising steadily for several generations. Fringe benefits have become a greater share of our earnings, thus dampening statistics on wage increases.
+
+Today's Americans are healthier than ever.
+
+ In 1950, life expectancy was 67 compared with today's 78. Death rates from diseases, once considered a death sentence, are in steep decline. With advances in medicine and medical technology we're receiving much better health care. The increase in quality explains part of the higher health care costs. But health care costs would be dramatically reduced if there were more competition and less government intervention and third-party payers. Cox and Alm say that competition works but because of third-party payers, consumers have little incentive to shop around. They point out that prices for Lasik eye surgery, a procedure rarely covered by insurance programs, have fallen in the past decade because consumers shop around and take their business to surgeons who offer the highest quality service at the cheapest price.
+
+Recall that during President Carter's last year in office in 1980 what was called the "misery index", which was defined as the sum of the inflation and unemployment rates, was about 22 percent: inflation averaged 14 percent; unemployment was 7.5 percent. Today's inflation just became 5 percent, having been between 1 and 3 percent for a decade, and unemployment is 6.1. Cox and Alm say that today's problems "will turn out to be mere footnotes in a longer-term march of progress." They add that, "Since 1982, the United States has been in recession for a mere 16 months, the present slowdown notwithstanding. Over that period, the country more than doubled its inflation-adjusted output of goods and services and created jobs for an additional 50 million workers."
+
+Things are not nearly as gloomy as the pundits say. Most of today's economic problems, whether it's energy, health care costs, financial problems, budget deficits or national debt, are caused by policies pursued by the White House and Congress. As my colleague Dr. Thomas Sowell suggested in a recent column, we don't look to arsonists to put out fires that they've created; neither should we look to Congress to solve the problems they've created.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2008 CREATORS SYNDICATE, INC.

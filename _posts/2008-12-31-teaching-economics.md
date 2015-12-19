@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Teaching Economics
+excerpt:
+---
+
+Many professors, mostly on the liberal side of the political spectrum, use their classrooms to proselytize students. I have taught economics for the past 40 years and challenge anyone to find even one student, among the thousands who went through my classes, who can say, "Professor Williams used his class to proselytize students." While acceptable at most universities, it is nothing less than academic dishonesty to do so. Like others I have my own values and opinions, such as those expressed in some of my nationally syndicated columns, but they never become a part of classroom discussion.
+
+Learning how to think straight, as opposed to what values and opinions to hold, is the crucial part of education. Part of that learning is to be able to understand the distinction between subjective statements, for which there are no commonly accepted standards of proof, and positive statements for which there are. For example, the statement "Scientists cannot split the atom" is a positive statement because if there's any disagreement, there are facts to which we can appeal to settle the disagreement. Just visit Stanford's linear accelerator and watch them do it. By contrast, the statement "Scientists should not split the atom" is a subjective statement. There are no facts to which we can appeal to settle any disagreement. Disagreement can go on forever. A fairly good proxy for whether a statement is subjective is the presence of words such as should and ought. This lesson is closed by telling students that it is not being suggested that they purge their vocabulary of subjective terms such as should and ought because they are excellent tools to trick others into doing what you want them to do. However, in the process of tricking others, one need not trick himself.
+
+A related lesson is dealing with terms such as better and best and worse. This lesson might be approached by my asking students which is the best system for resource allocation: capitalist, socialist or communist? After several fall for my bait, I tell them that the correct response is to tell me it's a nonsense question.
+
+ It is akin to asking their physics professor: Which is the best state: a liquid, gaseous, solid or plasma state? However, if the physics professor were asked: Which is the cheapest state to nail a nail into a board? He could answer the question and probably say that it is the solid state. Going back to the question about capitalism versus socialism and communism, asking which system maximizes personal liberty and societal wealth, the answer would be capitalism, at least here on Earth.
+
+Another pitfall to straight thinking is sometimes called the cause and effect fallacy. That fallacy is made when a person sees event B coming on the heels of event A and then says A caused B. There may be no causal relationship at all. Such is the case when the rooster crows and shortly thereafter the sun rises. That is easy to see but many historians assert that the 1929 stock market crash caused the 1930s Great Depression. Little is further from the truth. Instead, it was caused by inept fiscal, monetary and regulatory policies of the Hoover and Roosevelt administrations.
+
+There are a number of other pitfalls to straight thinking that I lecture on as introductory material before we begin to explore economic theory. I tell students that if they hear me say something subjective, without my having prefaced it with "in my opinion," they are to raise their hand and tell me that they took my class to learn economics and not to be indoctrinated with my values. Personally, I want students to share my values that personal liberty, along with free markets, is morally superior to other forms of human organization. The most effective means to accomplish that goal is to give them the tools to be tough, rigorous, hard-minded thinkers and they will probably reach the same conclusions as I have.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
+
+COPYRIGHT 2008 CREATORS SYNDICATE, INC.
