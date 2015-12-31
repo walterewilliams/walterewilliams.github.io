@@ -10,7 +10,7 @@ image:
 ####"The Constitution ... is a mere thing of wax in the hands of the judiciary which they may twist and shape into any form they please." —Thomas Jefferson, letter to Judge Spencer Roane, 1819
 
 ###Items of Interest
-* [In Depth with Walter Williams - A 3-hour interview on C-Span November 1, 2015] (http://www.c-span.org/video/?326444-1/depth-walter-williams)
+* [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015]( http://www.c-span.org/video/?326444-1/depth-walter-williams)
 * [Is Capitalism Moral](http://prageruniversity.com/History/Is-Capitalism-Moral.html#.Vfcqb_-FNjo)
 * [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Recent selected collection of my weekly syndicated columns.
 * [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Recently produced Prager University five-minute video
