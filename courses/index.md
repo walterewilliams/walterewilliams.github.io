@@ -10,7 +10,7 @@ tags: [courses, Jekyll, theme, responsive]
 
 **Econ 306**  
 <br>
-[Syllabus for Econ 306, Spring 2015](econ306spring2015.pdf)  
+[Syllabus for Econ 306, Spring 2016](econ306spring2015.pdf)  
 <br>
 [Final exam study questions](magnificence.html)  
     
