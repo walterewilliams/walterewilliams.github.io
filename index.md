@@ -7,7 +7,7 @@ image:
 
 ###Wisdom of the Month
 
-####"The Constitution ... is a mere thing of wax in the hands of the judiciary which they may twist and shape into any form they please." —Thomas Jefferson, letter to Judge Spencer Roane, 1819
+####"Before a standing army can rule, the people must be disarmed; as they are in almost every kingdom of Europe. The supreme power in America cannot enforce unjust laws by the sword; because the whole body of the people are armed, and constitute a force superior to any band of regular troops that can be, on any pretense, raised in the United States." —Noah Webster, 1787
 
 ###Items of Interest
 * [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
