@@ -38,5 +38,10 @@ tags: [courses, Jekyll, theme, responsive]
 <br>
 Go to [JSTOR](http://www.jstor.org/) This is where you would go to get many of the assigned readings for class.
 <br>
+<<<<<<< HEAD
 [Best of the Web](http://botw.org/top/Science/Social_Sciences/Economics/): - An excellent source of information.
 <br>
+=======
+[Best of the Web](http://botw.org/top/Science/Social_Sciences/Economics/): - An excellent source of information.
+<br>
+>>>>>>> 202e81223ecb5fe012f5ab7cec2ecfddefa7ea42
