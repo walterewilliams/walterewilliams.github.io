@@ -7,7 +7,7 @@ image:
 
 ###Wisdom of the Month
 
-####"Before a standing army can rule, the people must be disarmed; as they are in almost every kingdom of Europe. The supreme power in America cannot enforce unjust laws by the sword; because the whole body of the people are armed, and constitute a force superior to any band of regular troops that can be, on any pretense, raised in the United States." —Noah Webster, 1787
+####The men American people admire most extravagantly are the most daring liars; the men they detest most violently are those who try and tell them the truth --H. L. Mencken
 
 ###Items of Interest
 * [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
