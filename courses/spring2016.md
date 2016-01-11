@@ -6,20 +6,21 @@ modified:
 tags: 
 ---
 
-ECONOMICS 306
-Intermediate Microeconomics
-Professor Walter E. Williams
+### ECONOMICS 306
+### Intermediate Microeconomics
+### Professor Walter E. Williams
 
-Spring, 2016        
-Mason Hall – D005                					Office: Mason Hall-158 
-                			Office Hours: Tu. 9-11; W. 9-11
-                			and by appointment (993-1148)
+### Spring, 2016        
+### Mason Hall – D005                					Office: Mason Hall-158 
+###                			Office Hours: Tu. 9-11; W. 9-11
+###                			and by appointment (993-1148)
 
-	COURSE OUTLINE
+	**COURSE OUTLINE*
 
 Text: Edgar K. Browning and Mark A. Zupan: Microeconomics: Price Theory and Applications John Wiley & Sons, Inc. 10th or 11th edition, 2012)
+<br>
 Optional Text: Study Guide to Accompany Microeconomics: Price Theory and Applications 
-
+<br>
 The following represents both an approximation of our schedule and the minimum reading requirements for the semester.  There will be two or three problem sets, a mid-term and final examination.  In addition there will be periodic unannounced quizzes consisting of true/false and multiple choice questions.  Therefore, for each class you should bring a No. 2 pencil and a Scantron.
 
 Your final grade will be based upon performance on problem sets (15%), midterm examination (30%), final examination (45%), and unannounced quizzes (10%).
