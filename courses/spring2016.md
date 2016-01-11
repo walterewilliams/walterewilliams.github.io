@@ -6,13 +6,17 @@ modified:
 tags: 
 ---
 
-### ECONOMICS 306
+
 ### Intermediate Microeconomics
+
 ### Professor Walter E. Williams
 
-### Spring, 2016        
+### Spring, 2016    
+
 ### Mason Hall – D005                					Office: Mason Hall-158 
+
 ###                			Office Hours: Tu. 9-11; W. 9-11
+
 ###                			and by appointment (993-1148)
 
 	**COURSE OUTLINE*
