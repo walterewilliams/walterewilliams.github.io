@@ -10,8 +10,8 @@ image:
 ####The men American people admire most extravagantly are the most daring liars; the men they detest most violently are those who try and tell them the truth --H. L. Mencken
 
 ###Items of Interest
-* [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
-* [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty)
+* [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) ![new](new.gif)
+* [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty) ![new](new.gif)
 * [Is Capitalism Moral](http://prageruniversity.com/History/Is-Capitalism-Moral.html#.Vfcqb_-FNjo)
 * [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Recent selected collection of my weekly syndicated columns.
 * [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Recently produced Prager University five-minute video
