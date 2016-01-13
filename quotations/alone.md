@@ -6,7 +6,9 @@ modified:
 tags: [quotations, Jekyll, theme, responsive]
 ---
 ![Constitution](../images/const1.gif "Constitution")   
-![quill](../images/quill.gif "Quill Image")  
+![quill](../images/quill.gif "Quill Image") 
+
+* "The men American people admire most extravagantly are the most daring liars; the men they detest most violently are those who try and tell them the truth" --H. L. Mencken
 
 * "Laws that forbid the carrying of arms...disarm only those who are neither inclined nor determined to commit crimes... Such laws make things worse for the assaulted and better for the assailants; they serve rather to encourage than to prevent homicides, for an unarmed man may be attacked with greater confidence than an armed man."  
 **-- Thomas Jefferson (Quoting Cesare Beccaria)**  
