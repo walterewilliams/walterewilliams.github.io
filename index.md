@@ -7,8 +7,7 @@ image:
 
 ###Wisdom of the Month
 
-####As political and economic freedom diminishes, sexual freedom tends compensatingly to increase. And the dictator will do well to encourage that freedom. In conjunction with the freedom to daydream under the influence of dope, movies and the radio, it will help to reconcile his subjects to the servitude.
-– Aldous Huxley, foreword to Brave New World
+####As political and economic freedom diminishes, sexual freedom tends compensatingly to increase. And the dictator will do well to encourage that freedom. In conjunction with the freedom to daydream under the influence of dope, movies and the radio, it will help to reconcile his subjects to the servitude.  – Aldous Huxley, foreword to Brave New World
 
 ###Items of Interest
 * [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) ![new](new.gif)
