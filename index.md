@@ -10,6 +10,7 @@ image:
 ####As political and economic freedom diminishes, sexual freedom tends compensatingly to increase. And the dictator will do well to encourage that freedom. In conjunction with the freedom to daydream under the influence of dope, movies and the radio, it will help to reconcile his subjects to the servitude.  – Aldous Huxley, foreword to Brave New World
 
 ###Items of Interest
+* [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) ![new](new.gif)
 * [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) ![new](new.gif)
 * [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty) ![new](new.gif)
 * [Is Capitalism Moral](http://prageruniversity.com/History/Is-Capitalism-Moral.html#.Vfcqb_-FNjo)
