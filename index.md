@@ -7,7 +7,9 @@ image:
 
 ###Wisdom of the Month
 
-####As political and economic freedom diminishes, sexual freedom tends compensatingly to increase. And the dictator will do well to encourage that freedom. In conjunction with the freedom to daydream under the influence of dope, movies and the radio, it will help to reconcile his subjects to the servitude.  – Aldous Huxley, foreword to Brave New World
+####
+The government of the United States is a definite government, confined to specified objects. It is not like state governments, whose powers are more general. Charity is no part of the legislative duty of the government.
+   James Madison, Speech in the House of Representatives [January 10, 1794] 
 
 ###Items of Interest
 * [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) ![new](new.gif)
