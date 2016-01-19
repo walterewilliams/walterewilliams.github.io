@@ -7,8 +7,7 @@ image:
 
 ###Wisdom of the Month
 
-####The government of the United States is a definite government, confined to specified objects. It is not like state governments, whose powers are more general. Charity is no part of the legislative duty of the government. 
-James Madison, Speech in the House of Representatives [January 10, 1794] 
+####The government of the United States is a definite government, confined to specified objects. It is not like state governments, whose powers are more general. Charity is no part of the legislative duty of the government. James Madison, Speech in the House of Representatives [January 10, 1794] 
 
 ###Items of Interest
 * [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) ![new](new.gif)
