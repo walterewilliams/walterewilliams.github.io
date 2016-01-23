@@ -7,7 +7,7 @@ image:
 
 ###Wisdom of the Month
 
-####“Whoever would overthrow the liberty of a nation must begin by subduing the freeness of speech.”
+###“Whoever would overthrow the liberty of a nation must begin by subduing the freeness of speech.”
  Benjamin Franklin, Silence Dogood, The Busy-Body, and Early Writings.
 
 ###Items of Interest
