@@ -7,8 +7,7 @@ image:
 
 ###Wisdom of the Month
 
-###“Whoever would overthrow the liberty of a nation must begin by subduing the freeness of speech.”
- Benjamin Franklin, Silence Dogood, The Busy-Body, and Early Writings.
+####“Whoever would overthrow the liberty of a nation must begin by subduing the freeness of speech.”  Benjamin Franklin, in Silence Dogood, The Busy-Body, and Early Writings.
 
 ###Items of Interest
 * [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) ![new](new.gif)
