@@ -27,7 +27,7 @@ kramdown:
 owner:
   name: Walter E. Williams
   avatar: wew.jpeg
-  bio: "Professor of Economics.<br>wwilliam@gmu.edu<br>(703) 993-1148<br>D158 Mason Hall<br>Department of Economics<br>George Mason University<br>"
+  bio: "Professor of Economics.<br>wwilliam@gmu.edu<br>(703) 993-1148<br>D158 Mason Hall<br>Department of Economics<br>George Mason University<br><br><b>Related Sites:</b><br><a href='http://www.gmu.edu'>The homepage of George Mason University.</a><br><a href='http://economics.gmu.edu'>Homepage of the Department of Economics at GMU.</a>"
   email:
   disqus-shortname:
   twitter: #username
