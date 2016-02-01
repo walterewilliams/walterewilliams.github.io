@@ -8,7 +8,7 @@ tags: [books, Jekyll, theme, responsive]
 
 ####Books Published by Walter Williams:
 
-* Walter E. Williams, [**American Contempt for Liberty**](http://www.hooverpress.org/productdetails.cfm?PC=1522) (Hoover, 2015).
+* Walter E. Williams, [**American Contempt for Liberty**](http://www.hoover.org/research/american-contempt-liberty) (Hoover, 2015).
 * Walter E. Williams, [**Race and Economics: How Much Can Be Blamed on Discrimination?**](http://www.hooverpress.org/productdetails.cfm?PC=1522) (Hoover, 2011).
 * Walter E. Williams, [**Up from the Projects: An Autobiography**](http://www.hooverpress.org/productdetails.cfm?PC=1435), (Hoover, 2010).
 * Walter E. Williams, [**Liberty versus the Tyranny of Socialism**](http://www.hooverpress.org/productdetails.cfm?PC=1334), (Hoover, October 2008)
