@@ -6,7 +6,7 @@ modified:
 tags: [books, Jekyll, theme, responsive]
 ---
 
-####Books Published by Walter Williams:
+#### Books Published by Walter Williams:
 
 * Walter E. Williams, [**American Contempt for Liberty**](http://www.hooverpress.org/productdetails.cfm?PC=1630) (Hoover, 2015).
 * Walter E. Williams, [**Race and Economics: How Much Can Be Blamed on Discrimination?**](http://www.hooverpress.org/productdetails.cfm?PC=1522) (Hoover, 2011).
@@ -22,7 +22,7 @@ tags: [books, Jekyll, theme, responsive]
 
 You can also find these books on [amazon.com](http://amazon.com).
 
-####Books Published by Other Authors:
+#### Books Published by Other Authors:
 
 * Ayn Rand, **Capitalism: The Unknown Ideal**, (1967) This is one of the best defenses and explanation of capitalism one is likely to read.
 * James Duban, **Be A College Achiever: The Complete Guide to Academic Stardom.** This book is an excellent guide for college-bound high schoolers and their parents. It's also an excellent source for young people already in college. It's a gold mine of information.
