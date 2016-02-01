@@ -12,4 +12,4 @@ image:
 ---
 
 
-### [Publications](/publications/publications.html)&nbsp;&nbsp;&nbsp;&nbsp;[The Freeman: Ideas on Liberty](/publications/liberty.html)
+### [Publications](/publications/publications)&nbsp;&nbsp;&nbsp;&nbsp;[The Freeman: Ideas on Liberty](/publications/liberty)
