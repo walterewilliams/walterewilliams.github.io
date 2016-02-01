@@ -7,7 +7,8 @@ image:
 
 ### Wisdom of the Month
 
-#### “Whoever would overthrow the liberty of a nation must begin by subduing the freeness of speech.”  Benjamin Franklin
+####I would remind you that extremism in the defense of liberty is no vice. And let me remind you also that moderation in the pursuit of justice is no virtue.   Barry Goldwater
+
 
 ### Items of Interest
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well) ![new](new.gif)
