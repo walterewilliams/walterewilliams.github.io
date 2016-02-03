@@ -6,7 +6,7 @@ modified:
 tags: [quotations, Jekyll, theme, responsive]
 ---
 
-![quill](../images/quill.gif "Quill Image")  
+![quill](../../images/quill.gif "Quill Image")  
 
 * "The only freedom which deserves the name, is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs, or impede their efforts to obtain it."   
 **-- John Stuart Mill (1806 - 1873), English economist & philosopher, On Liberty, 1859.**   
