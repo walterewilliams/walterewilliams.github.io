@@ -5,8 +5,8 @@ date: {{ date }}
 modified:
 tags: [quotations, Jekyll, theme, responsive]
 ---
-![Independence Hall](../images/indhall.gif "Independence Hall")  
-![quill](../images/quill.gif "Quill Image")  
+![Independence Hall](../../images/indhall.gif "Independence Hall")  
+![quill](../../images/quill.gif "Quill Image")  
 
 * "I would rather be exposed to the inconveniences attending too much liberty than to those attending too small a degree of it."  
 **-- Thomas Jefferson, to Archibald Stuart, 1791**  
