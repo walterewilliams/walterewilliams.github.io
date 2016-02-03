@@ -7,18 +7,18 @@ tags: [quotations, Jekyll, theme, responsive]
 ---  
 
 <br>
-[Government](government.html)    
+[Government](government)    
 <br>
-[They Were Not Alone](alone.html)  
+[They Were Not Alone](alone)  
 <br>
-[More Founders Wisdom](wisdom.html)  
+[More Founders Wisdom](wisdom)  
 <br>
-[Worth Thinking About](thinking.html)  
+[Worth Thinking About](thinking)  
 <br>
-[Right to Keep and Bear Arms](arms.html)    
+[Right to Keep and Bear Arms](arms)    
 <br>
-[Those who would repeal that right](repeal.html)   
+[Those who would repeal that right](repeal)   
 <br>
-[What the Founders Said About Slavery](slavery.html)  
+[What the Founders Said About Slavery](slavery)  
 <br>
 ![quill](../images/quill.gif "Quill Image")  
