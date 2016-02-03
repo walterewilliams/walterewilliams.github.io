@@ -8,7 +8,7 @@ tags: [government, Jekyll, theme, responsive]
 
 ![proclamation](../images/government.gif "Colonial Proclamation")  
 
-###Constitutional Limitations on Government
+### Constitutional Limitations on Government
 
 ![quill](../images/quill.gif "Quill Image") 
 
