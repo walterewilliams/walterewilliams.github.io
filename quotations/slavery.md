@@ -6,7 +6,7 @@ modified:
 tags: [slavery, Jekyll, theme, responsive]
 ---
 
-![quill](../images/quill.gif "Quill Image")  
+![quill](../../images/quill.gif "Quill Image")  
 
 * "The augmentation of slaves weakens the states; and such a trade is diabolical in itself, and disgraceful to mankind."  
 **-- George Mason**  
