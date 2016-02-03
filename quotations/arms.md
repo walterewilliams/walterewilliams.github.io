@@ -4,8 +4,8 @@ title: Right to Keep and Bear Arms
 date: {{ date }}
 modified:
 ---
-![Soldier](../images/image032.gif "Soldier")  
-![quill](../images/quill.gif "Quill Image")  
+![Soldier](../../images/image032.gif "Soldier")  
+![quill](../../images/quill.gif "Quill Image")  
 <br>
 *"The most foolish mistake we could possibly make would be to allow the subject races to possess arms. History shows that all conquerors who have allowed their subject races to carry arms have prepared their own downfall by so doing."*  
 **-- Adolph Hitler, Hitler's Secret Conversations 403 (Norman Cameron and R.H. Stevens trans., 1961)**
