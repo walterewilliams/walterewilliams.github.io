@@ -10,7 +10,7 @@ tags: [government, Jekyll, theme, responsive]
 
 ### Constitutional Limitations on Government
 
-![quill](../images/quill.gif "Quill Image") 
+![quill](../../images/quill.gif "Quill Image") 
 
 * "As democracy is perfected, the office of the President represents, more and more closely, the inner soul of the people. On some great and glorious day, the plain folks of the land will reach their heart's desire at last and the White House will be occupied by a downright fool and complete narcissistic moron."  
 **-- H.L. Mencken, the Baltimore Evening Sun, July 26, 1920**  
