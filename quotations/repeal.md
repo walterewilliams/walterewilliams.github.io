@@ -4,8 +4,8 @@ title: Those Who Would Repeal That Right
 date: {{ date }}
 modified:
 ---
-![Second Amendment](../images/image014.gif "Second Amendment")  
-![quill](../images/quill.gif "Quill Image")  
+![Second Amendment](../../images/image014.gif "Second Amendment")  
+![quill](../../images/quill.gif "Quill Image")  
 
 * "We can't be so fixated on our desire to preserve the rights of ordinary Americans to legitimately own handguns and rifles ... that we are unable to think about reality."  
 **-- Bill Clinton, USA Today, 11 March 93, pg. 2A**  
