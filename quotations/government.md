@@ -6,7 +6,7 @@ modified:
 tags: [government, Jekyll, theme, responsive]
 ---
 
-![proclamation](../images/government.gif "Colonial Proclamation")  
+![proclamation](../../images/government.gif "Colonial Proclamation")  
 
 ### Constitutional Limitations on Government
 
