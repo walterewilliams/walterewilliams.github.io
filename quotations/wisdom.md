@@ -5,6 +5,7 @@ date: {{ date }}
 modified:
 tags: [quotations, Jekyll, theme, responsive]
 ---
+
 ![Independence Hall](../../images/indhall.gif "Independence Hall")  
 ![quill](../../images/quill.gif "Quill Image")  
 
