@@ -5,8 +5,8 @@ date: {{ date }}
 modified:
 tags: [quotations, Jekyll, theme, responsive]
 ---
-![Constitution](../images/const1.gif "Constitution")   
-![quill](../images/quill.gif "Quill Image") 
+![Constitution](../../images/const1.gif "Constitution")   
+![quill](../../images/quill.gif "Quill Image") 
 
 * "The men American people admire most extravagantly are the most daring liars; the men they detest most violently are those who try and tell them the truth" --H. L. Mencken
 
