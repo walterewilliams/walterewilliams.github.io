@@ -14,6 +14,9 @@ def format_title(title)
 end
 
 def markdown_title
+  if @title[-4,4] == "?.md"
+    @title = @title.gsub("?.md",".md")
+  end
   "#{@date}#{@title}.md"
 end
 
@@ -42,3 +45,4 @@ if @most_recent_date != @page_date
     f.print @page_date
   end
 end
+
