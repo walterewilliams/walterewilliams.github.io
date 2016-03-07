@@ -8,7 +8,7 @@ image:
 ### Wisdom of the Month
 
 #### Worrycrats, as I call them, are a special breed of totalitarian bureaucrats who spawn rapidly as society is socialized. These people concern themselves with our health, education, welfare, auto safety, drug intake, diet, and what have you. Worrycrats today outnumber any other professionals in history, so rapidly have they proliferated.
-### Leonard E. Read,Founder of the Foundation for Economic Education in The Freeman [April 1971]
+Leonard E. Read,Founder of the Foundation for Economic Education in The Freeman [April 1971]
 ### Items of Interest
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well) ![new](new.gif)
 * [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) ![new](new.gif)
