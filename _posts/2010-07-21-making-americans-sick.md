@@ -4,9 +4,6 @@ title:  Making Americans Sick
 excerpt:
 ---
 
-Making Americans Sick
-
-
 
 Health and Human Services Secretary Kathleen Sebelius promised, "The U.S. government plans to increase funding to battle obesity and views healthcare reform as an opportunity to encourage better eating habits." Rather than spending money and attacking the food industry, the secretary and others concerned with the health of Americans ought to go after the U.S. Congress. Let's look at it.
 
