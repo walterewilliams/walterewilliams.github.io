@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### Worrycrats, as I call them, are a special breed of totalitarian bureaucrats who spawn rapidly as society is socialized. These people concern themselves with our health, education, welfare, auto safety, drug intake, diet, and what have you. Worrycrats today outnumber any other professionals in history, so rapidly have they proliferated. Leonard E. Read [April 1971]
+#### In Federalist No. 1, Alexander Hamilton warned, "Of those men who have overturned the liberties of republics, the greatest number have begun their career by paying an obsequious court to the people, commencing demagogues and ending tyrants."
 
 ### Items of Interest
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well) ![new](new.gif)
