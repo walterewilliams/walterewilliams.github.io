@@ -29,38 +29,3 @@ Walter E. Williams is a professor of economics at George Mason University. To fi
 COPYRIGHT 2016 CREATORS.COM
 
 
-
-
-
-opinion
-
-conservative
-
-deficit
-
-politics
-
-united states
-
-china
-
-trade
-
-surplus
-
-angst
-
-
-
-
-
-Like it? Share it!
-
-
-
-1
-
-
-
-
-
