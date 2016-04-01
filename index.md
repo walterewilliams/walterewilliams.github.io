@@ -7,7 +7,8 @@ image:
 
 ### Wisdom of the Month
 
-#### In Federalist No. 1, Alexander Hamilton warned, "Of those men who have overturned the liberties of republics, the greatest number have begun their career by paying an obsequious court to the people, commencing demagogues and ending tyrants."
+#### There probably are as many persons coerced into acting, not as they want, but as others want, through majority rule as through totalitarian dictatorship. 
+							John C. Sparks, The Freeman [May 1971]
 
 ### Items of Interest
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well) ![new](new.gif)
