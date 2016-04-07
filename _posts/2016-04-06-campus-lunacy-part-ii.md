@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  
+title:  Campus Lunacy Part II
 excerpt:
 ---
 
