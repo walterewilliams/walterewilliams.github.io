@@ -7,7 +7,9 @@ image:
 
 ### Wisdom of the Month
 
-#### There probably are as many persons coerced into acting, not as they want, but as others want, through majority rule as through totalitarian dictatorship.     John C. Sparks, The Freeman [May 1971]
+#### To establish republican government, it is necessary to] effect a constitution in which the will of the nation shall have an organized control over the actions of its government, and its citizens a regular protection against its oppressions.
+Thomas Jefferson, Letter to Lafayette 1816
+
 
 ### Items of Interest
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well) ![new](new.gif)
