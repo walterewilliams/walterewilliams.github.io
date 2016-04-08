@@ -7,8 +7,8 @@ image:
 
 ### Wisdom of the Month
 
-#### To establish republican government, it is necessary to] effect a constitution in which the will of the nation shall have an organized control over the actions of its government, and its citizens a regular protection against its oppressions.
-####Thomas Jefferson, Letter to Lafayette 1816
+#### To establish republican government, it is necessary to] effect a constitution in which the will of the nation shall have an organized control over the actions of its government, and its citizens a regular protection against its oppressions.                   
+Thomas Jefferson, Letter to Lafayette 1816
 
 
 ### Items of Interest
