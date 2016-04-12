@@ -26,7 +26,7 @@ end
 if @most_recent_date != @page_date
   @date = format_date(Date.parse(@page_date))
   article = Nokogiri::HTML(open("http://www.creators.com/read/walter-williams"))
-  @article_title = article.css(".article_title")
+  @article_title = article.css("h1").text
   @title = format_title(article.css("h1").text)
   @body = article.css("#article-content").text
   @body = @body.gsub("  ", "")
