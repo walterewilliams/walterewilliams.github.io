@@ -7,9 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### To establish republican government, it is necessary to] effect a constitution in which the will of the nation shall have an organized control over the actions of its government, and its citizens a regular protection against its oppressions.                   
-Thomas Jefferson, Letter to Lafayette 1816
-
+#### Society in every state is a blessing, but government even in its best state is but a necessary evil; in its worst state an intolerable one; for when we suffer, or are exposed to the same miseries by a government, which we might expect in a country without government, our calamity is heightened by reflecting that we furnish the means by which we suffer.  Thomas Paine, Common Sense [1776]
 
 ### Items of Interest
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well) ![new](new.gif)
