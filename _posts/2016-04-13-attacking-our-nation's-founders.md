@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  
+title: Attacking Our Nation's Founders
 excerpt:
 ---
 
