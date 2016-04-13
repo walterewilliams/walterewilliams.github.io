@@ -9,6 +9,9 @@ image:
 
 #### Society in every state is a blessing, but government even in its best state is but a necessary evil; in its worst state an intolerable one; for when we suffer, or are exposed to the same miseries by a government, which we might expect in a country without government, our calamity is heightened by reflecting that we furnish the means by which we suffer.  Thomas Paine, Common Sense [1776]
 
+### Upcoming Event
+* [Lecture Troy University April 20, 2016](http://business.troy.edu/JohnsonCenter/MJCEvents.aspx)
+
 ### Items of Interest
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well) ![new](new.gif)
 * [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) 
