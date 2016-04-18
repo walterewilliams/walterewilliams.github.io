@@ -28,7 +28,7 @@ tags: [websites, Jekyll, theme, responsive]
 * [Human Progress](humanprogress.org/) -  The Cato Institute has complied a large and useful socioeconomic data set titled, Human Progress.
 * [Kahn Academy](https://www.khanacademy.org/) -  This is an excellent academic teaching site for all grades (K-12) plus college.
 * [Cafe Hayek](cafehayek.com/) -  Contains a wealth of very valuable information applying economics and straight thinking to a host of topics.
-* [Liberty Pen](http://libertypenblog.blogspot.com)
+* [Liberty Pen](http://libertypenblog.blogspot.com) - A Treasure Trove of Liberty-oriented Articles and Videos.
 * [Best of the Web](botw.org/top/Science/Social_Sciences/Economics/) -  An excellent source of information.
 * [Out Loud Opinion](www.outloudopinion.com/) - This website has audio versions of some libertarian/conservative columnists.
 * [National Association of Scholars](www.nas.org) - This website is an independent membership association of academics working to foster intellectual freedom and to sustain the tradition of reasoned scholarship and civil debate in America’s colleges and universities.
