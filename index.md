@@ -7,10 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### In a time of universal deceit - telling the truth is a revolutionary act. - George Orwell
-
-### Upcoming Event
-* [Lecture Troy University April 20, 2016](http://business.troy.edu/JohnsonCenter/MJCEvents.aspx)
+#### In a time of universal deceit, telling the truth is a revolutionary act. - George Orwell
 
 ### Items of Interest
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well) ![new](new.gif)
