@@ -33,6 +33,9 @@ if @most_recent_date != @page_date
   @body = @body.gsub(/\n\n\n\n\n/, "\n")
   @body = @body.gsub(/\n/, "\n\n")
 
+  @body = @body.slice(0..(@body.index(' visit the Creators Syndicate Web page at www.creators.com.')))
+  @body = @body + "visit the Creators Syndicate Web page at www.creators.com."
+
   open("/Users/sean/ruby/walterewilliams.github.io/_posts/"+markdown_title, 'w') do |f|
     f.puts "---"
     f.puts "layout: post"
