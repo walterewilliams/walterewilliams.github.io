@@ -16,49 +16,6 @@ Self-ownership can offer solutions to many seemingly moral/ethical dilemmas. One
 
 People have the right to take chances with their own lives. People do not have a right to take chances with the lives of others. That is why laws that mandate that cars have brakes are consistent with liberty and seat belt laws are not. You might say, "Aha, Williams, we've got you there because if you don't wear a seat belt and you have an accident and turn into a vegetable, society is burdened with taking care of you!" That's not a problem of liberty. It's a problem of socialism. Nobody should be forced to take care of me for any reason. If government assumes the job of taking care of us, then Congress can control just about every aspect of our lives. When I was a rebellious teenager, my mother frequently told me, "As long as you're living in my house and I'm paying the bills, you're going to do as I say." That kind of thinking is OK for children, but not for emancipated adults.
 
-
-
 I have only touched the surface of ideas of self-ownership. The immorality associated with violation of the principle of self-ownership lies at the root of problems that could lead to our doom as a great nation. In fiscal 2015, total government spending — federal, state and local — was about $6.41 trillion. That's about 36 percent of our gross domestic product. The federal government spent $3.69 trillion. At least two-thirds of that spending can be described as government's taking the property of one American and giving it to another. That's our moral tragedy: We've become a nation of people endeavoring to live at the expense of others — in a word, a nation of thieves.
 
 Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
-
-
-
-Like it? Share it!
-
-
-
-1
-
-
-
-
-
-opinion
-
-conservative
-
-rights
-
-theft
-
-property
-
-individuals
-
-ethical
-
-self-ownership
-
-
-
-
-
-About Walter E.Williams
-
-Read MoreWalter E. Williams
-
-
-
-
-
