@@ -9,8 +9,9 @@ image:
 
 ### "Where an excess of power prevails, property of no sort is duly respected. No man is safe in his opinions, his person, his faculties, or his possessions." —James Madison, 1792
 
-### Items of Interest
-* [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well) ![new](new.gif)
+### Items of Interest 
+* [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) ![new](new.gif)
+* [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well)
 * [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) 
 * [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
 * [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty) 
