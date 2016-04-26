@@ -26,7 +26,7 @@ end
 if @most_recent_date != @page_date
   @date = format_date(Date.parse(@page_date))
   article = Nokogiri::HTML(open("http://www.creators.com/read/walter-williams"))
-  @article_title = article.css(".article_title")
+  @article_title = article.css("h1").text
   @title = format_title(article.css("h1").text)
   @body = article.css("#article-content").text
   @body = @body.gsub("  ", "")
@@ -36,7 +36,7 @@ if @most_recent_date != @page_date
   @body = @body.slice(0..(@body.index(' visit the Creators Syndicate Web page at www.creators.com.')))
   @body = @body + "visit the Creators Syndicate Web page at www.creators.com."
 
-  open("/Users/sean/ruby/walterewilliams.github.io/_posts/"+markdown_title, 'w') do |f|
+  open("/home/sean/wewio/_posts/"+markdown_title, 'w') do |f|
     f.puts "---"
     f.puts "layout: post"
     f.puts "title:  #{@article_title}"

@@ -102,9 +102,6 @@ tags: [government, Jekyll, theme, responsive]
 * "A Constitution of Government once changed from Freedom, can never be restored. Liberty, once lost, is lost forever."  
 **--John Adams in a Letter to Abigail Adams (July 7, 1775)**  
 <br>
-* "When the people find they can vote themselves money, that will herald the end of the republic."  
-**-- Benjamin Franklin**  
-<br>
 * "It does not take a majority to prevail...but rather an irate, tireless minority, keen on setting brushfires of freedom in the minds of men."  
 **-- Samuel Adams**  
 <br>
