@@ -184,37 +184,36 @@ Table 1
 25 Wonderful Trends of the 20th Century
  
  
-Trend | 1900-1920a |1995-1998b
---- | --- | ---
-Life expectancy (years) | 47 | 77
-Infant mortality (deaths per 1,000 live births) | 100 | 7
-Deaths from infectious diseases (per 100,000 population) | 700 | 50
-Heart disease (age-adjusted deaths per 100,000 population) | 307 (1950) | 126
-Per capita GDP (1998 dollars) | $4,800 | $31,500
-Manufacturing wage (1998 dollars) | $3.40 | $12.50
-Household assets (trillions of 1998 dollars) | $6 (1945) | $41
-Poverty rate (percent of U.S. households) | 40 | 13
-Length of workweek (hours) | 50 | 35
-Agricultural workers (percent of workforce) | 35 | 2.5
-TV ownership (percent of U.S. households) | 0 | 98
-Homeownership (percent of U.S. households) | 46 | 66
-Electrification (percent of U.S. households) | 8 | 99
-Telephone calls (annual per capita calls) | 40 | 2,300
-Cars for transportation (percent of U.S. households) | 1 | 91
-Patents granted | 25,000 | 150,000
-High school completion (percent of adults) | 22 | 88
-Accidental deaths (per 100,000 population) | 88 | 34
-Wheat price (per bushel in hours of work) | 4.1 | 0.2
-Bachelor's degrees awarded to women (percent of degrees) | 34 | 55
-Black income (annual per capita, 1997 dollars) | $1,200 | $12,400
-Resident U.S. population (millions) | 76 | 265
-Air pollution (lead, micrograms per 100 cubic meters of air) | 135 (1977) | 4
-Computer speed (millions of instructions per second) | 0.02 (1976) | 700
-Computer ownership (percent of U.S. households) | 1 (1980) | 44
+|Trend | 1900-1920a |1995-1998b|
+|--- | --- | --- | 
+| Life expectancy (years) | 47 | 77 |
+| Infant mortality (deaths per 1,000 live births) | 100 | 7 |
+| Deaths from infectious diseases (per 100,000 population) | 700 | 50 |
+| Heart disease (age-adjusted deaths per 100,000 population) | 307 (1950) | 126 |
+| Per capita GDP (1998 dollars) | $4,800 | $31,500 |
+| Manufacturing wage (1998 dollars) | $3.40 | $12.50 |
+| Household assets (trillions of 1998 dollars) | $6 (1945) | $41 |
+| Poverty rate (percent of U.S. households) | 40 | 13 |
+| Length of workweek (hours) | 50 | 35 |
+| Agricultural workers (percent of workforce) | 35 | 2.5 |
+| TV ownership (percent of U.S. households) | 0 | 98 |
+| Homeownership (percent of U.S. households) | 46 | 66 |
+| Electrification (percent of U.S. households) | 8 | 99 |
+| Telephone calls (annual per capita calls) | 40 | 2,300 |
+| Cars for transportation (percent of U.S. households) | 1 | 91 |
+| Patents granted | 25,000 | 150,000 |
+| High school completion (percent of adults) | 22 | 88 |
+| Accidental deaths (per 100,000 population) | 88 | 34 |
+| Wheat price (per bushel in hours of work) | 4.1 | 0.2 |
+| Bachelor's degrees awarded to women (percent of degrees) | 34 | 55 |
+| Black income (annual per capita, 1997 dollars) | $1,200 | $12,400 |
+| Resident U.S. population (millions) | 76 | 265 |
+| Air pollution (lead, micrograms per 100 cubic meters of air) | 135 (1977) | 4 |
+| Computer speed (millions of instructions per second) | 0.02 (1976) | 700 |
+| Computer ownership (percent of U.S. households) | 1 (1980) | 44 |
  
 
 a) Values are for earliest year for which data are available.
-
 b) Values are for latest year for which data are available.
-
 Source: AThe Greatest Century That Ever Was: 25 Miraculous Trends of the Past 100 Years@ by Stephen Moore and Julian Simon. Policy Analysis No. 364 (Washington, D.C.: Cato Institute, December 15, 1999)
+
