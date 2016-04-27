@@ -214,6 +214,8 @@ Table 1
  
 
 a) Values are for earliest year for which data are available.
+
 b) Values are for latest year for which data are available.
+
 Source: AThe Greatest Century That Ever Was: 25 Miraculous Trends of the Past 100 Years@ by Stephen Moore and Julian Simon. Policy Analysis No. 364 (Washington, D.C.: Cato Institute, December 15, 1999)
 
