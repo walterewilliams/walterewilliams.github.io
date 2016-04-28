@@ -71,7 +71,6 @@ tags: [websites, Jekyll, theme, responsive]
 * [Rush Limbaugh Show](http://www.rushlimbaugh.com)
 * [The Free State Project](http://www.freestateproject.org) - The Free State Project is a plan in which 20,000 or more liberty-oriented people will move to a single state of the U.S. to secure there a free society.
 * [Ancient Currency: A Guide to Money in Ancient Times](http://www.comparecards.com/education/ancient-currency-a-guide-to-money-in-ancient-times)
-
 * [The Future of Freedom Foundation](http://www.fff.org) - An organization whose mission is to provide a moral, philosophical, and economical case for individual liberty, free markets, private property, and limited government.
 * [The Liberty Guide](http://www.LibertyGuide.com)
 * [World Net Daily](http://www.worldnetdaily.com/)
