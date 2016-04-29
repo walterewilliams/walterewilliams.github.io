@@ -10,7 +10,7 @@ modified:
 *"The most foolish mistake we could possibly make would be to allow the subject races to possess arms. History shows that all conquerors who have allowed their subject races to carry arms have prepared their own downfall by so doing."*  
 **-- Adolph Hitler, Hitler's Secret Conversations 403 (Norman Cameron and R.H. Stevens trans., 1961)**
 
-###What the Framers said about our Second Amendment Rights to Keep and Bear Arms
+### What the Framers said about our Second Amendment Rights to Keep and Bear Arms
 
 * "...if raised, whether they could subdue a Nation of freemen, who know how to prize liberty, and who have arms in their hands?"  
 **— Delegate Sedgwick, during the Massachusetts Convention, rhetorically asking if an oppressive standing army could prevail, Johnathan Elliot, ed., Debates in the Several State Conventions on the Adoption of the Federal Constitution, Vol.2 at 97 (2d ed., 1888)**  
