@@ -95,18 +95,25 @@ modified:
 <br>  
 *"And that the said Constitution be never construed to authorize Congress ... to prevent the people of the United States, who are peaceable citizens, from keeping their own arms.... "  
 **--Samuel Adams**
+<br>
 *"The ultimate authority ... resides in the people alone. ... The advantage of being armed, which the Americans possess over the people of almost every other nation ... forms a barrier against the enterprises of ambition, more insurmountable than any... Kingdoms of Europe ... are afraid to trust the people with arms."
 **James Madison
+<br>
 *"The people are not to be disarmed of their weapons. They are left in full possession of them."
 **Zacharia Johnson
+<br>
 *"Arms discourage and keep the invader and plunderer in awe, and preserve order in the world as well as property. ... Horrid mischief would ensue were the law-abiding deprived of the use of them."
 **Thomas Paine
+<br>
 *"The right of the citizens to keep and bear arms has justly been considered as the palladium of the liberties of a republic; since it offers a strong moral check against the usurpation and arbitrary power of rulers; and will generally, even if these are successful in the first instance, enable the people to resist and triumph over them."
 **Joseph Story
+<br>
 *"Let him candidly tell me, where and when did freedom exist when the sword and the purse were given up from the people? Unless a miracle in human affairs interposed, no nation ever retained its liberty after the loss of the sword and the purse ... The great object is, that every man be armed. ... Everyone who is able may have a gun." 
 **Patrick Henry
+<br>
 *"The foundation of everything is ... that the people will form an equal representative government ... that the people will be universally armed. ... A people that legislate for themselves ought to be in the habit of protecting themselves."
 **Joel Barlow
+<br>
 *In his Commonplace Book (1776), Thomas Jefferson cited the words of Cesare Beccaria from his seminal work, On Crimes and Punishment (1764): "Laws that forbid the carrying of arms ... disarm only those who are neither inclined nor determined to commit crimes. ... Such laws make things worse for the assaulted and better for the assailants; they serve rather to encourage than to prevent homicides, for an unarmed man may be attacked with greater confidence than an armed man."
 
 
