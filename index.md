@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-### "It is only when the people become ignorant and corrupt ... that they are incapable of exercising the sovereignty. Usurpation is then an easy attainment, and an usurper soon found. The people themselves become the willing instruments of their own debasement and ruin..." —James Monroe 1817
+### "It is only when the people become ignorant and corrupt ... that they are incapable of exercising their sovereignty. Usurpation is then an easy attainment, and an usurper soon found. The people themselves become the willing instruments of their own debasement and ruin..." —James Monroe 1817
 
 ### Items of Interest 
 * [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) ![new](new.gif)
