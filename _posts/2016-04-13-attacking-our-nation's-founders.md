@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
 title:  Attacking Our Nation's Founders
-=======
-title: Attacking Our Nation's Founders
->>>>>>> ab7c1d0d5dde2becf6c28a32ff428540ff5d3b60
 excerpt:
 ---
 
@@ -30,45 +26,6 @@ Ignorance of our history, coupled with an inability to think critically, has pro
 
 Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate Web page at www.creators.com.
 
-
-
-Like it? Share it!
-
-
-
-1
-
-
-
-
-
-opinion
-
-conservative
-
-united states
-
-racists
-
-history
-
-founding fathers
-
-slavery
-
-bernie sanders
-
-ignorance
-
-academia
-
-
-
-
-
-About Walter E.Williams
-
-Read MoreWalter E. Williams
 
 
 
