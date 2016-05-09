@@ -1,6 +1,10 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  Attacking Our Nation's Founders
+=======
+title: Attacking Our Nation's Founders
+>>>>>>> ab7c1d0d5dde2becf6c28a32ff428540ff5d3b60
 excerpt:
 ---
 
