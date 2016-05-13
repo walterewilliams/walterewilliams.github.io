@@ -4,28 +4,6 @@ title:  Fiddling Away Black Futures
 excerpt:
 ---
 
- 
-
-Fiddling Away Black Futures
-
-By Walter E.Williams
-
-
-
-May 11, 2016 5 min read
-
-Tweet
-
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-
- A- 
-
- A+ 
-
-
-
-
-
 Most black politicians, ministers, civil rights advocates and professionals support Hillary Clinton's quest for the presidency. Whoever becomes the next president, whether it's a Democrat or Republican, will mean little or nothing in terms of solutions to major problems that confront many black people. We've already seen that even a black president means little or nothing. Politics and political power cannot significantly improve the lives of most black people and may even be impediments.
 
 Blacks hold high offices and dominate the political arenas in Philadelphia, Detroit, Baltimore and other cities. Yet these are the very cities with the nation's poorest educational outcomes, highest crime rates, high illegitimacy rates and other forms of social pathology. Let's look at this pattern, focusing just on Philadelphia, Detroit and Baltimore, cities with large black populations and black-held political power for nearly a half-century.
