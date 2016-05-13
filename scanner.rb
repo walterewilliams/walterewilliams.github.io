@@ -33,7 +33,7 @@ if @most_recent_date != @page_date
   @body = @body.gsub(/\n\n\n\n\n/, "\n")
   @body = @body.gsub(/\n/, "\n\n")
 
-  @body = @body.slice(0..(@body.index(' Photo credit:')))
+  @body = @body.slice(0..(@body.index('Photo credit:')))
 
   open("/home/sean/wewio/_posts/"+markdown_title, 'w') do |f|
     f.puts "---"
