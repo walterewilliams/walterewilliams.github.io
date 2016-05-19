@@ -4,8 +4,6 @@ title:  Scalia School of Law
 excerpt:
 ---
 
-
-
 George Mason University School of Law has just been renamed the Antonin Scalia School of Law in honor of the late Supreme Court Justice Antonin Scalia. Accompanying the name change was a receipt of a $30 million gift: $10 million from the Charles Koch Foundation and $20 million from an anonymous donor. The combination of the names of Scalia and Koch has led to a number of George Mason University faculty getting their panties in a bunch — and understandably so. Let's look at it.
 
 Justice Antonin Scalia had a reputation on the court and in his written opinions as a person who revered the U.S. Constitution and the limits it places on the federal government. Many of my George Mason University colleagues have contempt for the U.S. Constitution and the limitations it sought to impose on the federal government. These are people who believe that it's OK for the U.S. Congress to forcibly use one American to serve the purposes of another American. That means people, such as Scalia, who respect the Constitution are a despised minority.
