@@ -18,7 +18,7 @@ tags: [courses, Jekyll, theme, responsive]
 
 **Econ 811**
 <br>
-[Syllabus for Econ 811, Fall 2016](Econ 811 Fall 2016 Syllabus.docx)
+[Syllabus for Econ 811, Fall 2016](Econ 811 Fall 2016 Syllabus.pdf)
 <br>
 [Bibliography for Economics 811](bibliography)
 <br>
