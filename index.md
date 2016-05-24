@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-### "It is only when the people become ignorant and corrupt ... that they are incapable of exercising their sovereignty. Usurpation is then an easy attainment, and an usurper soon found. The people themselves become the willing instruments of their own debasement and ruin..." —James Monroe 1817
+### "The most dangerous man, to any government, is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost invariably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is romantic, he tries to change it. And if he is not romantic personally, he is apt to spread discontent among those who are." —H. L. Mencken 1880-1956
 
 ### Items of Interest 
 * [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) ![new](new.gif)
