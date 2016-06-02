@@ -8,6 +8,7 @@ image:
 ### Wisdom of the Month
 
 ### "The government of the United States is a definite government, confined to specified objects. It is not like the state governments, whose powers are more general. Charity is no part of the legislative duty of the government." — James Madison 1794
+
 ### Items of Interest 
 * [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) ![new](new.gif)
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well)
