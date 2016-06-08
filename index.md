@@ -7,7 +7,8 @@ image:
 
 ### Wisdom of the Month
 
-### "The government of the United States is a definite government, confined to specified objects. It is not like the state governments, whose powers are more general. Charity is no part of the legislative duty of the government." — James Madison 1794
+### "The Constitution is not an instrument for government to restrain the people; it is an instrument for the people to restrain the government--lest it come to dominate our lives and our interests."  Patrick Henry
+
 
 ### Items of Interest 
 * [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) ![new](new.gif)
