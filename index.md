@@ -7,8 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-### "The Constitution is not an instrument for government to restrain the people; it is an instrument for the people to restrain the government--lest it come to dominate our lives and our interests."  Patrick Henry
-
+### What country ever existed a century and a half without a rebellion? …The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants. It is its natural manure.  – Thomas Jefferson, Letter to William Stephens Smith [November 13, 1787]
 
 ### Items of Interest 
 * [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) ![new](new.gif)
