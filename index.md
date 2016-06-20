@@ -7,7 +7,8 @@ image:
 
 ### Wisdom of the Month
 
-### What country ever existed a century and a half without a rebellion? …The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants. It is its natural manure.  – Thomas Jefferson, Letter to William Stephens Smith [November 13, 1787]
+### "The curious task about economics is to demonstrate to men how little they know about what they imagine they can design.”
+Friedrich Hayek – The Fatal Conceit
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)![new](new.gif)
