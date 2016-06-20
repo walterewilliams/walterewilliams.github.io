@@ -7,8 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-### "The curious task about economics is to demonstrate to men how little they know about what they imagine they can design.”
-Friedrich Hayek – The Fatal Conceit
+### "The curious task about economics is to demonstrate to men how little they know about what they imagine they can design.”     Friedrich Hayek – The Fatal Conceit
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)![new](new.gif)
