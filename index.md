@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-### "The curious task about economics is to demonstrate to men how little they know about what they imagine they can design.”     Friedrich Hayek – The Fatal Conceit
+### "Guard with jealous attention the public liberty. Suspect every one who approaches that jewel. Unfortunately, nothing will preserve it but downright force. Whenever you give up that force, you are inevitably ruined." —Patrick Henry 1788
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)![new](new.gif)
