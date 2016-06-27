@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-### "Guard with jealous attention the public liberty. Suspect every one who approaches that jewel. Unfortunately, nothing will preserve it but downright force. Whenever you give up that force, you are inevitably ruined." —Patrick Henry 1788
+### [T]he prerogatives of the federal government were carefully defined, and it was stipulated that any prerogative not comprised within that definition was to be retained by the states. Thus state government remained the rule; the federal government was the exception. Alexis de Tocqueville Democracy in America 1835-1840
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)![new](new.gif)
