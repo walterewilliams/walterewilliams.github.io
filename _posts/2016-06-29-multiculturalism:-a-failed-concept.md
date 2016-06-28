@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Multiculturalism: A Failed Concept
+title:  Multiculturalism&#58; A Failed Concept
 excerpt:
 ---
 
