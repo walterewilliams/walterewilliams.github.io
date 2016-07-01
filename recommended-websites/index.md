@@ -21,7 +21,6 @@ tags: [websites, Jekyll, theme, responsive]
 * [Freakonomics](http://www.freakonomics.com/)
 * [Everyday Economics](http://www.slate.com/authors.steven_e_landsburg.html)
 * [Supply-Side Economics](http://www.laffercenter.com/)
-* [James Gwartney Page](http://mailer.fsu.edu/~jgwartne/garnet-jgwartne/)
 * [Thomas Sowell Page](http://www.tsowell.com/)
 * [Invisible Heart](http://www.invisibleheart.com/)
 * [Profits are Progressive](https://www.youtube.com/watch?v=tdHwewUuXBg) - Recently produced Prager University five-minute video.
@@ -66,7 +65,6 @@ tags: [websites, Jekyll, theme, responsive]
 * [National Center For Public Policy Research](http://www.nationalcenter.org)
 * [National Council on Economic Education](http://www.economicsamerica.org) - A very useful site containing lots of information and lesson plans to help students to think and choose as consumers, savers, investors and citizens.
 * [Online Human Events](http://www.humanevents.com/) - Excellent source for current events and analysis.
-* [Politopia](http://www.politopia.com) - The Land of Custom Made Government
 * [Reason Foundation](http://www.reason.org)
 * [Rush Limbaugh Show](http://www.rushlimbaugh.com)
 * [The Free State Project](http://www.freestateproject.org) - The Free State Project is a plan in which 20,000 or more liberty-oriented people will move to a single state of the U.S. to secure there a free society.
