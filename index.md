@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-### [T]he prerogatives of the federal government were carefully defined, and it was stipulated that any prerogative not comprised within that definition was to be retained by the states. Thus state government remained the rule; the federal government was the exception. Alexis de Tocqueville Democracy in America 1835-1840
+### "If the federal government should overpass the just bounds of its authority and make a tyrannical use of its powers, the people, whose creature it is, must appeal to the standard they have formed, and take such measures to redress the injury done to the Constitution as the exigency may suggest and prudence justify." —Alexander Hamilton 1788
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)![new](new.gif)
