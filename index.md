@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-### "If the federal government should overpass the just bounds of its authority and make a tyrannical use of its powers, the people, whose creature it is, must appeal to the standard they have formed, and take such measures to redress the injury done to the Constitution as the exigency may suggest and prudence justify." —Alexander Hamilton 1788
+### No one can read our Constitution without concluding that the people who wrote it wanted their government severely limited; the words "no" and "not" employed in restraint of governmental power occur 24 times in the first seven articles of the Constitution and 22 more times in the Bill of Rights.– Edmund A. Opitz, The Freeman March 1965
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)![new](new.gif)
