@@ -10,7 +10,7 @@ image:
 #### "I think the best way of doing good to the poor, is not making them easy in poverty, but leading or driving them out of it. In my youth I travelled much, and I observed in different countries, that the more public provisions were made for the poor, the less they provided for themselves, and of course became poorer. And, on the contrary, the less was done for them, the more they did for themselves, and became richer." —Benjamin Franklin 1766
 
 ### Items of Interest 
-* [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)![new](new.gif)
+* [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
 * [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) 
 * [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well)
 * [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) 
