@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### Timid men prefer the calm of despotism to the boisterous sea of liberty. Thomas Jefferson, Letter to Philip Mazzei 
+#### Timid men prefer the calm of despotism to the boisterous sea of liberty. Thomas Jefferson, Letter to Philip Mazzei 1796
 
 
 ### Items of Interest 
