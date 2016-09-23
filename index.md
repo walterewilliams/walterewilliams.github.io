@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### Timid men prefer the calm of despotism to the boisterous sea of liberty. Thomas Jefferson, Letter to Philip Mazzei 1796
+#### "Laws that forbid the carrying of arms ... disarm only those who are neither inclined nor determined to commit crimes... Such laws make things worse for the assaulted and better for the assailants; they serve rather to encourage than to prevent homicides, for an unarmed man may be attacked with greater confidence than an armed man." —Cesare Beccaria 1738-1794
 
 
 ### Items of Interest 
