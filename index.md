@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "Laws that forbid the carrying of arms ... disarm only those who are neither inclined nor determined to commit crimes... Such laws make things worse for the assaulted and better for the assailants; they serve rather to encourage than to prevent homicides, for an unarmed man may be attacked with greater confidence than an armed man." —Cesare Beccaria 1738-1794
+#### "Man, once surrendering his reason, has no remaining guard against absurdities the most monstrous, and like a ship without rudder, is the sport of every wind. With such persons, gullibility, which they call faith, takes the helm from the hand of reason and the mind becomes a wreck." —Thomas Jefferson 
 
 
 ### Items of Interest 
