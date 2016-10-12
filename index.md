@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "I have sworn upon the altar of God, eternal hostility against every form of tyranny over the mind of man." – Thomas Jefferson
+#### "I have sworn upon the altar of God, eternal hostility against every form of tyranny over the mind of man." – Thomas Jefferson, Letter to Dr. Benjamin Rush September 23, 1800   
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
