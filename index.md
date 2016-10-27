@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "I have sworn upon the altar of God, eternal hostility against every form of tyranny over the mind of man." – Thomas Jefferson, Letter to Dr. Benjamin Rush September 23, 1800   
+#### "It has long, however, been my opinion, and I have never shrunk from  its expression ... that the germ of dissolution of our federal  government is in the constitution of the federal Judiciary; an  irresponsible body, (for impeachment is scarcely a scare-crow) working  like gravity by night and by day, gaining a little today and a little  tomorrow, and advancing its noiseless step like a thief, over the field  of jurisdiction, until all shall be usurped from the States, and the  government of all be consolidated into one." Thomas Jefferson 1821
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
