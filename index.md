@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "It has long, however, been my opinion, and I have never shrunk from  its expression ... that the germ of dissolution of our federal government is in the constitution of the federal Judiciary; an irresponsible body, working like gravity by night and by day, gaining a little today and a little  tomorrow, and advancing its noiseless step like a thief, over the field  of jurisdiction, until all shall be usurped from the States, and the  government of all be consolidated into one." Thomas Jefferson 1821
+#### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams 1749
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
