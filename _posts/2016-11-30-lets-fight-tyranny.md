@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Let's Fight Tyranny'
+title:  "Let's Fight Tyranny"
 excerpt:
 ---
 
