@@ -5,7 +5,6 @@ excerpt:
 ---
 
 
-
 For more than a half-century, it has become abundantly clear that our nation faces increasing irreconcilable differences. At the root is the fact that there is one group of Americans who mostly want to be left alone and live according to the rule of law and the dictates of the U.S. Constitution while another group of Americans wants to control the lives of others and ignore both the rule of law and constitutional restraints on the federal government. Should those Americans who favor the rule of law and constitutional government fight against or yield to those Americans who have contempt for the rule of law and constitutional government? Let's look at a few of those irreconcilable differences.
 
 Some Americans prefer to manage their own health care needs. Others wish to have the federal government dictate their health care. Some Americans want their earnings to be taxed only for the constitutionally mandated functions of the federal government, which are outlined in Article 1, Section 8 of the Constitution. Others think American earnings should be taxed for anything on which Congress can muster a majority vote. Though there is no constitutional authority for federal involvement in public education, some Americans want the federal government involved. The list of irreconcilable differences among the American people is nearly without end. These differences survive because of the timidity of those offended and the brute power of the federal government.
