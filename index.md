@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams 1749
+#### "The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government - lest it come to dominate our lives and interests."  Patrick Henry
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
