@@ -10,7 +10,7 @@ tags: [courses, Jekyll, theme, responsive]
 
 **Econ 306**
 <br>
-[Syllabus for Econ 306, Spring 2016](http://s3.amazonaws.com/chssweb/syllabuses/26054/original/ECON_306_004_Walter_Williams.pdf?1452112719)
+[Syllabus for Econ 306, Spring 2017](econ306spring2017.pdf)
 <br>
 [Final exam study questions](magnificence)
 
