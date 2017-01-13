@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government - lest it come to dominate our lives and interests."  Patrick Henry
+#### "In a constitutional democracy, persons owe loyalty to the constitution rather than the government. I have long argued that on precisely this point, American public attitudes are quite different from those of Europe. – JamesBuchanan, Speech at Hillsdale College 
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
