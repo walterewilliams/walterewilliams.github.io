@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "In a constitutional democracy, persons owe loyalty to the constitution rather than the government. I have long argued that on precisely this point, American public attitudes are quite different from those of Europe. – JamesBuchanan, Speech at Hillsdale College 
+#### "In a constitutional democracy, persons owe loyalty to the constitution rather than the government. I have long argued that on precisely this point, American public attitudes are quite different from those of Europe." – James Buchanan 
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
