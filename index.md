@@ -7,7 +7,8 @@ image:
 
 ### Wisdom of the Month
 
-#### Every man has freedom to do all that he wills, provided he infringes not the equal freedom of any other man. – Herbert Spencer,   [1851]
+#### Every man has freedom to do all that he wills, provided he infringes not the equal freedom of any other man. – Herbert Spencer,   
+
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
 * [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) 
