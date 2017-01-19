@@ -7,8 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "In a constitutional democracy, persons owe loyalty to the constitution rather than the government. I have long argued that on precisely this point, American public attitudes are quite different from those of Europe." – James Buchanan 
-
+#### Every man has freedom to do all that he wills, provided he infringes not the equal freedom of any other man. – Herbert Spencer,   [1851]
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
 * [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) 
