@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Lower Conduct Standards for Liberals'
+excerpt:
+---
+
+
+
+One can only imagine the widespread media, political and intellectual condemnation of Republicans and conservatives if, after the inauguration of Barack Obama, they had gone on a violent and vicious tear all over the nation as did Democrats and liberals after the inauguration of President Donald Trump. They committed acts such as assaulting Trump supporters, setting fires and stoning police. Suppose Republicans/conservatives had carried signs that read "F—- Obama" or talked about "blowing up the White House." The news media, instead of calling them protesters, would have labeled them evil racists, obstructionists and everything else except a child of God. The reason for the difference in treatment is simple. Republicans and conservatives are held — and hold themselves — to higher standards of behavior. By contrast, Democrats and liberals are held — and hold themselves — to less civilized standards of behavior. Let's look at some of the history of conservative and liberal behavior.
+
+One of the nastiest more recent liberal events was the Occupy movement around the nation. During Occupy protests, there were rapes, assaults, robberies and holdups. These people publicly defecated and urinated on police cars. The mess they left after their demonstrations can be described as no more than a pigsty. Does anybody recall any Democratic official, from the president on down, admonishing them to behave? Contrast their behavior with that of tea party protesters. Tea partyers didn't set fires, stone police or engage in the other kinds of despicable behavior the liberal Democrats did. On top of that, they left the areas where they protested clean.
+
+Ask yourself whether you have ever seen Republicans/conservatives rioting, turning over police cars, looting, setting places of business on fire and shouting obscenities while marching. Have you ever seen conservatives marching with chants calling for the murder of police officers? You may have heard liberals yelling, "What do we want? Dead cops! When do we want it? Now!" In fact, virtually all of the violence against police — whether it's throwing stones, ambushing or murdering — is committed by liberals or people who'd identify as Democrats. The fact of the matter is that if we were to examine criminality in America — whether talking about murderers, muggers or prisoners — it would be dominated by people who would be described as liberals, Democrats and Hillary Clinton supporters.
+
+Democrats and liberals accuse Republicans of conducting a war on women. Assault, rape and murder are the worst things that can be done to a woman. I would bet a lot of money that most of the assaults, rapes and murders of women are done by people who identify as liberals, and if they voted or had a party affiliation, it would be Democratic.
+
+One of the most glaring examples of how liberals are held to lower standards comes when we look at what they control. The nation's most dangerous big cities in 2012 were Detroit, Oakland, St. Louis, Memphis, Stockton, Birmingham, Baltimore, Cleveland, Atlanta and Milwaukee (http://tinyurl.com/qeusjj4). The most common characteristic of these cities is that for decades, all of them have been run by Democratic and presumably liberal administrations. Some cities — such as Detroit, Buffalo, Newark and Philadelphia — haven't elected a Republican mayor for more than a half-century. It's not just personal safety. These Democratic-controlled cities have the poorest-quality public education despite the fact that they have large and growing school budgets. Most of these dangerous cities have suffered massive decreases in population. Some observers have suggested that racism has caused white flight to the suburbs. But these observers ignore the fact that black flight has become increasingly significant. It turns out that black people do not like to be mugged and live in unsafe neighborhoods any more than white people.
+
+
+
+Republicans and conservatives, including President Trump, should not gripe or whine about different treatment by the liberal media. Magnanimity commands that we have compassion and try to understand our fallen brethren. We should make every effort to sell them on the moral superiority of personal liberty and its main ingredient — limited government.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate webpage at www.creators.com.
