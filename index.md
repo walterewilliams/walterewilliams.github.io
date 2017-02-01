@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### Every man has freedom to do all that he wills, provided he infringes not the equal freedom of any other man. – Herbert Spencer,   
+#### “[T]he opinion which gives to the judges the right to decide what laws are constitutional and what not, not only for themselves, in their, own sphere of action, but for the Legislature and Executive also in their spheres, would make the Judiciary a despotic branch.” —Thomas Jefferson - 1804 
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
