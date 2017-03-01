@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### “[T]he opinion which gives to the judges the right to decide what laws are constitutional and what not, not only for themselves, in their, own sphere of action, but for the Legislature and Executive also in their spheres, would make the Judiciary a despotic branch.” —Thomas Jefferson - 1804 
+#### "God grants liberty only to those who love it, and are always ready to guard and defend it." Daniel Webster, Speech 1834
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
