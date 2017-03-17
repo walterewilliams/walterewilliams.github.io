@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "What, Sir, is the use of a militia? It is to prevent the establishment of a standing army, the bane of liberty. Whenever Governments mean to invade the rights and liberties of the people, they always attempt to destroy the militia, in order to raise an army upon their ruins."  – Rep. Elbridge Gerry of Massachusetts, floor debate over the Second Amendment [1789]
+#### The lie can be maintained only for such time as the State can shield the people from the political, economic and/or militaryconsequences of the lie. It thus becomes vitally important for the State to use all of its powers to repress dissent, for the truth is the mortal enemy of the lie, and thus by extension, the truth becomes the greatest enemy of the State. – Joseph Goebbels
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
