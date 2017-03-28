@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### The lie can be maintained only for such time as the State can shield the people from the political, economic and/or militaryconsequences of the lie. It thus becomes vitally important for the State to use all of its powers to repress dissent, for the truth is the mortal enemy of the lie, and thus by extension, the truth becomes the greatest enemy of the State. – Joseph Goebbels
+#### Liberty lies in the hearts of men and women;when it dies there, no constitution, no law, no court can save it. Judge Learned Hand
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
