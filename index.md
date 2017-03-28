@@ -7,8 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### Liberty lies in the hearts of men and women; when it dies there, no constitution, no law, no court can save it.  Judge Learned Hand
-                                                                                                 
+#### Liberty lies in the hearts of men and women; when it dies there, no constitution, no law, no court can save it.  Judge Learned Hand                                                                                            
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
