@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### Liberty lies in the hearts of men and women; when it dies there, no constitution, no law, no court can save it.  Judge Learned Hand                                                                                            
+#### The American people will never knowingly adopt socialism. But under the name of 'liberalism' they will adopt every fragment of the socialist program, until one day America will be a socialist nation, without knowing how it happened. – NormanThomas,six-time Socialist presidential candidate [1944]                                                                                   
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
