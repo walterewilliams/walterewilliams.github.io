@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### The American people will never knowingly adopt socialism. But under the name of 'liberalism' they will adopt every fragment of the socialist program, until one day America will be a socialist nation, without knowing how it happened. – Norman Thomas, six-time Socialist presidential candidate [1944]                                                                                   
+#### "The ultimate authority ... resides in the people alone. ... [T]he advantage of being armed, which the Americans possess over the people of almost every other nation ... forms a barrier against the enterprises of ambition, more insurmountable than any..." —James Madison (1788)                                                                                  
 
 ### Items of Interest 
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
