@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "The ultimate authority ... resides in the people alone. ... [T]he advantage of being armed, which the Americans possess over the people of almost every other nation ... forms a barrier against the enterprises of ambition, more insurmountable than any..." —James Madison (1788)                                                                                  
+#### The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite. – James Madison, Federalist No. 45 [January 26, 1788]                                                                         
 
 ### Items of Interest 
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
