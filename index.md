@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite. – James Madison, Federalist No. 45 [January 26, 1788]                                                                         
+#### "Facts are stubborn things; and whatever may be our wishes, our inclination, or the dictates of our passions, they cannot alter the state of facts and evidence." — John Adams 1770                                                                       
 
 ### Items of Interest 
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
