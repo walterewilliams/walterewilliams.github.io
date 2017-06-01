@@ -18,8 +18,8 @@ image:
 * [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
 * [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty) 
 * [Is Capitalism Moral](http://prageruniversity.com/History/Is-Capitalism-Moral.html#.Vfcqb_-FNjo)
-* [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Recent selected collection of my weekly syndicated columns.
-* [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Recently produced Prager University five-minute video
+* [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Selected collection of my weekly syndicated columns.
+* [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Prager University five-minute video
 * [Walter Williams at FEE](http://www.fee.org/the_freeman/detail/walter-williams-at-fee)
 * [Suffer No Fools](http://www.freetochoose.tv/program.php?id=suffer_no_fools) based on Up From The Projects: An Autobiography that aired on PBS stations winter/spring (2015)
 * [President Herbert Hoover and the Great Depression](http://www.prageruniversity.com/History/Hoover-and-the-Great-Depression.html#.U58wRY1OWot)
