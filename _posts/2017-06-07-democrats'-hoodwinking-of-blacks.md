@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Democrats' Hoodwinking of Blacks'
+title:  Democrats Hoodwinking of Blacks
 excerpt:
 ---
 
