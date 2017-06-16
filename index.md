@@ -7,8 +7,8 @@ image:
 
 ### Wisdom of the Month
 
-#### "Facts are stubborn things; and whatever may be our wishes, our inclination, or the dictates of our passions, they cannot alter the state of facts and evidence." — John Adams 1770                                                                       
-
+#### That the said Constitution shall never be construed to authorize Congress to infringe the just liberty of the press or the rights of conscience; or to prevent the people of the United States who are peaceable citizens from keeping their own arms 
+Samuel Adams, Debates and Proceedings in the Convention of the Commonwealth of Massachusetts                                                                       
 ### Items of Interest 
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
