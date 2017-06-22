@@ -6,9 +6,7 @@ image:
 ---
 
 ### Wisdom of the Month
-
-#### "When we are planning for posterity, we ought to remember that virtue is not hereditary." —Thomas Paine (1776)
-                                                                      
+#### "When we are planning for posterity, we ought to remember that virtue is not hereditary." —Thomas Paine (1776)                                                                  
 ### Items of Interest 
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
