@@ -6,7 +6,7 @@ image:
 ---
 
 ### Wisdom of the Month
-#### "When we are planning for posterity, we ought to remember that virtue is not hereditary." —Thomas Paine (1776)                                                                  
+#### Yesterday, the greatest question was decided which ever was debated in America, and a greater perhaps never was nor will be decided among men. A resolution passed without one dissenting colony,"that these United Colonies are, and of right ought to be, free and independent States." – John Adams, Letter to Abigail Adams [July 3, 1776]                                                                  
 ### Items of Interest 
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
