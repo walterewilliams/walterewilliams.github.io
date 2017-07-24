@@ -6,7 +6,7 @@ image:
 ---
 
 ### Wisdom of the Month
-#### Yesterday, the greatest question was decided which ever was debated in America, and a greater perhaps never was nor will be decided among men. A resolution passed without one dissenting colony,"that these United Colonies are, and of right ought to be, free and independent States." – John Adams, Letter to Abigail Adams [July 3, 1776]                                                                  
+#### "Dependence begets subservience and venality, suffocates the germ of virtue, and prepares fit tools for the designs of ambition." —Thomas Jefferson 1781                                                              
 ### Items of Interest 
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
