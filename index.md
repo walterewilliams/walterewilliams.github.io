@@ -6,7 +6,7 @@ image:
 ---
 
 ### Wisdom of the Month
-#### Freedom is not a gift bestowed upon us by other men, but a right that belongs to us by the laws of God and nature.  John Webbe, Pennsylvania Gazette [1736]
+#### Freedom is not a gift bestowed upon us by other men, but a right that belongs to us by the laws of God and nature.              John Webbe, Pennsylvania Gazette [1736]
                                                          
 ### Items of Interest 
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
