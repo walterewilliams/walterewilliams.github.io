@@ -6,7 +6,8 @@ image:
 ---
 
 ### Wisdom of the Month
-#### In 1794, when Congress appropriated $15,000 for relief of French refugees who fled from insurrection in San Domingo to Baltimore and Philadelphia, James Madison stood on the floor of the House to object saying, “I cannot undertake to lay my finger on that article of the Constitution which granted a right to Congress of expending, on objects of benevolence, the money of their constituents.” – James Madison, 4 Annals of Congress 179 (1794)                                                            
+#### Freedom is not a gift bestowed upon us by other men, but a right that belongs to us by the laws of God and nature.  John Webbe, Pennsylvania Gazette [1736]
+                                                         
 ### Items of Interest 
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
