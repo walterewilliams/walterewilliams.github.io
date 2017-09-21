@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'We're All to Blame'
+title:  "We're All to Blame"
 excerpt:
 ---
 
