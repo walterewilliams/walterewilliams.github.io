@@ -17,7 +17,7 @@ def markdown_title
   if @title[-4,4] == "?.md"
     @title = @title.gsub("?.md",".md")
   end
-  "#{@date}#{@title}.md"
+  "#{@date}#{@title}.md".gsub("'","")
 end
 
 @page_date = doc.css(".top").text
@@ -38,7 +38,7 @@ if @most_recent_date != @page_date
   open("/home/sean/wewio/_posts/"+markdown_title, 'w') do |f|
     f.puts "---"
     f.puts "layout: post"
-    f.puts "title:  '#{@article_title}'"
+    f.puts "title:  \"#{@article_title}\""
     f.puts "excerpt:"
     f.puts "---"
     f.puts
