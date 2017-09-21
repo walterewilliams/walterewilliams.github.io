@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'The Welfare State's Legacy'
+title:  "The Welfare State's Legacy"
 excerpt:
 ---
 
