@@ -6,7 +6,8 @@ image:
 ---
 
 ### Wisdom of the Month
-#### "Society in every state is a blessing, but government, even in its best state, is but a necessary evil; in its worst state an intolerable one; for when we suffer or are exposed to the same miseries by a government, which we might expect in a country without government, our calamity is heightened by reflecting that we furnish the means by which we suffer." —Thomas Paine (1776)                                                         
+#### "Facts are stubborn things; and whatever may be our wishes, our inclination, or the dictates of our passions, they cannot alter the state of facts and evidence."—John Adams (1770)
+
 ### Items of Interest 
 
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
