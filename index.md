@@ -6,7 +6,7 @@ image:
 ---
 
 ### Wisdom of the Month
-#### "Facts are stubborn things; and whatever may be our wishes, our inclination, or the dictates of our passions, they cannot alter the state of facts and evidence."—John Adams (1770)
+#### "To preserve liberty, it is essential that the whole body of the people always possess arms, and be taught alike, especially when young, how to use them... The mind that aims at a select militia, must be influenced by a truly anti-republican principle; and when we see many men disposed to practice upon it, whenever they can prevail, no wonder true republicans are for carefully guarding against it." —Federal Farmer (1787)
 
 ### Items of Interest 
 
