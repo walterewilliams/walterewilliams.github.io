@@ -6,7 +6,7 @@ image:
 ---
 
 ### Wisdom of the Month
-#### "To preserve liberty, it is essential that the whole body of the people always possess arms, and be taught alike, especially when young, how to use them... The mind that aims at a select militia, must be influenced by a truly anti-republican principle; and when we see many men disposed to practice upon it, whenever they can prevail, no wonder true republicans are for carefully guarding against it." —Federal Farmer (1787)
+#### "Republics are created by the virtue, public spirit, and intelligence of the citizens. They fall, when the wise are banished from the public councils, because they dare to be honest, and the profligate are rewarded, because they flatter the people, in order to betray them." —Joseph Story (1833) U.S. Supreme Court Justice 1811 to 1845 
 
 ### Items of Interest 
 
