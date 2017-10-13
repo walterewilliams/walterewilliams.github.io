@@ -6,7 +6,7 @@ image:
 ---
 
 ### Wisdom of the Month
-#### "Republics are created by the virtue, public spirit, and intelligence of the citizens. They fall, when the wise are banished from the public councils, because they dare to be honest, and the profligate are rewarded, because they flatter the people, in order to betray them." —Joseph Story (1833) U.S. Supreme Court Justice 1811 to 1845 
+#### "The imposition of the [income] tax will corrupt the people. It will bring in its train the spy and the informer. It will necessitate a swarm of officials with inquisitorial powers. It is a direct step toward centralization…. It breaks another canon of taxation in that it is expensive in its collection and cannot be fairly gathered;… and finally, it is contrary to the traditions and principle of republican government. – Representative Robert Adams (1894)
 
 ### Items of Interest 
 
