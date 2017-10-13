@@ -6,7 +6,7 @@ image:
 ---
 
 ### Wisdom of the Month
-#### "The imposition of the [income] tax will corrupt the people. It will bring in its train the spy and the informer. It will necessitate a swarm of officials with inquisitorial powers. It is a direct step toward centralization…. It breaks another canon of taxation in that it is expensive in its collection and cannot be fairly gathered;… and finally, it is contrary to the traditions and principle of republican government. – Representative Robert Adams (1894)
+#### "The imposition of the [income] tax will corrupt the people. It will bring in its train the spy and the informer. It will necessitate a swarm of officials with inquisitorial powers. It is a direct step toward centralization…. It breaks another canon of taxation in that it is expensive in its collection and cannot be fairly gathered; . . . and finally, it is contrary to the traditions and principle of republican government." – Representative Robert Adams (1894)
 
 ### Items of Interest 
 
