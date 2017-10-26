@@ -16,16 +16,13 @@ tags: [government, Jekyll, theme, responsive]
 **-- H.L. Mencken, the Baltimore Evening Sun, July 26, 1920**  
 <br>
 * "The government of the United States is a definite government, confined to specified objects. It is not like state governments, whose powers are more general. Charity is no part of the legislative duty of the government."  
+* "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt."  
+**-- Samuel Adams Essay in the Public Advertiser, 1749**  
+<br>
 **-- James Madison, speech in the House of Representatives, January 10, 1794**  
 <br>
 * "Democracy will soon degenerate into an anarchy; such an anarchy that every man will do what is right in his own eyes and no man's life or property or reputation or liberty will be secure, and every one of these will soon mould itself into a system of subordination of all the moral virtues and intellectual abilities, all the powers of wealth, beauty, wit, and science, to the wanton pleasures, the capricious will, and the execrable cruelty of one or a very few."  
 **-- John Adams, An Essay on Man's Lust for Power (1763)**  
-<br>
-* "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt."  
-**-- Samuel Adams Essay in the Public Advertiser, 1749**  
-<br>
-* "It is the responsibility of the patriot to protect his country from its government."  
-**-- Thomas Paine**  
 <br>
 * "Resolved, that the several States composing the United States of America, are not united on the principle of unlimited submission to their general government . . . whensoever the general government assumes undelegated powers, its acts are unauthoritative, void, and of no force."  
 **-- Thomas Jefferson, /Draft Kentucky Resolutions/ [1798]**  
