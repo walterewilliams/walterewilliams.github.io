@@ -6,7 +6,19 @@ image:
 ---
 
 ### Wisdom of the Month
-#### "The imposition of the [income] tax will corrupt the people. It will bring in its train the spy and the informer. It will necessitate a swarm of officials with inquisitorial powers. It is a direct step toward centralization…. It breaks another canon of taxation in that it is expensive in its collection and cannot be fairly gathered; . . . and finally, it is contrary to the traditions and principle of republican government." – Representative Robert Adams (1894)
+#### "The main vice of capitalism is the uneven distribution of prosperity. The main vice of socialism is the even distribution of misery." —Sir Winston Churchill (1874-1965)
+
+### Items of Interest 
+
+* [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
+* [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
+* [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) 
+* [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well)
+* [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) 
+* [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
+* [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty) 
+* [Is Capitalism Moral](http://prageruniversity.com/History/Is-Capitalism-Moral.html#.Vfcqb_-FNjo)
+* [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Selected collection of my weekly syndicated column
 
 ### Items of Interest 
 
