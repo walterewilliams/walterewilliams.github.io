@@ -6,7 +6,38 @@ image:
 ---
 
 ### Wisdom of the Month
-#### "The main vice of capitalism is the uneven distribution of prosperity. The main vice of socialism is the even distribution of misery." —Sir Winston Churchill (1874-1965)
+
+#### "The man who never looks into a newspaper is better informed than he who reads them; inasmuch as he who knows nothing is nearer to truth than he whose mind is filled with falsehood and errors.”―Thomas Jefferson
+
+### Items of Interest 
+
+* [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
+* [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
+* [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) 
+* [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well)
+* [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) 
+* [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
+* [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty) 
+* [Is Capitalism Moral](http://prageruniversity.com/History/Is-Capitalism-Moral.html#.Vfcqb_-FNjo)
+* [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Selected collection of my weekly syndicated columns.
+* [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Prager University five-minute video
+* [Walter Williams at FEE](http://www.fee.org/the_freeman/detail/walter-williams-at-fee)
+* [Suf
+
+### Items of Interest 
+
+* [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
+* [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
+* [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) 
+* [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well)
+* [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) 
+* [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
+* [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty) 
+* [Is Capitalism Moral](http://prageruniversity.com/History/Is-Capitalism-Moral.html#.Vfcqb_-FNjo)
+* [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Selected collection of my weekly syndicated columns.
+* [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Prager University five-minute video
+* [Walter Williams at FEE](http://www.fee.org/the_freeman/detail/walter-williams-at-fee)
+* [Suf
 
 ### Items of Interest 
 
