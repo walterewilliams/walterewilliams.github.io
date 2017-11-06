@@ -62,7 +62,7 @@ image:
 * [Friedrich von Hayek "The Pretence of Knowledge"](http://www.nobelprize.org/nobel_prizes/economics/laureates/1974/hayek-lecture.html) This highly readable essay explains the foolhardiness of economic planning.
 * [Economic Freedom](http://www.youtube.com/user/EconFree)
 * [John Stossel's show, "The State Against Blacks"](http://www.youtube.com/watch?v=85OIBOSJTwg)- featuring Walter E. Williams [Part 1](http://www.youtube.com/watch?v=85OIBOSJTwg), [Part 2](http://www.youtube.com/watch?v=3Kij_TtBXU8&NR=1), [Part 3](http://www.youtube.com/watch?v=AGnfjRStNok&NR=1)
-* [2003 Toast to Walter E. Williams](https://vimeo.com/149441329) Runtime: 1.5 hours
+* [2003 Toast to Walter E. Williams](https://www.bing.com/videos/search?q=%E2%80%A22003+Toast+to+Walter+E.+Williams&src=IE-SearchBox&ru=%2fsearch%3fq%3d%25E2%2580%25A22003%2bToast%2bto%2bWalter%2bE.%2bWilliams%26src%3dIE-SearchBox%26FORM%3dIESR4N&view=detail&mmscn=vwrc&mid=7E9EE45537516CCC43847E9EE45537516CCC4384&FORM=WRVORC) Runtime: 1.5 hours
 * [Up From the Projects](http://www.youtube.com/watch?v=7butJGdUmK0) Walter E. Williams slays myths in an interview with Nick Gillespie in this Reason.tv video.
 * [The State Against Blacks](http://online.wsj.com/article/SB10001424052748704881304576094221050061598.html?mod=WSJ_Opinion_LEADTop) Dr. Williams is celebrated in this WSJ Interview by Jason Riley
 * [How Much Can Discrimination Explain?](http://www.youtube.com/watch?v=KKgHc6bWqZ4) A Young Walter E. Williams asks: How Much Can Discrimination Explain? (53 min).
