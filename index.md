@@ -22,36 +22,6 @@ image:
 * [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Selected collection of my weekly syndicated columns.
 * [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Prager University five-minute video
 * [Walter Williams at FEE](http://www.fee.org/the_freeman/detail/walter-williams-at-fee)
-* [Suf
-
-### Items of Interest 
-
-* [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
-* [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
-* [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) 
-* [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well)
-* [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) 
-* [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
-* [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty) 
-* [Is Capitalism Moral](http://prageruniversity.com/History/Is-Capitalism-Moral.html#.Vfcqb_-FNjo)
-* [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Selected collection of my weekly syndicated columns.
-* [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Prager University five-minute video
-* [Walter Williams at FEE](http://www.fee.org/the_freeman/detail/walter-williams-at-fee)
-* [Suf
-
-### Items of Interest 
-
-* [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
-* [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
-* [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) 
-* [Dear Future Professor, my letter published by the National Association of Scholars](https://www.nas.org/articles/dear_future_professor_what_ive_learned_about_teaching_well)
-* [Three Reasons Why a $15 Minimum Wage Is a Bad Idea](http://tinyurl.com/jg6hu4p) 
-* [In Depth with Walter Williams- 3-hour interview on C-Span November 1, 2015](http://www.c-span.org/video/?326444-1/depth-walter-williams) 
-* [Book Discussion on American Contempt for Liberty - C-Span June 24, 2015](http://www.c-span.org/video/?326747-1/walter-williams-american-contempt-liberty) 
-* [Is Capitalism Moral](http://prageruniversity.com/History/Is-Capitalism-Moral.html#.Vfcqb_-FNjo)
-* [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Selected collection of my weekly syndicated columns.
-* [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Prager University five-minute video
-* [Walter Williams at FEE](http://www.fee.org/the_freeman/detail/walter-williams-at-fee)
 * [Suffer No Fools](http://www.freetochoose.tv/program.php?id=suffer_no_fools) based on Up From The Projects: An Autobiography that aired on PBS stations winter/spring (2015)
 * [President Herbert Hoover and the Great Depression](http://www.prageruniversity.com/History/Hoover-and-the-Great-Depression.html#.U58wRY1OWot)
 * [George Gilder, “Why Capitalism Works.”](http://www.prageruniversity.com/Economics/Why-Capitalism-Works.html#.Ux20p42Yaot)
