@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "The man who never looks into a newspaper is better informed than he who reads them; inasmuch as he who knows nothing is nearer to truth than he whose mind is filled with falsehood and errors.”―Thomas Jefferson
+#### "Government is instituted to protect property of every sort; as well that which lies in the various rights of individuals, as that which the term particularly expresses. This being the end of government, that alone is a just government which impartially secures to every man whatever is his own."  – James Madison, National Gazette [1792
 
 ### Items of Interest 
 
