@@ -6,6 +6,7 @@ modified:
 tags: [websites, Jekyll, theme, responsive]
 ---
 
+* [Communism at "Peace"](http://communiststats.com/)
 * [Fraser Institute](http://www.fraserinstitute.org/)
 * [Mercatus Center](http://www.mercatus.org/)
 * [Institute for Humane Studies](http://www.theihs.org/)
