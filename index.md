@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies. The robber baron’s cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end for they do so with the approval of their own conscience." C.S.Lewis, "God in the Dock" 
+#### "The great virtue of free enterprise is that it forces existing businesses to meet the test of the market continuously, to produce products that meet consumer demands at lowest cost, or else be driven from the market. It is a profit-and-loss system. Naturally, existing businesses generally prefer to keep out competitors in other ways. That is why the business community, despite its rhetoric, has so often been a major enemy of truly free enterprise." – Milton Friedman 
 
 ### Items of Interest 
 
