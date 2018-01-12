@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "The great virtue of free enterprise is that it forces existing businesses to meet the test of the market continuously, to produce products that meet consumer demands at lowest cost, or else be driven from the market. It is a profit-and-loss system. Naturally, existing businesses generally prefer to keep out competitors in other ways. That is why the business community, despite its rhetoric, has so often been a major enemy of truly free enterprise." – Milton Friedman 
+#### "To take from one, because it is thought his own industry ... has acquired too much, in order to spare to others, who ... have not exercised equal industry and skill, is to violate arbitrarily the first principle of association, the guarantee to everyone the free exercise of his industry and the fruits acquired by it." —Thomas Jefferson (1816)
 
 ### Items of Interest 
 
