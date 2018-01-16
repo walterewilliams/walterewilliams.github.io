@@ -7,6 +7,7 @@ tags: [archive, Jekyll, theme, responsive]
 ---
 
 Syndicated columns by year:
+
 | **[2018](/posts/2002)** | **[2017](/posts/2001)** | **[2016](/posts/2000)** |
 | **[2015](/posts/2015)** | **[2014](/posts/2014)** | **[2013](/posts/2013)** |
 | **[2012](/posts/2012)** | **[2011](/posts/2011)** | **[2010](/posts/2010)** |
