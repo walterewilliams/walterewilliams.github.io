@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "To take from one, because it is thought his own industry ... has acquired too much, in order to spare to others, who ... have not exercised equal industry and skill, is to violate arbitrarily the first principle of association, the guarantee to everyone the free exercise of his industry and the fruits acquired by it." —Thomas Jefferson (1816)
+#### "Beware the greedy hand of government, thrusting itself into every corner and crevice of industry." – Thomas Paine
 
 ### Items of Interest 
 
