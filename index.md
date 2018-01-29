@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "If the federal government should overpass the just bounds of its authority and make a tyrannical use of its powers, the people, whose creature it is, must appeal to the standard they have formed, and take such measures to redress the injury done to the Constitution as the exigency may suggest and prudence justify." —Alexander Hamilton (1788)
+#### "With respect to the two words "general welfare," I have always regarded them as qualified by the detail of powers connected with them. To take them in a literal and unlimited sense would be a metamorphosis of the Constitution into a character which there is a host of proofs was not contemplated by its creators." – James Madison
 
 ### Items of Interest 
 
