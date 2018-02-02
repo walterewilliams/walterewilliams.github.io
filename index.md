@@ -7,7 +7,8 @@ image:
 
 ### Wisdom of the Month
 
-#### "With respect to the two words "general welfare," I have always regarded them as qualified by the detail of powers connected with them. To take them in a literal and unlimited sense would be a metamorphosis of the Constitution into a character which there is a host of proofs was not contemplated by its creators." – James Madison
+#### "The greatest dangers to liberty lurk in insidious encroachment by men of zeal, well-meaning but without understanding." – Louis Dembitz Brandeis, Whitney v. California
+[1927]
 
 ### Items of Interest 
 
