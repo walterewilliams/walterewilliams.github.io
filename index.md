@@ -1,4 +1,4 @@
- 
+----
 layout: home
 excerpt: "Homepage of Walter E. Williams"
 tags:
