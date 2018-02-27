@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Another Liberal-Created Failure"
+excerpt:
+---
+
+
+
+A liberal-created failure that goes entirely ignored is the left's harmful agenda for society's most vulnerable people — the mentally ill. Eastern State Hospital, built in 1773 in Williamsburg, Virginia, was the first public hospital in America for the care and treatment of the mentally ill. Many more followed. Much of the motivation to build more mental institutions was to provide a remedy for the maltreatment of mentally ill people in our prisons. According to professor William Gronfein at Indiana University-Purdue University Indianapolis, by 1955 there were nearly 560,000 patients housed in state mental institutions across the nation. By 1977, the population of mental institutions had dropped to about 160,000 patients.
+
+Starting in the 1970s, advocates for closing mental hospitals argued that because of the availability of new psychotropic drugs, people with mental illness could live among the rest of the population in an unrestrained natural setting. According to a 2013 Wall Street Journal article by Dr. E. Fuller Torrey, founder of the Treatment Advocacy Center, titled "Fifty Years of Failing America's Mentally Ill" (http://tinyurl.com/y9l8ujww), shutting down mental hospitals didn't turn out the way advocates promised. Several studies summarized by the Treatment Advocacy Center show that untreated mentally ill are responsible for 10 percent of homicides (and a higher percentage of the mass killings). They are 20 percent of jail and prison inmates and more than 30 percent of the homeless.
+
+We often encounter these severely mentally ill individuals camped out in libraries, parks, hospital emergency rooms and train stations and sleeping in cardboard boxes. They annoy passers-by with their sometimes intimidating panhandling. The disgusting quality of life of many of the mentally ill makes a mockery of the lofty predictions made by the advocates of shutting down mental institutions and transferring their function to community mental health centers, or CMHCs. Torrey writes: "The evidence is overwhelming that this federal experiment has failed, as seen most recently in the mass shootings by mentally ill individuals in Newtown, Conn., Aurora, Colo., and Tucson, Ariz. It is time for the federal government to get out of this business and return the responsibility, and funds, to the states."
+
+Getting the federal government out of the mental health business may be easier said than done. A 1999 U.S. Supreme Court ruling in the case of Olmstead v. L.C. held that under the Americans with Disabilities Act, individuals with mental disabilities have the right to live in an integrated community setting rather than in institutions. The U.S. Department of Justice defined an integrated setting as one "that enables individuals with disabilities to interact with non-disabled persons to the fullest extent possible." Though some mentally ill people may have benefited from this ruling, many others were harmed — not to mention the public, which must put up with the behavior of the mentally ill.
+
+
+
+Torrey says it has now become politically correct to claim that this federal program failed because not enough centers were funded and not enough money was spent. But that's not true. Torrey says: "Altogether, the annual total public funds for the support and treatment of mentally ill individuals is now more than $140 billion. The equivalent expenditure in 1963 when President John F. Kennedy proposed the CMHC program was $1 billion, or about $10 billion in today's dollars. Even allowing for the increase in U.S. population, what we are getting for this 14-fold increase in spending is a disgrace."
+
+The dollar cost of this liberal vision of deinstitutionalization of mentally ill people is a relatively small part of the burden placed on society. Many innocent people have been assaulted, robbed and murdered by mentally ill people. Businesspeople and their customers have had to cope with the nuisance created by the mentally ill. The police response to misbehavior and crime committed by the mentally ill is to arrest them. Thus, they are put in jeopardy of mistreatment by hardened criminals in the nation's jails and prisons. Worst of all is the fact that the liberals who engineered the shutting down of mental institutions have never been held accountable for their folly.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate webpage at www.creators.com.
