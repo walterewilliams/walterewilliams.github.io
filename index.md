@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "Who are the militia? Are they not ourselves? Is it feared, then, that we  shall turn our arms each man against his own bosom? Congress shall have no power to disarm the militia. Their swords, and every other terrible implement of the soldier, are the birthright of an American ... The unlimited power of the sword is not in the hands of either the federal or state governments, but where I trust in God it will ever remain, in the hands of the People."  Tench Coxe, Pennsylvania Gazette, Feb. 20, 1788.
+#### "A wise and frugal government. . . shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government." —Thomas Jefferson (1801)
 
 ### Items of Interest 
 
