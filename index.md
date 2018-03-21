@@ -7,7 +7,7 @@ image:
 
 ### Wisdom of the Month
 
-#### "Every individual necessarily labors to render the annual revenue of the society as great as he can. He generally indeed neither intends to promote the public interest, nor knows how much he is promoting it.… He intends only his own gain, and he is in this, as in many other cases, led by an invisible hand to promote an end which was not part of his intention.... By pursuing his own interest he frequently promotes that of the society more effectually than when he really intends to promote it. I have never known much good done by those who affected to trade for the public good." Adam Smith, "An Inquiry into the Nature and Causes of the Wealth of Nations" 1776
+#### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams (1749)
 
 ### Items of Interest 
 
