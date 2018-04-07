@@ -11,6 +11,7 @@ image:
 
 ### Items of Interest 
 
+* [Books Promoting Economic Understanding](/Libertas.pdf)
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
 * [Black Fathers Matter](https://www.prageru.com/courses/political-science/black-fathers-matter)
 * [The Real Adam Smith - Morality and Markets](http://freetochoose.tv/program.php?id=adam_smith_morality&series=adam_smith) 

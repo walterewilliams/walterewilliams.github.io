@@ -6,6 +6,7 @@ modified:
 tags: [websites, Jekyll, theme, responsive]
 ---
 
+* [Books Promoting Economic Understanding](/Libertas.pdf)
 * [Communism at "Peace"](http://communiststats.com/)
 * [Fraser Institute](http://www.fraserinstitute.org/)
 * [Mercatus Center](http://www.mercatus.org/)
