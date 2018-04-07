@@ -1,6 +1,6 @@
  ---
 
-image:
+
 ---
 
 ### Wisdom of the Month
