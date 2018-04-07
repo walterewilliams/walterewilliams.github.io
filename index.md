@@ -1,7 +1,7 @@
- ---
+ 
 
 
----
+
 
 ### Wisdom of the Month
 
