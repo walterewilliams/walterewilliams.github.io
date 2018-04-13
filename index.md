@@ -1,6 +1,4 @@
- 
-
-
+[Forthcoming lecture: The Role of Government in a Free Society](https://gustavus.edu/events/lindau/index.php)
 
 
 ### Wisdom of the Month
