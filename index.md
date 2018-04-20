@@ -1,6 +1,3 @@
-### [FORTHCOMING LECTURE: The Role of Government in a Free Society](https://gustavus.edu/events/lindau/index.php)
-
-
 ### Wisdom of the Month
 
 #### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams (1749)
