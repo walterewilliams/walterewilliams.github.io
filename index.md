@@ -1,6 +1,7 @@
 ### Wisdom of the Month
 
-#### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams (1749)
+#### "An elective despotism was not the government we fought for; but one in which the powers of government should be so divided and balanced among the several bodies of magistracy as that no one could transcend their legal limits without being effectually checked and restrained by the others." James Madison,  Federalist No. 58 (February 20, 1788) 
+
 
 ### Items of Interest 
 
