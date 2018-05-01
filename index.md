@@ -1,7 +1,6 @@
 ### Wisdom of the Month
 
-#### "An elective despotism was not the government we fought for; but one in which the powers of government should be so divided and balanced among the several bodies of magistracy as that no one could transcend their legal limits without being effectually checked and restrained by the others." James Madison,  Federalist No. 58 (February 20, 1788) 
-
+#### "Facts are stubborn things; and whatever may be our wishes, our inclination, or the dictates of our passions, they cannot alter the state of facts and evidence." —John Adams (1770)
 
 ### Items of Interest 
 
