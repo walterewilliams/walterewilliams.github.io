@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Facts are stubborn things; and whatever may be our wishes, our inclination, or the dictates of our passions, they cannot alter the state of facts and evidence." —John Adams (1770)
+#### "The aim of public education is not to spread enlightenment at all; it is simply to reduce as many individuals as possible to the same safe level, to breed a standard citizenry, to put down dissent and originality."  H.L. Mencken
 
 ### Items of Interest 
 
