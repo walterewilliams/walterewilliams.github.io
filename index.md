@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "The aim of public education is not to spread enlightenment at all; it is simply to reduce as many individuals as possible to the same safe level, to breed a standard citizenry, to put down dissent and originality."  H.L. Mencken
+#### "Those gentlemen, who will be elected senators, will fix themselves in the federal town, and become citizens of that town more than of your state." —George Mason (1788)
 
 ### Items of Interest 
 
