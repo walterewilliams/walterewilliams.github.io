@@ -1,6 +1,7 @@
 ### Wisdom of the Month
 
-#### "Those gentlemen, who will be elected senators, will fix themselves in the federal town, and become citizens of that town more than of your state." —George Mason (1788)
+#### "Remember democracy never lasts long. It soon wastes, exhausts, and murders itself. There never was a democracy yet that did not commit suicide."  John Adams, Letter to John Taylor [April 15, 1814]
+
 
 ### Items of Interest 
 
