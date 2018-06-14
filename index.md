@@ -1,7 +1,6 @@
 ### Wisdom of the Month
 
-#### "Remember democracy never lasts long. It soon wastes, exhausts, and murders itself. There never was a democracy yet that did not commit suicide."  John Adams, Letter to John Taylor [April 15, 1814]
-
+#### "I love the man that can smile in trouble, that can gather strength from distress, and grow brave by reflection. 'Tis the business of little minds to shrink; but he whose heart is firm, and whose conscience approves his conduct, will pursue his principles unto death." —Thomas Paine 1776
 
 ### Items of Interest 
 
