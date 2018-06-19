@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "I love the man that can smile in trouble, that can gather strength from distress, and grow brave by reflection. 'Tis the business of little minds to shrink; but he whose heart is firm, and whose conscience approves his conduct, will pursue his principles unto death." —Thomas Paine 1776
+#### "If individuals be not influenced by moral principles; it is in vain to look for public virtue; it is, therefore, the duty of legislators to enforce, both by precept and example, the utility, as well as the necessity of a strict adherence to the rules of distributive justice." James Madison 1789
 
 ### Items of Interest 
 
