@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "If individuals be not influenced by moral principles; it is in vain to look for public virtue; it is, therefore, the duty of legislators to enforce, both by precept and example, the utility, as well as the necessity of a strict adherence to the rules of distributive justice." James Madison 1789
+#### "If a nation expects to be ignorant — and free — in a state of civilization, it expects what never was and never will be." —Thomas Jefferson 1816
 
 ### Items of Interest 
 
