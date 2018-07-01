@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "If a nation expects to be ignorant — and free — in a state of civilization, it expects what never was and never will be." —Thomas Jefferson 1816
+#### "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people." —Tenth Amendment
 
 ### Items of Interest 
 
