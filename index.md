@@ -1,6 +1,7 @@
 ### Wisdom of the Month
 
-#### "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people." —Tenth Amendment
+#### "Yesterday, the greatest question was decided which ever was debated in America, and a greater perhaps never was nor will be decided among men. A resolution passed without one dissenting colony, "that these United Colonies are, and of right ought to be, free and independent States." – John Adams, Letter to Abigail Adams (July 3, 1776)
+
 
 ### Items of Interest 
 
