@@ -1,7 +1,6 @@
 ### Wisdom of the Month
 
-#### "Yesterday, the greatest question was decided which ever was debated in America, and a greater perhaps never was nor will be decided among men. A resolution passed without one dissenting colony, "that these United Colonies are, and of right ought to be, free and independent States." – John Adams, Letter to Abigail Adams (July 3, 1776)
-
+#### "Whereas, to preserve liberty, it is essential that the whole body of the people always possess arms, and be taught alike, especially when young, how to use them... The mind that aims at a select militia, must be influenced by a truly anti-republican principle; and when we see many men disposed to practice upon it, whenever they can prevail, no wonder true republicans are for carefully guarding against it." —Federal Farmer 1787
 
 ### Items of Interest 
 
