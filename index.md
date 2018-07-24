@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Whereas, to preserve liberty, it is essential that the whole body of the people always possess arms, and be taught alike, especially when young, how to use them... The mind that aims at a select militia, must be influenced by a truly anti-republican principle; and when we see many men disposed to practice upon it, whenever they can prevail, no wonder true republicans are for carefully guarding against it." —Federal Farmer 1787
+#### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams 1749
 
 ### Items of Interest 
 
