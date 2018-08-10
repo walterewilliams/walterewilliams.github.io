@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams 1749
+#### "We must make our election between economy and Liberty, or profusion and servitude." —Thomas Jefferson 1816
 
 ### Items of Interest 
 
