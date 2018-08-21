@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "We must make our election between economy and Liberty, or profusion and servitude." —Thomas Jefferson 1816
+#### "A wise and frugal government ... shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government." —Thomas Jefferson (1801)
 
 ### Items of Interest 
 
