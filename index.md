@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "A wise and frugal government ... shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government." —Thomas Jefferson (1801)
+#### "Patriotism is as much a virtue as justice, and is as necessary for the support of societies as natural affection is for the support of families." —Benjamin Rush 1773
 
 ### Items of Interest 
 
