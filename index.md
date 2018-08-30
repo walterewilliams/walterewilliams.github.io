@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Patriotism is as much a virtue as justice, and is as necessary for the support of societies as natural affection is for the support of families." —Benjamin Rush 1773
+#### "Facts are stubborn things; and whatever may be our wishes, our inclination, or the dictates of our passions, they cannot alter the state of facts and evidence." —John Adams 1770
 
 ### Items of Interest 
 
