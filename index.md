@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Facts are stubborn things; and whatever may be our wishes, our inclination, or the dictates of our passions, they cannot alter the state of facts and evidence." —John Adams 1770
+#### "Wherever the real power in a Government lies, there is the danger of oppression." —James Madison 1788
 
 ### Items of Interest 
 
