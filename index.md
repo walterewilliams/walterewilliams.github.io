@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Wherever the real power in a Government lies, there is the danger of oppression." —James Madison 1788
+#### "Without Freedom of Thought there can be no such Thing as Wisdom; and no such Thing as Public Liberty, without Freedom of Speech." Benjamin Franklin 
 
 ### Items of Interest 
 
