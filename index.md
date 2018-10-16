@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Without Freedom of Thought there can be no such Thing as Wisdom; and no such Thing as Public Liberty, without Freedom of Speech." Benjamin Franklin 
+#### "In selecting men for office, let principle be your guide. Regard not the particular sect or denomination of the candidate — look to his character." —Noah Webster 1789
 
 ### Items of Interest 
 
