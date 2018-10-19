@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "In selecting men for office, let principle be your guide. Regard not the particular sect or denomination of the candidate — look to his character." —Noah Webster 1789
+#### "When People are universally ignorant, and debauchd in their Manners, they will sink under their own weight without the Aid of foreign Invaders." —Samuel Adams 1775
 
 ### Items of Interest 
 
