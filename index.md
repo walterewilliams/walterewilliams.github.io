@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "When People are universally ignorant, and debauched in their Manners, they will sink under their own weight without the Aid of foreign Invaders." —Samuel Adams 1775
+#### Fear is the foundation of most governments. John Adams, Thoughts on Government 1776
 
 ### Items of Interest 
 
