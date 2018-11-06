@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### Fear is the foundation of most governments. John Adams, Thoughts on Government 1776
+#### "Laws are made for men of ordinary understanding and should, therefore, be construed by the ordinary rules of common sense. Their meaning is not to be sought for in metaphysical subtleties which may make anything mean everything or nothing at pleasure."  —Thomas Jefferson 1823
 
 ### Items of Interest 
 
