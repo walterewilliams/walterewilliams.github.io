@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Laws are made for men of ordinary understanding and should, therefore, be construed by the ordinary rules of common sense. Their meaning is not to be sought for in metaphysical subtleties which may make anything mean everything or nothing at pleasure."  —Thomas Jefferson 1823
+#### "The most sacred of the duties of a government [is] to do equal and impartial justice to all citizens." —Thomas Jefferson 1816
 
 ### Items of Interest 
 
