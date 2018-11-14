@@ -10,7 +10,7 @@ tags: [courses, Jekyll, theme, responsive]
 
 **Econ 306**
 <br>
-[Syllabus for Econ 306, Spring 2018](econ306spring2018.pdf)
+[Syllabus for Econ 306, Spring 2019](econ306spring2019.pdf)
 <br>
 [Final exam study questions](magnificence)
 
