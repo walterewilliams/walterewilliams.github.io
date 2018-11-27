@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "We are all Republicans — we are all Federalists. If there be any among us who would wish to dissolve this Union or to change its republican form, let them stand undisturbed as monuments of the safety with which error of opinion may be tolerated where reason is left free to combat it. Thomas Jefferson, First Inaugural Address March 4, 1801
+#### "The only freedom which deserves the name, is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs, or impede their efforts to obtain it."  John Stuart Mill
 
 ### Items of Interest 
 
