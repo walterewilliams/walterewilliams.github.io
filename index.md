@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "The only freedom which deserves the name, is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs, or impede their efforts to obtain it."  John Stuart Mill
+#### "No people will tamely surrender their Liberties, nor can any be easily subdued, when knowledge is diffusd and Virtue is preservd. On the Contrary, when People are universally ignorant, and debauchd in their Manners, they will sink under their own weight without the Aid of foreign Invaders." Samuel Adams 1775
 
 ### Items of Interest 
 
