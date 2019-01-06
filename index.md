@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "No people will tamely surrender their Liberties, nor can any be easily subdued, when knowledge is diffusd and Virtue is preservd. On the Contrary, when People are universally ignorant, and debauchd in their Manners, they will sink under their own weight without the Aid of foreign Invaders." Samuel Adams 1775
+#### "The ultimate result of shielding men from the effects of folly is to fill the world with fools."  Herbert Spencer, Essays 1891
 
 ### Items of Interest 
 
