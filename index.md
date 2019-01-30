@@ -1,6 +1,7 @@
 ### Wisdom of the Month
 
-#### "The ultimate result of shielding men from the effects of folly is to fill the world with fools."  Herbert Spencer, Essays 1891
+#### When plunder becomes a way of life for a group of men living together in society, they create for themselves in the course of time a legal system that authorizes it and a moral code that glorifies it." French economist and statesman Frederic Bastiat (1801-1850)
+
 
 ### Items of Interest 
 
