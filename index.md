@@ -34,4 +34,4 @@
 * ["Good Intentions."](http://www.youtube.com/watch?v=P1r-r6iLBEI&feature=PlayList&p=8F6669EBA4AD450E&index=0&playnext=1) Walter Williams, 1985 PBS documentary. Examines the failure of the war on poverty and the devastating effect of well meaning government policies.
 * ["State Against Blacks."](http://www.youtube.com/watch?v=jwGWDis2dJw&feature=related) Walter Williams, 1985 PBS documentary. Another examination of well-meaning government policies.. (Parts [I](http://www.youtube.com/watch?v=jwGWDis2dJw&feature=related), [II](http://www.youtube.com/watch?v=_r9H4X26faU&feature=related), [III](http://www.youtube.com/watch?v=CPQXAVv_OEk&feature=related), [IV](http://www.youtube.com/watch?v=vlIi7Pg9osM&feature=related), [V](http://www.youtube.com/watch?v=1vd4aqgVC5Y&feature=related) and [VI](http://www.youtube.com/watch?v=zWvyTQlkqsk&feature=related)).
 * [Great Myths of the Great Depression](/miscellaneous/GreatMythsOfTheGreatDepression.pdf)
-* Economics for the Citizen(http://econfaculty.gmu.edu/wew/misc/EconomicsForTheCitizen.pdf)
+* [Economics for the Citizen](http://econfaculty.gmu.edu/wew/misc/EconomicsForTheCitizen.pdf)
