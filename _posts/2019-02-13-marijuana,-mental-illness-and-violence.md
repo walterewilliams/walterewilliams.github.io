@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Marijuana, Mental Illness and Violence"
+excerpt:
+---
+
+
+
+Ten states and Washington, D.C., have legalized the recreational use of marijuana. Twenty-two other states, along with U.S. territories Puerto Rico and Guam, allow marijuana to be used for medical purposes. Let's examine some hidden issues about marijuana use. Before we start, permit me to state my values about medical or recreational use of any drug. We each own ourselves. If we choose to take chances with substances that can ruin our health, lead to death and otherwise destroy our own lives, that's our right. But we do not have a right to harm others in the process of harming ourselves.
+
+Alex Berenson is a graduate of Yale University, with degrees in history and economics. He delivered a speech last month at Hillsdale College's Allan P. Kirby, Jr. Center for Constitutional Studies and Citizenship in Washington, D.C., on the hidden dangers of marijuana use (http://tinyurl.com/yd933ocy). He told his audience, "Almost everything that you think you know about the health effects of cannabis, almost everything that advocates and the media have told you for a generation, is wrong."
+
+The active ingredient in marijuana is tetrahydrocannabinol, or THC. Marijuana is most commonly prescribed for pain, but it's rarely tested against other pain relief drugs, such as ibuprofen. Last July, a large four-year study of Australian patients with chronic pain showed that cannabis use was associated with greater pain over time. Marijuana, like alcohol, is too weak as a painkiller for people with terminal cancer. They need opiates. Berenson said, "Even cannabis advocates, like Rob Kampia, who co-founded the Marijuana Policy Project ... acknowledge that they have always viewed medical marijuana laws mostly as a way to protect recreational users."
+
+Marijuana legalization advocates sometimes argue that its use reduces opiate use. That is untrue. Berenson said, "The United States and Canada, which are the countries that have the most opioid use, also have by far the worst problem with ... cannabis." Marijuana carries not only a devastating physical health risk but also mental health dangers. A 2017 National Academy of Medicine study found that "cannabis use is likely to increase the risk of developing schizophrenia and other psychoses; the higher the use, the greater the risk. ... Regular cannabis use is likely to increase the risk for developing social anxiety disorder." Also, a paper in the American Journal of Psychiatry last year showed that people who used cannabis in 2001 were almost three times as likely to use opiates three years later, even after adjusting for other potential risks.
+
+Something else that's not given much attention is that cannabis today is much more potent than it was in the 1970s, when most marijuana contained less than 2 percent THC. Today marijuana routinely contains 20 to 25 percent THC, as a result of sophisticated farming and cloning techniques. As such, it produces a stronger and quicker high. Berenson said that the difference between yesterday's marijuana and today's is like the difference between "near beer and a martini."
+
+Berenson cited several studies and other findings showing a relationship between marijuana use and violence and crime. According to a 2007 paper in The Medical Journal of Australia on 88 felons who had committed homicide during psychotic episodes, almost two-thirds reported misusing cannabis. A 2012 paper in the Journal of Interpersonal Violence examined a federal survey of more than 9,000 adolescents and found that marijuana use was associated with a doubling of domestic violence. The first four states to legalize marijuana for recreational use were Colorado, Washington, Alaska and Oregon. In 2013, those states combined had about 450 murders and 30,300 aggravated assaults. In 2017, they had almost 620 murders and 38,000 aggravated assaults — an increase of 37 percent for murders and 25 percent for aggravated assaults, far greater than the national increase, even after accounting for differences in population growth.
+
+One of the problems with legalization of marijuana is that it gives social sanction to its use. A preferable strategy would be simple decriminalization, which does not imply social sanction. Moreover, where there is no criminal activity associated with any drug usage, it should be treated as a medical problem, as opposed to a criminal problem.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate webpage at www.creators.com.
