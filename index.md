@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### When plunder becomes a way of life for a group of men living together in society, they create for themselves in the course of time a legal system that authorizes it and a moral code that glorifies it." French economist and statesman Frederic Bastiat (1801-1850)
+#### "There is no maxim in my opinion which is more liable to be misapplied, and which therefore needs elucidation than the current one that the interest of the majority is the political standard of right and wrong.... In fact it is only reestablishing under another name and a more specious form, force as the measure of right." James Madison 1786
 
 
 ### Items of Interest 
