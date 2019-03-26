@@ -1,7 +1,6 @@
 ### Wisdom of the Month
 
-#### "There is no maxim in my opinion which is more liable to be misapplied, and which therefore needs elucidation than the current one that the interest of the majority is the political standard of right and wrong.... In fact it is only reestablishing under another name and a more specious form, force as the measure of right." James Madison 1786
-
+#### "Facts are stubborn things; and whatever may be our wishes, our inclination, or the dictates of our passions, they cannot alter the state of facts and evidence." —John Adams 1770
 
 ### Items of Interest 
 
