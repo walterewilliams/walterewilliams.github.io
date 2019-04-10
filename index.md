@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "There is no maxim in my opinion which is more liable to be misapplied, and which therefore needs elucidation than the current one that the interest of the majority is the political standard of right and wrong." —James Madison 1786
+#### "If it be asked, What is the most sacred duty and the greatest source of our security in a Republic? The answer would be, An inviolable respect for the Constitution and Laws — the first growing out of the last... A sacred respect for the constitutional law is the vital principle, the sustaining energy of a free government." — Alexander Hamilton 1794
 
 ### Items of Interest 
 
