@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "If it be asked, What is the most sacred duty and the greatest source of our security in a Republic? The answer would be, An inviolable respect for the Constitution and Laws — the first growing out of the last... A sacred respect for the constitutional law is the vital principle, the sustaining energy of a free government." — Alexander Hamilton 1794
+#### "To prevent crimes, is the noblest end and aim of criminal jurisprudence. To punish them, is one of the means necessary for the accomplishment of this noble end and aim." —James Wilson 1790
 
 ### Items of Interest 
 
