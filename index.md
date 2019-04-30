@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Society in every state is a blessing, but government even in its best state is but a necessary evil; in its worst state an intolerable one; for when we suffer, or are exposed to the same miseries by a government, which we might expect in a country without government, our calamity is heightened by reflecting that we furnish the means by which we suffer. ' Thomas Paine, Common Sense 1776
+#### "The advantage of being armed, which the Americans possess over the people of almost every other nation ... forms a barrier against the enterprises of ambition, more insurmountable than any which a simple government of any form can admit of." —James Madison 1788
 
 ### Items of Interest 
 
