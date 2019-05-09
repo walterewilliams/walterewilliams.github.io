@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "The advantage of being armed, which the Americans possess over the people of almost every other nation ... forms a barrier against the enterprises of ambition, more insurmountable than any which a simple government of any form can admit of." —James Madison 1788
+#### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams 
 
 ### Items of Interest 
 
