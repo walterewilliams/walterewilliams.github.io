@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams 
+#### [T]he sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection. The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, either physical or moral, is not sufficient warrant. He cannot rightfully be compelled to do or forbear because it will be better for him to do so, because it will make him happier, because in the opinions of others, to do so would be wise, or even right.  John Stuart Mill 
 
 ### Items of Interest 
 
