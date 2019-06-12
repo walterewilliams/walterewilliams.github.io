@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." —Samuel Adams 1749)
+#### "Those who won our independence... valued liberty as an end and as a means. They believed liberty to be the secret of happiness and courage to be the secret of liberty. Louis D. Brandeis
 
 ### Items of Interest 
 
