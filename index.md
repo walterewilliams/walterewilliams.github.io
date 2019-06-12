@@ -16,7 +16,7 @@
 * [American Contempt for Liberty](http://www.hooverpress.org/productdetails.cfm?PC=1630) Selected collection of my weekly syndicated columns.
 * [Profit](https://www.youtube.com/watch?v=tdHwewUuXBg) Prager University five-minute video
 * [Walter Williams at FEE](http://www.fee.org/the_freeman/detail/walter-williams-at-fee)
-* [Suffer No Fools](https://www.freetochoosenetwork.org/programs/suffer_no_fools/) based on Up From The Projects: An Autobiography that aired on PBS stations winter/spring (2015)
+* [Suffer No Fools](https://vimeo.com/87869924) based on Up From The Projects: An Autobiography that aired on PBS stations winter/spring (2015)
 * [President Herbert Hoover and the Great Depression](http://www.prageruniversity.com/History/Hoover-and-the-Great-Depression.html#.U58wRY1OWot)
 * [George Gilder, “Why Capitalism Works.”](http://www.prageruniversity.com/Economics/Why-Capitalism-Works.html#.Ux20p42Yaot)
 * [Walter E. Williams Videos Over The Years](http://libertypenblog.blogspot.com/p/walter-e-williams.html)
