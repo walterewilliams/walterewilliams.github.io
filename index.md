@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Those who won our independence... valued liberty as an end and as a means. They believed liberty to be the secret of happiness and courage to be the secret of liberty. Louis D. Brandeis
+#### "Sometimes it is said that man cannot be trusted with the government of himself. Can he, then, be trusted with the government of others? Or have we found angels in the forms of kings to govern him? Let history be the answer to this question." – Thomas Jefferson, First Inaugural Address March 4, 1801
 
 ### Items of Interest 
 
