@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Sometimes it is said that man cannot be trusted with the government of himself. Can he, then, be trusted with the government of others? Or have we found angels in the forms of kings to govern him? Let history be the answer to this question." – Thomas Jefferson, First Inaugural Address March 4, 1801
+#### "Extremism in the defense of liberty is no vice. Moderation in the pursuit of justice is no virtue."  Barry Goldwater
 
 ### Items of Interest 
 
