@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Extremism in the defense of liberty is no vice. Moderation in the pursuit of justice is no virtue."  Barry Goldwater
+#### "If Congress can do whatever in their discretion can be done by money, and will promote the General Welfare, the Government is no longer a limited one, possessing enumerated powers, but an indefinite one, subject to particular exceptions." —James Madison 1792
 
 ### Items of Interest 
 
