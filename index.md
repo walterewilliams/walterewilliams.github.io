@@ -1,6 +1,7 @@
 ### Wisdom of the Month
 
-#### "If Congress can do whatever in their discretion can be done by money, and will promote the General Welfare, the Government is no longer a limited one, possessing enumerated powers, but an indefinite one, subject to particular exceptions." —James Madison 1792
+#### "Whereas, to preserve liberty, it is essential that the whole body of the people always possess arms, and be taught alike, especially when young, how to use them; nor does it follow from this, that all promiscuously must go into actual service on every occasion. The mind that aims at a select militia, must be influenced by a truly anti-republican principle; and when we see many men disposed to practice upon it, whenever they can prevail, no wonder true republicans are for carefully guarding against it."
+– Richard Henry Lee, The Pennsylvania Gazette 1788
 
 ### Items of Interest 
 
