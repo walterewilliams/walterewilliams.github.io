@@ -1,7 +1,6 @@
 ### Wisdom of the Month
 
-#### "Whereas, to preserve liberty, it is essential that the whole body of the people always possess arms, and be taught alike, especially when young, how to use them; nor does it follow from this, that all promiscuously must go into actual service on every occasion. The mind that aims at a select militia, must be influenced by a truly anti-republican principle; and when we see many men disposed to practice upon it, whenever they can prevail, no wonder true republicans are for carefully guarding against it."
-– Richard Henry Lee, The Pennsylvania Gazette 1788
+#### "Whereas, to preserve liberty, it is essential that the whole body of the people always possess arms, and be taught alike, especially when young, how to use them; nor does it follow from this, that all promiscuously must go into actual service on every occasion. The mind that aims at a select militia, must be influenced by a truly anti-republican principle; and when we see many men disposed to practice upon it, whenever they can prevail, no wonder true republicans are for carefully guarding against it."  – Richard Henry Lee, The Pennsylvania Gazette 1788
 
 ### Items of Interest 
 
