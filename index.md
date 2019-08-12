@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "Whereas, to preserve liberty, it is essential that the whole body of the people always possess arms, and be taught alike, especially when young, how to use them; nor does it follow from this, that all promiscuously must go into actual service on every occasion. The mind that aims at a select militia, must be influenced by a truly anti-republican principle; and when we see many men disposed to practice upon it, whenever they can prevail, no wonder true republicans are for carefully guarding against it."  – Richard Henry Lee, The Pennsylvania Gazette 1788
+#### "The state -- or, to make matters more concrete, the government -- consists of a gang of men exactly like you and me. They have, taking one with another, no special talent for the business of government; they have only a talent for getting and holding office. Their principal device to that end is to search out groups who pant and pine for something they can't get, and to promise to give it to them. Nine times out of ten that promise is worth nothing. The tenth time it is made good by looting 'A' to satisfy 'B'. In other words, government is a broker in pillage, and every election is a sort of advanced auction on stolen goods."   H.L. Mencken
 
 ### Items of Interest 
 
