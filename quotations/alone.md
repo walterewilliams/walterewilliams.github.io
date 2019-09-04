@@ -8,6 +8,8 @@ tags: [quotations, Jekyll, theme, responsive]
 ![Constitution](../../images/const1.gif "Constitution")   
 ![quill](../../images/quill.gif "Quill Image") 
 
+* "At no time, at no place, in solemn convention assembled, through no chosen agents, had the American people officially proclaimed the United States to be a democracy. The Constitution did not contain the word or any word lending countenance to it, except possibly the mention of "We, the people," in the preamble.... When the Constitution was framed no respectable person called himself or herself a democrat.  Charles Austin Beard and Mary Ritter Beard, America in Midpassage 1939
+<br>
 * "The men American people admire most extravagantly are the most daring liars; the men they detest most violently are those who try and tell them the truth" --H. L. Mencken
 
 * "Laws that forbid the carrying of arms...disarm only those who are neither inclined nor determined to commit crimes... Such laws make things worse for the assaulted and better for the assailants; they serve rather to encourage than to prevent homicides, for an unarmed man may be attacked with greater confidence than an armed man."  
