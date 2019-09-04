@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "The state -- or, to make matters more concrete, the government -- consists of a gang of men exactly like you and me. They have, taking one with another, no special talent for the business of government; they have only a talent for getting and holding office. Their principal device to that end is to search out groups who pant and pine for something they can't get, and to promise to give it to them. Nine times out of ten that promise is worth nothing. The tenth time it is made good by looting 'A' to satisfy 'B'. In other words, government is a broker in pillage, and every election is a sort of advanced auction on stolen goods."   H.L. Mencken
+#### "At no time, at no place, in solemn convention assembled, through no chosen agents, had the American people officially proclaimed the United States to be a democracy. The Constitution did not contain the word or any word lending countenance to it, except possibly the mention of "We, the people," in the preamble.... When the Constitution was framed no respectable person called himself or herself a democrat."  Charles Austin Beard and Mary Ritter Beard, America in Midpassage 1939
 
 ### Items of Interest 
 
