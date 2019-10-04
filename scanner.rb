@@ -32,7 +32,7 @@ if @most_recent_date != @page_date
   @body = @body.gsub("  ", "")
   @body = @body.gsub(/\n\n\n\n\n/, "\n")
   @body = @body.gsub(/\n/, "\n\n")
-  @body = @body.slice(0..(@body.index('webpage at www.creators.com.')))
+  @body = @body.slice(0..(@body.index('webpage at www.creators.com')))
   @body = @body + "ebpage at www.creators.com."
 
   open("/home/sean/wewio/_posts/"+markdown_title, 'w') do |f|
