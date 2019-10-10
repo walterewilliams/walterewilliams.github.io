@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-#### "At no time, at no place, in solemn convention assembled, through no chosen agents, had the American people officially proclaimed the United States to be a democracy. The Constitution did not contain the word or any word lending countenance to it, except possibly the mention of "We, the people," in the preamble.... When the Constitution was framed no respectable person called himself or herself a democrat."  Charles Austin Beard and Mary Ritter Beard, America in Midpassage 1939
+#### "A wise and frugal government ... shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government." —Thomas Jefferson 1801
 
 ### Items of Interest 
 
