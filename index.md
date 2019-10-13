@@ -1,7 +1,5 @@
 ### Wisdom of the Month
 
-#### "A wise and frugal government ... shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government." —Thomas Jefferson 1801
-
 ### "It is error alone which needs the support of government. Truth can stand by itself. Subject opinion to coercion: whom will you make your inquisitors?" —Thomas Jefferson 1781
 
 ### Items of Interest 
