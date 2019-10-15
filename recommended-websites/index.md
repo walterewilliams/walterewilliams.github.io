@@ -6,6 +6,7 @@ modified:
 tags: [websites, Jekyll, theme, responsive]
 ---
 
+* [Creating Wealth](https://www.jasonhartman.com/cw-1270-sensible-investing-walter-e-williams-american-contempt-for-liberty-race-economics-liberty-versus-the-tyranny-of-socialism/)
 * [Books Promoting Economic Understanding](/Libertas.pdf)
 * [Communism at "Peace"](http://communiststats.com/)
 * [Fraser Institute](http://www.fraserinstitute.org/)
