@@ -6,7 +6,7 @@
 
 ### Items of Interest 
 
-* [U.S. Constitution Connections - Dr. Walter Williams](https://youtu.be/ga9sOh0BwLchttps://youtu.be/ga9sOh0BwLc)
+* [U.S. Constitution Connections - Dr. Walter Williams](https://www.youtube.com/watch?v=ga9sOh0BwLc&feature=youtu.be)
 * [Books Promoting Economic Understanding pp16-18](/Libertas.pdf)
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
 * [Black Fathers Matter](https://www.bing.com/videos/search?q=why+black+fathers+matter&view=detail&mid=C2562C1104691294AFAAC2562C1104691294AFAA&FORM=VIRE)
