@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "It is error alone which needs the support of government. Truth can stand by itself. Subject opinion to coercion: whom will you make your inquisitors?" —Thomas Jefferson 1781"
+### "There are more instances of the abridgment of the freedom of the people by gradual and silent encroachments of those in power than by violent and sudden usurpations." — James Madison 1788
 
 ### "Whoever would overthrow the liberty of a nation must begin by subduing freeness of speech." Benjamin Franklin
 
