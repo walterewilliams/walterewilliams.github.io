@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "There are more instances of the abridgment of the freedom of the people by gradual and silent encroachments of those in power than by violent and sudden usurpations." — James Madison 1788
+### "The greatest [calamity] which could befall [us would be] submission to a government of unlimited powers." – Thomas Jefferson
 
 ### "Whoever would overthrow the liberty of a nation must begin by subduing freeness of speech." Benjamin Franklin
 
