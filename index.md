@@ -2,7 +2,7 @@
 
 ### "The greatest [calamity] which could befall [us would be] submission to a government of unlimited powers." – Thomas Jefferson
 
-### "Whoever would overthrow the liberty of a nation must begin by subduing freeness of speech." Benjamin Franklin
+### "We must confine ourselves to the powers described in the Constitution, and the moment we pass it, we take an arbitrary stride towards a despotic Government." James Jackson First Congress, 1st Annals of Congress
 
 ### Items of Interest 
 
