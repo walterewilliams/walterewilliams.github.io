@@ -2,7 +2,7 @@
 
 ### "The greatest [calamity] which could befall [us would be] submission to a government of unlimited powers." – Thomas Jefferson
 
-### "We must confine ourselves to the powers described in the Constitution, and the moment we pass it, we take an arbitrary stride towards a despotic Government." James Jackson First Congress, 1st Annals of Congress
+### "Republics are created by the virtue, public spirit, and intelligence of the citizens. They fall, when the wise are banished from the public councils, because they dare to be honest, and the profligate are rewarded, because they flatter the people, in order to betray them." —Justice Joseph Story 1833
 
 ### Items of Interest 
 
