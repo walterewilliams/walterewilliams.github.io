@@ -2,7 +2,8 @@
 
 ### "The greatest [calamity] which could befall [us would be] submission to a government of unlimited powers." – Thomas Jefferson
 
-### "Republics are created by the virtue, public spirit, and intelligence of the citizens. They fall, when the wise are banished from the public councils, because they dare to be honest, and the profligate are rewarded, because they flatter the people, in order to betray them." —Justice Joseph Story 1833
+### "The impossibility of any individual or small group conceiving of all the possibilities, let alone evaluating their merits, is the great argument against central governmental planning and against arrangements such as professional monopolies that limit the possibilities of experimentation."  Milton Friedman, "Capitalism and Freedom" 1962
+
 
 ### Items of Interest 
 
