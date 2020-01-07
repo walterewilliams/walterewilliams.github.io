@@ -2,7 +2,7 @@
 
 ### "The greatest [calamity] which could befall [us would be] submission to a government of unlimited powers." – Thomas Jefferson
 
-### "The impossibility of any individual or small group conceiving of all the possibilities, let alone evaluating their merits, is the great argument against central governmental planning and against arrangements such as professional monopolies that limit the possibilities of experimentation."  Milton Friedman, "Capitalism and Freedom" 1962
+###  "If Congress can do whatever in their discretion can be done by money, and will promote the general welfare, the government is no longer a limited one possessing enumerated powers, but an indefinite one subject to particular exceptions."  James Madison, Letter to Edmund Pendleton January 21, 1792
 
 
 ### Items of Interest 
