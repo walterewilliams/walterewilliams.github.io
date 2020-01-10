@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### Who are the militia? They consist now of the whole people, except a few public officers.  – George Mason, Virginia Ratifying Convention June 16, 1788
+### "Who are the militia? They consist now of the whole people, except a few public officers."  – George Mason, Virginia Ratifying Convention June 16, 1788
 
 ###  "If Congress can do whatever in their discretion can be done by money, and will promote the general welfare, the government is no longer a limited one possessing enumerated powers, but an indefinite one subject to particular exceptions."  James Madison, Letter to Edmund Pendleton January 21, 1792
 
