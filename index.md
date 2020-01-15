@@ -2,7 +2,7 @@
 
 ### "Who are the militia? They consist now of the whole people, except a few public officers."  – George Mason, Virginia Ratifying Convention June 16, 1788
 
-###  "If Congress can do whatever in their discretion can be done by money, and will promote the general welfare, the government is no longer a limited one possessing enumerated powers, but an indefinite one subject to particular exceptions."  James Madison, Letter to Edmund Pendleton January 21, 1792
+###  "No people will tamely surrender their Liberties, nor can any be easily subdued, when knowledge is diffused and virtue is preserved. On the contrary, when people are universally ignorant, and debauched in their manners, they will sink under their own weight without the aid of foreign invaders." —Samuel Adams 1775
 
 
 ### Items of Interest 
