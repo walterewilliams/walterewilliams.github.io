@@ -2,8 +2,8 @@
 
 ### "Who are the militia? They consist now of the whole people, except a few public officers."  – George Mason, Virginia Ratifying Convention June 16, 1788
 
-###  "No people will tamely surrender their Liberties, nor can any be easily subdued, when knowledge is diffused and virtue is preserved. On the contrary, when people are universally ignorant, and debauched in their manners, they will sink under their own weight without the aid of foreign invaders." —Samuel Adams 1775
-
+###  "Only a virtuous people are capable of freedom. As nations become more corrupt and vicious, they have more need of masters."
+      Benjamin Franklin
 
 ### Items of Interest 
 
