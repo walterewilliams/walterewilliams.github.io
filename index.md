@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "Who are the militia? They consist now of the whole people, except a few public officers."  – George Mason, Virginia Ratifying Convention June 16, 1788
+### "The only freedom which deserves the name is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs, or impede their efforts to obtain it.  John Stuart Mill, On Liberty 1869
 
 ###  "Only a virtuous people are capable of freedom. As nations become more corrupt and vicious, they have more need of masters."     Benjamin Franklin
 
