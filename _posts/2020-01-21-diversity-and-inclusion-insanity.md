@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Diversity and Inclusion Insanity"
+excerpt:
+---
+
+
+
+It's nearly impossible to have even a short conversation with a college administrator, politician or chief executive without the words diversity and inclusion dropping from their lips. Diversity and inclusion appear to be the end-all and be-all of their existence. So, I thought I'd begin this discussion by first looking up the definition of diversity. 
+
+According to the Oxford Dictionary, diversity is "the practice or quality of including or involving people from a range of different social and ethnic backgrounds and of different genders, sexual orientations, etc." The definition gratuitously adds, "equality and diversity should be supported for their own sake." The standard definition given for inclusion is involvement and empowerment where the inherent worth and dignity of all people are recognized. 
+
+Here's my question to those who are wedded to diversity and inclusion: Are people better off the less they have in common with one another? For example, women are less likely to be able to march 12.4 miles in five hours with an 83-pound assault load. They are also less likely to be able to crawl, sprint, negotiate obstacles and move a wounded comrade weighing 165 pounds while carrying that load. Would anyone argue that a military outfit would benefit from diversity by including soldiers who can and those who cannot march 12 miles in five hours while carrying an 83-pound load?
+
+You say, "Williams, the military is an exception!" What about language? The International Civil Aviation Organization has decreed that all air traffic controllers and flight crew members engaged in or in contact with international flights must be proficient in the English language as a general spoken medium. According to UNESCO, there are about 7,000 languages in the world. The International Civil Aviation Organization could promote language inclusiveness by requiring language rotation. Some years, Cebuano (of the Malayo-Polynesian language family) and in other years Kinyarwanda (of the Niger-Congo language family) could be the language of pilots and air traffic controllers. Keep in mind that it is claimed that the great benefit of diversity and inclusiveness is that it promotes and fosters a sense of belonging. It values and practices respect for the differences in the talents, beliefs, backgrounds and ways of living of its members.
+
+Another issue is what should be done when people who should know better praise nondiversity and noninclusiveness? Civil rights leader Rev. Jesse L. Jackson said, "I applaud commissioner Adam Silver's commitment to diversity and inclusion within the NBA." During the 2018-2019 season, more than 33% of NBA teams had head coaches of color. The number of assistant head coaches of color was over 42%. The number of black NBA players was 82%. In the face of these statistics, Oris Stuart, the NBA's chief diversity and inclusion officer said, "Diversity, inclusion and equality are central to every aspect of our game and our business." I would like for Jesse Jackson and others who claim that there's racial diversity and inclusiveness in professional basketball to make their case. The same question can be asked about professional football where 70% of NFL players are black, and 9% of team head coaches are black. The thornier question and challenge is what can be done to make professional basketball and football look more like the American population?
+
+
+
+Most of the diversity and inclusiveness insanity has its roots in academia. An example is a paper titled "Equilibrium Grade Inflation with Implications for Female Interest in STEM Majors," written by Naval Postgraduate School professor Thomas Ahn, Duke University economics professor Peter Arcidiacono, Duke University researcher Amy Hopson, and James R. Thomas of the Federal Trade Commission. The authors argue that science, technology, engineering and mathematics programs at colleges and universities lacking female enrollment can be attributed largely to harsh grading policies in these fields. Their solution to increase the number of women's involvement in STEM is to standardize grading curves, in order to grade less "harshly." The insanity of this approach is to not only weaken standards for women but to weaken standards across the board. This is more evidence that George Orwell was absolutely right when he said, "There are some ideas so absurd that only an intellectual could believe them."
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate webpage at www.creators.com.
