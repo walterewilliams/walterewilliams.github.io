@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "A More or Less Perfect Union"
+excerpt:
+---
+
+
+
+"A More or Less Perfect Union" is a three-part series, produced by Free to Choose Network, that will air on various PBS stations across the nation starting in February. The documentary is a personal exploration of the U.S. Constitution by Justice Douglas Ginsburg, who served on the U.S. Court of Appeals D.C. Circuit and is now a senior justice on the court. Ginsburg explores the U.S. Constitution and features interviews with and gains the perspectives from constitutional experts of all political views — liberal, conservative and libertarian. He examines the key issues of liberty in the U.S. both from a historical and contemporary perspective. Among those issues are freedom of the press and religion, slavery and civil rights, the Second Amendment, separation of powers and the number of ways that the Constitution's framers sought to limit the power of the federal government.
+
+The first episode is titled "A Constitution in Writing." It examines the contentious atmosphere that arose among the delegates in that hot, humid Philadelphia summer of 1787. State delegates were sent to Philadelphia to work out the problems of the Articles of Confederation, which served as the first Constitution of the 13 original states. This part of the documentary examines some of the efforts to deal with the problems of the Articles of Confederation while maintaining its guiding principle to preserve the independence and sovereignty of the states. It also examines the compromises and struggles that led to the document we know as the U.S. Constitution. Some of the framers, particularly the Anti-Federalists, led by Patrick Henry, saw the Constitution as defective and demanded amendments be added that contained specific guarantees of personal freedoms and rights and clear limitations on the federal government's power. They swore that they would never ratify the Constitution unless it contained a Bill of Rights. 
+
+The second episode is titled "A Constitution for All." One major emphasis of this episode is the examination of the Supreme Court decisions that undermined racial justice both for slaves and later ex-slaves for a century after the Civil War. Several constitutional scholars discuss how the courts and states ignored and weakened the 13th, 14th, and 15th Amendments, known collectively as the Civil War Amendments, which were designed to ensure equality for recently emancipated slaves. There is also discussion of Bill of Rights guarantees to people accused of a crime. There is more exploration into the Bill of Rights guarantees of free speech, religious freedom and the notion that "due process of law" be part of any proceeding that denies a citizen "life, liberty or property." This forced the government to compensate citizens when it takes private property for public use.
+
+Episode three, "Our Constitution at Risk," examines the many ways that our Constitution is under assault today. It points out that the framers would be shocked by how all three branches of government have grown as a result of what we the people demand from our elected representatives. There's a discussion about how some of our Bill of Rights guarantees mean absolutely nothing today, namely the 9th and 10th Amendments, which reaffirm personal liberty by specifically limiting the federal government to its "enumerated powers."
+
+"A More or Less Perfect Union" is not just a bunch of academics and constitutional experts preaching. It features interviews with everyday Americans weighing in with their visions on the rule of law, the branches of government and the debate over originalism. There's a companion book titled "Voices of Our Republic," edited by Ginsburg. It is a collection of thoughts about the Constitution from judges, journalists, and academics. It includes the thoughts of Supreme Court Justices Ruth Bader Ginsburg, Neil Gorsuch and Sandra Day O'Connor, publisher Arthur Sulzberger, professor Alan Dershowitz, Governor Arnold Schwarzenegger, and historians Joseph Ellis and Ron Chernow, along with Jack Nicklaus, Gene Simmons and many others.
+
+The most important audience for "A More or Less Perfect Union" is high school and college students. For it is they who stand a good chance of losing the liberties that made our nation the greatest and freest on earth.
+
+
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate webpage at www.creators.com.
