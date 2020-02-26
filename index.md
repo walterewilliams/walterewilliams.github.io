@@ -1,9 +1,8 @@
 ### Wisdom of the Month
 
-### "The greatest [calamity] which could befall [us would be] submission to a government of unlimited powers." – Thomas Jefferson
+### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." - Samuel Adams 1749
 
-### "The impossibility of any individual or small group conceiving of all the possibilities, let alone evaluating their merits, is the great argument against central governmental planning and against arrangements such as professional monopolies that limit the possibilities of experimentation."  Milton Friedman, "Capitalism and Freedom" 1962
-
+###  "Only a virtuous people are capable of freedom. As nations become more corrupt and vicious, they have more need of masters."     Benjamin Franklin
 
 ### Items of Interest 
 

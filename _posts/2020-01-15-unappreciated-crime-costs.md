@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Unappreciated Crime Costs"
+excerpt:
+---
+
+
+
+Criminal activity imposes huge costs on black residents in low-income neighborhoods of cities such as Chicago, Baltimore, Detroit, St. Louis, Philadelphia and many others. Thousands of black Americans were murdered in 2019. Over 90% of the time, the perpetrator was also black. Leftists and social justice warriors charge that what blacks have to fear most is being shot and killed by police, but the numbers don't add up. For several years, The Washington Post has been documenting police shootings in America. Last year, 933 people were shot and killed by police. Twenty-three percent (212) of people shot and killed were black; 35% (331) were white; 16% (155) were Hispanic and 201 were of other or unknown races. The high homicide rate within the black community doesn't begin to tell the full tragedy.
+
+Crime imposes a hefty tax on people who can least afford it. They are the law-abiding residents of black neighborhoods. Residents must bear the time cost and other costs of having to shop outside of their neighborhoods. Supermarkets that are abundant in low-crime neighborhoods are absent or scarce in high-crime, low-income neighborhoods. Because of the paucity of supermarkets and other big-box stores in these neighborhoods, some "experts" and academicians have labeled them as "food deserts." That's the ridiculous suggestion that white supermarket merchants and big-box store owners don't like green dollars coming out of black hands. The true villains of the piece are the criminals who make some businesses unprofitable. By the way, these are equal opportunity criminals. They will victimize a black-owned business just as they would victimize a white-owned business. The high crime rates in many black neighborhoods have the effect of outlawing economic growth and opportunities.
+
+In low-crime neighborhoods, FedEx, UPS and other delivery companies routinely leave packages containing valuable merchandise on a doorstep if no one is home. That saves the expense of redelivery and saves recipients the expense of having to go pick up the packages. In high-crime neighborhoods, delivery companies leaving packages at the door or supermarkets leaving goods outside unattended would be equivalent to economic suicide. Fearing robberies, taxi drivers, including black drivers, often refuse to accept telephone calls for home pickups and frequently pass prospective black customers who hail them on the street. Plus, there's the insult associated with not being able to receive pizzas or other deliveries on the same terms as people in other neighborhoods. 
+
+Another often-overlooked impact of crime is lower property values. Homes that wouldn't fetch $10,000, $20,000 or $40,000 suddenly fetch hundreds of thousands when large numbers of middle- and upper-income people purchase formerly run-down properties and fix them up. This is called gentrification, where wealthier, predominantly white, people bid higher rental prices thus forcing out low-income residents. As a result of gentrification, there is greater police protection and other neighborhood amenities increase.
+
+Many make the erroneous assumption that black people don't care about crime. But black people strongly disapprove of the day-to-day violence that's all too common in their communities. What compounds that problem is a deep mistrust of police in poor black neighborhoods. This distrust, along with fear of reprisals by black criminals, causes an atmosphere of noncooperation with the police. It creates the "stop snitching" principle. This principle of snitches being worse than criminals themselves only exacerbates the crime problem in black communities by giving aid and comfort to the true enemies of the community — those who prey on the community and have little fear of being brought to justice. In some cities, less than 10% of murderers are ever charged.
+
+
+
+For decades, the problems of blacks could be laid at the feet of racial discrimination. Our ancestors started a civil rights struggle and won. Today, the most devastating problems of blacks are entirely self-inflicted such as high illegitimacy, family breakdown and unsafe communities. These problems have little to do with civil rights. But as long as blacks buy into the notion that white racism is the source of their problems, the solutions will be elusive forever.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate webpage at www.creators.com.
