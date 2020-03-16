@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt." - Samuel Adams 1749
+### "Reason and Ignorance, the opposites of each other, influence the great bulk of mankind. If either of these can be rendered sufficiently extensive in a country, the machinery of Government goes easily on. Reason obeys itself; and Ignorance submits to whatever is dictated to it."  Thomas Paine, Rights of Man 1791
 
 ###  "Only a virtuous people are capable of freedom. As nations become more corrupt and vicious, they have more need of masters."     Benjamin Franklin
 
