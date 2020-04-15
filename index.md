@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "Reason and Ignorance, the opposites of each other, influence the great bulk of mankind. If either of these can be rendered sufficiently extensive in a country, the machinery of Government goes easily on. Reason obeys itself; and Ignorance submits to whatever is dictated to it."  Thomas Paine, Rights of Man 1791
+### "The same prudence which in private life would forbid our paying our own money for unexplained projects, forbids it in the dispensation of the public moneys." —Thomas Jefferson 1808
 
 ### "An elective despotism was not the government we fought for, but one which should not only be founded on true free principles, but in which the powers of government should be so divided and balanced among general bodies of magistracy, as that no one could transcend their legal limits without being effectually checked and restrained by the others."  Thomas Jefferson, Notes on Virginia 1782
 
