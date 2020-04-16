@@ -3,7 +3,7 @@ require "open-uri"
 
 @most_recent_date = File.open('recent_date.txt', 'rb') { |file| file.read }
 
-doc = Nokogiri::HTML(open("http://www.creators.com/read/walter-williams"))
+doc = Nokogiri::HTML(open("https://www.creators.com/read/walter-williams"))
 
 def format_date(date)
   date.strftime("%Y-%m-%d-")
@@ -25,7 +25,7 @@ end
 
 if @most_recent_date != @page_date
   @date = format_date(Date.parse(@page_date))
-  article = Nokogiri::HTML(open("http://www.creators.com/read/walter-williams"))
+  article = Nokogiri::HTML(open("https://www.creators.com/read/walter-williams"))
   @article_title = article.css(".article-title").text
   @title = format_title(article.css(".article-title").text)
   @body = article.css(".article-content").text
