@@ -2,7 +2,7 @@
 
 ### "The same prudence which in private life would forbid our paying our own money for unexplained projects, forbids it in the dispensation of the public moneys." —Thomas Jefferson 1808
 
-### "An elective despotism was not the government we fought for, but one which should not only be founded on true free principles, but in which the powers of government should be so divided and balanced among general bodies of magistracy, as that no one could transcend their legal limits without being effectually checked and restrained by the others."  Thomas Jefferson, Notes on Virginia 1782
+### "The end of the law is, not to abolish or restrain, but to preserve and enlarge freedom. – John Locke, The Second Treatise of Civil Government 1690
 
 ### Items of Interest 
 
