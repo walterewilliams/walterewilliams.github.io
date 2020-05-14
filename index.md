@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "We lay it down as a fundamental, that laws, to be just, must give a reciprocation of right; that, without this, they are mere arbitrary rules of conduct, founded in force, and not in conscience." —Thomas Jefferson 1782
+### You have rights antecedent to all earthly governments; rights that cannot be repealed or restrained by human laws; rights derived from the Great Legislator of the Universe. – John Adams
 
 ### "The end of the law is, not to abolish or restrain, but to preserve and enlarge freedom. – John Locke, The Second Treatise of Civil Government 1690
 
