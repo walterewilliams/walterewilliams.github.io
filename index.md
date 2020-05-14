@@ -4,6 +4,8 @@
 
 ### "The end of the law is, not to abolish or restrain, but to preserve and enlarge freedom. – John Locke, The Second Treatise of Civil Government 1690
 
+### "Republics are created by the virtue, public spirit, and intelligence of the citizens. They fall, when the wise are banished from the public councils, because they dare to be honest, and the profligate are rewarded, because they flatter the people, in order to betray them." —Joseph Story 1833
+
 ### Items of Interest 
 
 * [U.S. Constitution Connections - Dr. Walter Williams](https://www.youtube.com/watch?v=ga9sOh0BwLc&feature=youtu.be)
