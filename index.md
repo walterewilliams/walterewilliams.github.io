@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### You have rights antecedent to all earthly governments; rights that cannot be repealed or restrained by human laws; rights derived from the Great Legislator of the Universe. – John Adams
+### "You have rights antecedent to all earthly governments; rights that cannot be repealed or restrained by human laws; rights derived from the Great Legislator of the Universe." – John Adams
 
 ### "The end of the law is, not to abolish or restrain, but to preserve and enlarge freedom. – John Locke, The Second Treatise of Civil Government 1690
 
