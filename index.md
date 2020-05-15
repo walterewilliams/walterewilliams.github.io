@@ -2,9 +2,7 @@
 
 ### "You have rights antecedent to all earthly governments; rights that cannot be repealed or restrained by human laws; rights derived from the Great Legislator of the Universe." – John Adams
 
-### "The end of the law is, not to abolish or restrain, but to preserve and enlarge freedom. – John Locke, The Second Treatise of Civil Government 1690
-
-### "Republics are created by the virtue, public spirit, and intelligence of the citizens. They fall, when the wise are banished from the public councils, because they dare to be honest, and the profligate are rewarded, because they flatter the people, in order to betray them." —Joseph Story 1833
+### Any alleged 'right' of one man, which necessitates the violation of the rights of another, is not and cannot be a right. – Ayn Rand 
 
 ### Items of Interest 
 
