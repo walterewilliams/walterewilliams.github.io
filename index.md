@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "You have rights antecedent to all earthly governments; rights that cannot be repealed or restrained by human laws; rights derived from the Great Legislator of the Universe." – John Adams
+### "The price system has two outstanding features. First, it is by all odds the most efficient system of social organization ever conceived. It makes it possible for huge multitudes to cooperate effectively, multitudes who may hardly know each other's existence, or whose personal attitudes toward one another may be indifference or hostility. Second, it affords a maximum of individual freedom and a minimum of coercion. And since people can cooperate effectively in production even when their attitudes on other issues are hostile, there is no need for unity and conformity in religion, politics, recreation, and language--or even in patriotism and good will except in the very broadest sense." – W. Allen Wallis, The Freeman July 1957
 
 ### Any alleged 'right' of one man, which necessitates the violation of the rights of another, is not and cannot be a right. – Ayn Rand 
 
