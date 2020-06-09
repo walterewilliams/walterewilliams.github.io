@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "The price system has two outstanding features. First, it is by all odds the most efficient system of social organization ever conceived. It makes it possible for huge multitudes to cooperate effectively, multitudes who may hardly know each other's existence, or whose personal attitudes toward one another may be indifference or hostility. Second, it affords a maximum of individual freedom and a minimum of coercion. And since people can cooperate effectively in production even when their attitudes on other issues are hostile, there is no need for unity and conformity in religion, politics, recreation, and language--or even in patriotism and good will except in the very broadest sense." – W. Allen Wallis, The Freeman July 1957
+### "Without liberty, law loses its nature and its name, and becomes oppression. Without law, liberty also loses its nature and its name, and becomes licentiousness." James Wilson 1790
 
 ### "The most sacred of the duties of a government [is] to do equal and impartial justice to all citizens." —Thomas Jefferson 1816
 
