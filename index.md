@@ -2,7 +2,7 @@
 
 ### "Without liberty, law loses its nature and its name, and becomes oppression. Without law, liberty also loses its nature and its name, and becomes licentiousness." James Wilson 1790
 
-### "God grants liberty only to those who love it, and are always ready to guard and defend it.  Daniel Webster 1834
+### "God grants liberty only to those who love it, and are always ready to guard and defend it." Daniel Webster 1834
 
 ### Items of Interest 
 
