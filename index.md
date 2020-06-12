@@ -2,7 +2,7 @@
 
 ### "Without liberty, law loses its nature and its name, and becomes oppression. Without law, liberty also loses its nature and its name, and becomes licentiousness." James Wilson 1790
 
-### "God grants liberty only to those who love it, and are always ready to guard and defend it." Daniel Webster 1834
+### "If individuals be not influenced by moral principles; it is in vain to look for public virtue; it is, therefore, the duty of legislators to enforce, both by precept and example, the utility, as well as the necessity of a strict adherence to the rules of distributive justice." —James Madison (1789)
 
 ### Items of Interest 
 
