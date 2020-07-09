@@ -2,7 +2,7 @@
 
 ### "The opinion which gives to the judges the right to decide what laws are constitutional and what not, not only for themselves, in their, own sphere of action, but for the Legislature and Executive also in their spheres, would make the Judiciary a despotic branch." —Thomas Jefferson 1804
 
-### "If individuals be not influenced by moral principles; it is in vain to look for public virtue; it is, therefore, the duty of legislators to enforce, both by precept and example, the utility, as well as the necessity of a strict adherence to the rules of distributive justice." —James Madison (1789)
+### "Who are the militia? Are they not ourselves? Is it feared, then, that we shall turn our arms each man against his own bosom. Congress have no power to disarm the militia. Their swords, and every other terrible implement of the soldier, are the birthright of an American...[T]he unlimited power of the sword is not in the hands of either the federal or state governments, but, where I trust in God it will ever remain, in the hands of the people."  Tench Coxe, The Pennsylvania Gazette February 20, 1788
 
 ### Items of Interest 
 
