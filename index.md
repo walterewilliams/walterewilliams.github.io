@@ -6,6 +6,7 @@
 
 ### Items of Interest 
 
+* [Introduction to the Bill of Rights](https://www.statutes-of-limitations.com/news/read/introduction-to-the-bill-of-rights)
 * [U.S. Constitution Connections - Dr. Walter Williams](https://www.youtube.com/watch?v=ga9sOh0BwLc&feature=youtu.be)
 * [Books Promoting Economic Understanding pp16-18](/Libertas.pdf)
 * [2017 Bradley Prize Winners](http://bradleyprizes.bradleyfdn.org/Winners/The-2017-Bradley-Prizes-Ceremony)
