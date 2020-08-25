@@ -18,7 +18,7 @@ tags: [courses, Jekyll, theme, responsive]
 
 **Econ 811**
 <br>
-[Syllabus for Econ 811, Fall 2019](Econ 811.syllabus. Fall.19.pdf)
+[Syllabus for Econ 811, Fall 2020](Econ 811 Fall 2020.pdf)
 <br>
 [Bibliography for Economics 811](bibliography)
 <br>
