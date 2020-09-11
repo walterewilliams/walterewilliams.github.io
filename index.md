@@ -2,7 +2,7 @@
 
 ### "I can find no warrant for such an appropriation in the Constitution, and I do not believe that the power and duty of the General Government ought to be extended to the relief of individual suffering which is in no manner properly related to the public service or benefit. The friendliness and charity of our countrymen can always be relied upon to relieve their fellow-citizens in misfortune." Grover Cleveland, Letter to the House of Representatives 1887
 
-### "Patriotism is as much a virtue as justice, and is as necessary for the support of societies as natural affection is for the support of families." —Benjamin Rush 1773
+### "The government of the United States is a definite government, confined to specified objects. It is not like the state governments, whose powers are more general. Charity is no part of the legislative duty of the government." — James Madison
 
 ### Items of Interest 
 
