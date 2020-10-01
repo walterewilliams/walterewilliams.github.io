@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "I can find no warrant for such an appropriation in the Constitution, and I do not believe that the power and duty of the General Government ought to be extended to the relief of individual suffering which is in no manner properly related to the public service or benefit. The friendliness and charity of our countrymen can always be relied upon to relieve their fellow-citizens in misfortune." Grover Cleveland, Letter to the House of Representatives 1887
+### "Americans are so enamored by EQUALITY they would rather be EQUAL in SLAVERY then UN EQUAL in FREEDOM." - Alexis de Tocqueville
 
 ### "The government of the United States is a definite government, confined to specified objects. It is not like the state governments, whose powers are more general. Charity is no part of the legislative duty of the government." — James Madison
 
