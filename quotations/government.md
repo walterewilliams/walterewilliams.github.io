@@ -15,11 +15,11 @@ tags: [government, Jekyll, theme, responsive]
 * "As democracy is perfected, the office of the President represents, more and more closely, the inner soul of the people. On some great and glorious day, the plain folks of the land will reach their heart's desire at last and the White House will be occupied by a downright fool and complete narcissistic moron."  
 **-- H.L. Mencken, the Baltimore Evening Sun, July 26, 1920**  
 <br>
-* "The government of the United States is a definite government, confined to specified objects. It is not like state governments, whose powers are more general. Charity is no part of the legislative duty of the government."  
-* "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt."  
-**-- Samuel Adams Essay in the Public Advertiser, 1749**  
+* "The government of the United States is a definite government, confined to specified objects. It is not like state governments, whose powers are more general. Charity is no part of the legislative duty of the government."
+**-- James Madison, speech in the House of Representatives, January 10, 1794** 
 <br>
-**-- James Madison, speech in the House of Representatives, January 10, 1794**  
+* "Neither the wisest constitution nor the wisest laws will secure the liberty and happiness of a people whose manners are universally corrupt."  
+**-- Samuel Adams Essay in the Public Advertiser, 1749**   
 <br>
 * "Democracy will soon degenerate into an anarchy; such an anarchy that every man will do what is right in his own eyes and no man's life or property or reputation or liberty will be secure, and every one of these will soon mould itself into a system of subordination of all the moral virtues and intellectual abilities, all the powers of wealth, beauty, wit, and science, to the wanton pleasures, the capricious will, and the execrable cruelty of one or a very few."  
 **-- John Adams, An Essay on Man's Lust for Power (1763)**  
