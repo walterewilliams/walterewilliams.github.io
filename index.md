@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "Americans are so enamored by EQUALITY they would rather be EQUAL in SLAVERY then UN EQUAL in FREEDOM." - Alexis de Tocqueville
+### "Americans are so enamored by equality they would rather be equal in slavery than unequal in fredom." - Alexis de Tocqueville
 
 ### "The government of the United States is a definite government, confined to specified objects. It is not like the state governments, whose powers are more general. Charity is no part of the legislative duty of the government." — James Madison
 
