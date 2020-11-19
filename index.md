@@ -2,7 +2,7 @@
 
 ### "Americans are so enamored by equality they would rather be equal in slavery than unequal in fredom." - Alexis de Tocqueville
 
-### "The government of the United States is a definite government, confined to specified objects. It is not like the state governments, whose powers are more general. Charity is no part of the legislative duty of the government." — James Madison
+### "Congress has not unlimited powers to provide for the general welfare, but only those specifically enumerated." -- Thomas Jefferson
 
 ### Items of Interest 
 
