@@ -1,6 +1,6 @@
 ### Wisdom of the Month
 
-### "Americans are so enamored by equality they would rather be equal in slavery than unequal in fredom." - Alexis de Tocqueville
+### "No one can read our Constitution without concluding that the people who wrote it wanted their government severely limited; the words "no" and "not" employed in restraint of governmental power occur 24 times in the first seven articles of the Constitution and 22 more times in the Bill of Rights. – Richard M. Ebeling, "The Real Meaning of Thanksgiving" November 2016
 
 ### "Congress has not unlimited powers to provide for the general welfare, but only those specifically enumerated." -- Thomas Jefferson
 
