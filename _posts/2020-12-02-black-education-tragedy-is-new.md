@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Black Education Tragedy Is New"
+excerpt:
+---
+
+
+
+Several years ago, Project Baltimore began an investigation of Baltimore's school system. What they found was an utter disgrace. In 19 of Baltimore's 39 high schools, out of 3,804 students, only 14 of them, or less than 1%, were proficient in math. In 13 of Baltimore's high schools, not a single student scored proficient in math. In five Baltimore City high schools, not a single student scored proficient in math or reading. Despite these academic deficiencies, about 70% of the students graduate and are conferred a high school diploma — a fraudulent high school diploma.
+
+The Detroit Public Schools Community District scored the lowest in the nation compared to 26 other urban districts for reading and mathematics at the fourth- and eighth-grade levels. A recent video captures some of this miseducation in Milwaukee high schools: In two city high schools, only one student tested proficient in math and none are proficient in English. Yet, the schools spent a full week learning about "systemic racism" and "Black Lives Matter activism." By the way, a Nov. 19, 2020, Milwaukee Journal Sentinel article asks: "How many Black teachers did you have? I've only had two." The article concludes, "For future Black students, that number needs to go up." New York City is one of many school systems in the United States set to roll out Black Lives Matter-themed lesson plans. According to the NYC Department of Education, teachers will delve into "systemic racism," police brutality and white privilege in their classrooms. 
+
+Should we blame this education tragedy on racial discrimination or claim that it is a legacy of slavery? Dr. Thomas Sowell's research in "Education: Assumptions Versus History" documents academic excellence at Baltimore's Frederick Douglass High School and others. This academic excellence occurred during the late 1800s to mid-1900s, an era when blacks were much poorer than today and faced gross racial discrimination. Frederick Douglass High School of yesteryear produced many distinguished alumni, such as Thurgood Marshall and Cab Calloway, and several judges, congressmen and civil rights leaders. Frederick Douglass High School was second in the nation in black Ph.Ds. among its alumni.
+
+Also, in Sowell's "Education: Assumptions Versus History" is the story of Paul Laurence Dunbar High School, a black public school in Washington, D.C. As early as 1899, its students scored higher on citywide tests than any of the city's white schools. From its founding in 1870 to 1955, most of its graduates went off to college. Dunbar's distinguished alumni include U.S. Sen. Edward Brooke, physician Charles Drew and, during World War II, nearly a score of majors, nine colonels and lieutenant colonels, and a brigadier general. Today's Paul Laurence Dunbar and Frederick Douglass high schools have material resources that would have been unimaginable to their predecessors. However, having those resources have meant absolutely nothing in terms of academic achievement.
+
+If we accept the notion that rotten education is not preordained, then I wonder when the black community will demand an end to an educational environment that condemns so many youngsters to mediocrity. You can bet the rent money that white liberals and high-income blacks would not begin to accept the kind of education for their children that most blacks receive. 
+
+The school climate, seldom discussed, plays a very important role in education. During the 2017-18 school year, there were an estimated 962,300 violent incidents and 476,100 nonviolent incidents in U.S. public schools nationwide. Schools with 1,000 or more students had at least one sworn law enforcement officer. About 90% of those law enforcement officers carry firearms. Aside from violence, there are many instances of outright disrespect for teachers. First- and second-graders telling teachers to "Shut the f—- up" and calling teachers "b——h." 
+
+Years ago, much of the behavior of young people that we see today would have never been tolerated. There was the vice principal's office where corporal punishment would be administered for gross infractions. If the kid was unwise enough to tell his parents what happened, he might get more punishment at home. Today, unfortunately, we have replaced practices that worked with practices that sound good and caring. And we are witnessing the results.
+
+Walter E. Williams is a professor of economics at George Mason University. To find out more about Walter E. Williams and read features by other Creators Syndicate writers and cartoonists, visit the Creators Syndicate webpage at www.creators.com.
